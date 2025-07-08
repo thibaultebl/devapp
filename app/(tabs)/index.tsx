@@ -1,14 +1,13 @@
-import React, { useState, useEffect } from 'react';
-import { View, Text, ScrollView, TouchableOpacity, StyleSheet, SafeAreaView } from 'react-native';
-import { Settings, RotateCcw } from 'lucide-react-native';
-import { UserPreferences, FilterKey, Restaurant } from '../../types/restaurant';
+import React, { useState } from 'react';
+import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView } from 'react-native';
+import { Settings, RotateCcw, CheckCircle } from 'lucide-react-native';
+import { UserPreferences, FilterKey } from '../../types/restaurant';
 import { questions } from '../../utils/mockData';
-import { filterRestaurants } from '../../utils/restaurantFilter';
+import { savePreferences } from '../../utils/preferenceStorage';
 import QuestionCard from '../../components/QuestionCard';
 import ProgressBar from '../../components/ProgressBar';
-import RestaurantCard from '../../components/RestaurantCard';
 
-type FlowState = 'start' | 'questions' | 'results';
+type FlowState = 'start' | 'questions' | 'completed';
 
 export default function HomeScreen() {
   const [flowState, setFlowState] = useState<FlowState>('start');
@@ -25,8 +24,6 @@ export default function HomeScreen() {
     noise: null,
     seating: null
   });
-  const [filteredRestaurants, setFilteredRestaurants] = useState<Restaurant[] | null>(null);
-
 
   const handleStartFlow = () => {
     setFlowState('questions');
@@ -48,7 +45,6 @@ export default function HomeScreen() {
   const handleRestart = () => {
     setFlowState('start');
     setCurrentQuestionIndex(0);
-    setFilteredRestaurants(null);
   };
 
   const handleOptionSelect = (option: any) => {
@@ -84,14 +80,13 @@ export default function HomeScreen() {
     }
   };
 
-  const handleNext = () => {
+  const handleNext = async () => {
     if (currentQuestionIndex < questions.length - 1) {
       setCurrentQuestionIndex(prev => prev + 1);
     } else {
-      // Finished questions, show results
-      const results = filterRestaurants(preferences);
-      setFilteredRestaurants(results);
-      setFlowState('results');
+      // Finished questions, save preferences
+      await savePreferences(preferences);
+      setFlowState('completed');
     }
   };
 
@@ -117,10 +112,13 @@ export default function HomeScreen() {
         </View>
 
         <View style={styles.startContent}>
-          <Text style={styles.welcomeTitle}>Find Your Perfect Restaurant !</Text>
+          <Text style={styles.welcomeTitle}>Tell Us Your Preferences</Text>
+          <Text style={styles.welcomeSubtitle}>
+            Answer a few questions to help us understand your dining preferences
+          </Text>
 
           <TouchableOpacity style={styles.startButton} onPress={handleStartFlow}>
-            <Text style={styles.startButtonText}>Let's go !</Text>
+            <Text style={styles.startButtonText}>Let's Start</Text>
           </TouchableOpacity>
         </View>
       </SafeAreaView>
@@ -157,7 +155,7 @@ export default function HomeScreen() {
     );
   }
 
-  // Results state
+  // Completed state
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
@@ -169,33 +167,17 @@ export default function HomeScreen() {
         </TouchableOpacity>
       </View>
 
-      <ScrollView style={styles.resultsContainer}>
-        <Text style={styles.resultsTitle}>
-          {filteredRestaurants?.length === 0 
-            ? 'No matches found' 
-            : `Found ${filteredRestaurants?.length} perfect ${filteredRestaurants?.length === 1 ? 'match' : 'matches'}`
-          }
+      <View style={styles.completedContainer}>
+        <CheckCircle size={80} color="#10B981" />
+        <Text style={styles.completedTitle}>Preferences Saved!</Text>
+        <Text style={styles.completedSubtitle}>
+          Your dining preferences have been successfully recorded and saved.
         </Text>
-
-        {filteredRestaurants?.length === 0 ? (
-          <View style={styles.noResultsContainer}>
-            <Text style={styles.noResultsText}>
-              Try adjusting your preferences or explore restaurants in different areas.
-            </Text>
-            <TouchableOpacity style={styles.retryButton} onPress={handleRestart}>
-              <Text style={styles.retryButtonText}>Try Again</Text>
-            </TouchableOpacity>
-          </View>
-        ) : (
-          filteredRestaurants?.map((restaurant) => (
-            <RestaurantCard
-              key={restaurant.id}
-              restaurant={restaurant}
-              showFullDetails={true}
-            />
-          ))
-        )}
-      </ScrollView>
+        
+        <TouchableOpacity style={styles.restartFullButton} onPress={handleRestart}>
+          <Text style={styles.restartFullButtonText}>Start Over</Text>
+        </TouchableOpacity>
+      </View>
     </SafeAreaView>
   );
 }
@@ -255,37 +237,36 @@ const styles = StyleSheet.create({
     fontSize: 18,
     fontWeight: '700'
   },
-  resultsContainer: {
+  completedContainer: {
     flex: 1,
-    paddingHorizontal: 24
+    justifyContent: 'center',
+    alignItems: 'center',
+    paddingHorizontal: 32
   },
-  resultsTitle: {
-    fontSize: 24,
+  completedTitle: {
+    fontSize: 28,
     fontWeight: '700',
     color: '#1F2937',
     textAlign: 'center',
-    marginVertical: 24
+    marginTop: 24,
+    marginBottom: 16
   },
-  noResultsContainer: {
-    alignItems: 'center',
-    paddingVertical: 40
-  },
-  noResultsText: {
-    fontSize: 16,
+  completedSubtitle: {
+    fontSize: 18,
     color: '#6B7280',
     textAlign: 'center',
-    lineHeight: 24,
-    marginBottom: 24
+    lineHeight: 26,
+    marginBottom: 48
   },
-  retryButton: {
+  restartFullButton: {
     backgroundColor: '#000000',
-    paddingVertical: 12,
-    paddingHorizontal: 24,
-    borderRadius: 8
+    paddingVertical: 16,
+    paddingHorizontal: 32,
+    borderRadius: 16
   },
-  retryButtonText: {
+  restartFullButtonText: {
     color: '#FFFFFF',
-    fontSize: 16,
-    fontWeight: '600'
+    fontSize: 18,
+    fontWeight: '700'
   }
 });

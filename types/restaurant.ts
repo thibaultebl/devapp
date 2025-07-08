@@ -1,17 +1,3 @@
-export interface Restaurant {
-  id: string;
-  name: string;
-  rating: number;
-  cuisine: string;
-  priceRange: 'cheap' | 'moderate' | 'expensive';
-  distance: number; // in kilometers
-  ambiance: string[];
-  description: string;
-  imageUrl: string;
-  address: string;
-  googleMapsUrl: string;
-}
-
 export interface Question {
   id: string;
   text: string;
