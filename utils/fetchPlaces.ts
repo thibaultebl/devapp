@@ -1,8 +1,8 @@
 import fs from "fs/promises";
 import fetch from "node-fetch";
 
-const nearbyApiKey = "AIzaSyC339PSTbM5RU0ykGexdiPxzm1JCDPzjdM";
-const detailsApiKey = "AIzaSyBogkta-03vAlrSTcM59X0LIYpQXeEr-B4";
+const nearbyApiKey = "AIzaSyAJIaHSfSaxodPUT7teMDVVoEODMZ70uuY";
+const detailsApiKey = "AIzaSyDJW8p6maf1oF8tt7G5i-2HyNspHHuyNeM";
 
 const userLocation = "-34.527866,-56.283372";
 const radius = "25000";
