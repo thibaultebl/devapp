@@ -3,7 +3,7 @@ import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView } from 'react-na
 import { Settings, RotateCcw, CircleCheck as CheckCircle } from 'lucide-react-native';
 import { UserPreferences, FilterKey } from '../../types/restaurant';
 import { questions } from '../../utils/mockData';
-import { savePreferences } from '../../utils/preferenceStorage';
+import { saveCriteria } from '../../utils/criteriaStorage';
 import QuestionCard from '../../components/QuestionCard';
 import ProgressBar from '../../components/ProgressBar';
 
@@ -85,7 +85,7 @@ export default function HomeScreen() {
       setCurrentQuestionIndex(prev => prev + 1);
     } else {
       // Finished questions, save preferences
-      await savePreferences(preferences);
+      await saveCriteria(preferences);
       setFlowState('completed');
     }
   };
