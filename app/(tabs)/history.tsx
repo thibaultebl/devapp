@@ -3,7 +3,7 @@ import { View, Text, ScrollView, TouchableOpacity, StyleSheet, SafeAreaView, Ale
 import { Trash2, Clock } from 'lucide-react-native';
 import { Restaurant } from '../../types/restaurant';
 import { getHistory, clearHistory } from '../../utils/storage';
-import RestaurantCard from '../../components/RestaurantCard';
+import RestaurantCard from '../../../components/RestaurantCard';
 
 export default function HistoryScreen() {
   const [history, setHistory] = useState<Restaurant[]>([]);
