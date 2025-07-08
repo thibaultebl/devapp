@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView } from 'react-native';
-import { Settings, RotateCcw, CheckCircle } from 'lucide-react-native';
+import { Settings, RotateCcw, CircleCheck as CheckCircle } from 'lucide-react-native';
 import { UserPreferences, FilterKey } from '../../types/restaurant';
 import { questions } from '../../utils/mockData';
 import { savePreferences } from '../../utils/preferenceStorage';
