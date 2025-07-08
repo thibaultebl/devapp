@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView, ScrollView, ActivityIndicator } from 'react-native';
-import { Sparkles, Star, Clock, RotateCcw, CheckCircle } from 'lucide-react-native';
+import { Sparkles, Star, Clock, RotateCcw, CircleCheck as CheckCircle } from 'lucide-react-native';
 import { UserPreferences, FilterKey } from '../../types/restaurant';
 import { questions } from '../../utils/mockData';
 import { saveCriteria, getCriteria } from '../../utils/criteriaStorage';
