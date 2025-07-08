@@ -1,0 +1,2645 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5137006,
+        "lng": -56.2752067
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.5124737697085,
+          "lng": -56.2740859197085
+        },
+        "southwest": {
+          "lat": -34.5151717302915,
+          "lng": -56.2767838802915
+        }
+      }
+    },
+    "name": "Restaurante El Rancho Canelones",
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116725403223998795110\">Graciela Febles</a>"
+        ],
+        "photo_reference": "ATKogpe_tJMhfSRnaDGjc9-b3k046bcKFsVy_qJfITeJgGzfIwQ1JNRgZwRELxi3vC-HGkpvOa6pQ6vQigp7Y88eB0H0ZwaMtqQH1XJPf4RD-_L48D18AJzK1O6VE6eQFoH_gveuj8jJl5Piu3fkoB-LdUmZw0NXj79u3M-71-IEQw_dlseI7jDf1hI9IyGPdpnzili6HWcgP5-7aodk9pR9X2PZMQYhbftrQzaG2FlUlga7tJ9jvJEbTTN44WUnLGeV8ORD3n3aR-Nil6vF5YChkNvJpPyiLe43zSUJf9DTgyxpT1BNrYqY_8B1pO1wJ2YJR_gEzQtlVLQBCozmA02EJyeitoU7Rt1qtXsst00hzi7huV_lMlRLiD8r9ZyacqWRzZ7gea_efLMa6apM3NEG2-alQwloWfoSFWuXn0VD-pHug-RE",
+        "width": 3072
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106874760816704357218\">VALTER FEDERICO ABREU CABRERA</a>"
+        ],
+        "photo_reference": "ATKogpfCAwL-QVtl0bP1J8jwQNZraXplo0Lj_qGYgQd6DRWW9vmqgAZZzNds7fpjaOLojC93yPm3prClIHoxA_9-S0YiYH9hSRWb31dMdbsBZSa1HiLPjj4PpNgGl3rKs_Fgb5_OzGdoa0i21Gynclche-8Wc83bTavXc5k1ggk2c92_B26U7VP4N9qP8z1cLI6KAWowXAqXJLOu7lS5elb1cZ1um_ZsMPMRB1NcbFpvfgG-BA29s5uHKanMXOqFekM6oh_sGI4k-6CZ2PhVWuiUYAhB28vZnH-5aw-q4nAiRUWXww8OFE1bSOc6eQWwSECJ8QcVF66biLX1ZS0oybaGoZj1gn5Gomu7urMDqkqKw8ONP02i4jj6JtMCWzJm8BhQFkytjG3eavkvOCJR1-3TM7On2HNatrDKiEfMfcbpI7RFIE6v",
+        "width": 4032
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111602692020770109433\">jose rossi</a>"
+        ],
+        "photo_reference": "ATKogpcW1HW5N8FGK47gxADUkNqeZkYY1Ynd3_ilBG9dC6GSuoO6MNYW9OCpZaAVkn68XzJEGoNoaApfyFVN7IaCVSL7wqdfVk2ie-lN4etwgpWi-zKL8YgD20OG3oo4uXD_-LrDuulHx9HtE2UNY_0yJO44A65zL_B_78lmi-IZQSkhRSl80iCwX4hiW2cs2Fxg7iWCJaF5uGS03BBywOoL-VhOoWqIYlk6SRi9YoqqjizxAotgACXvz9jILNlaJX2IgDwcJSbI5yA0EHOOQGT0eJUPTGX29sf4JfCcjUnGOarkEnYc3pu0VxFtqLH-CZc8MKh1ax5SA7UNPh33l7hMu_7SPoKeyc2GGl6Kfj8GRaIGdTPHKbj9ts8r8N9nZ_iR-M2yBiLpfp-ZzC9EQRrQOyMYPEYiNuu_zAzBlJ_-Hmr7yCl3",
+        "width": 4000
+      },
+      {
+        "height": 3468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104354578844301168452\">jenny bosch</a>"
+        ],
+        "photo_reference": "ATKogpfHT7l1hPsH_iV2nuSyx9d8HjCftRVNYDzY42Pk6NeVdzHYDdFoRhfbZPox8e4E4DaYLAI3O4ukbEebq-Qg1MEwwcSvgGZ6RFPCLLjnUkBdR52BPbTzhruUp8453RVDmoiLkpwHss8C2vigzQIW7mTjxUIT9s5PqhNjMtUEOpzE_iVhzZi33vSo24pphDWglf_pd_1-DIS_9ukE266FsmTMnQlX1Jld6x-StODE5sNquBG-omJFLTOZXLux26qNixpXo-Zz8C_YsReTmpqmBELR4LkMH7ESzVabAmmfgz_vJYj4sPiOGaBoOJnxC8NTzX983ospoMmNibsJBJ2dE3Jy1EX5HBq9CGfdAcHEgbuFGMh8wZiFL_0uX5SRp39j0pODkP_nYpq1KMsZbZVc2IxcEZnBO3zP_CQfdfB7f8E",
+        "width": 4624
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115371580102930722345\">Enrique Valdez</a>"
+        ],
+        "photo_reference": "ATKogpdAA_XR7SimYu-10jwMvs8XswQ5Y4GbBbAnfte_9Hw1bN-mtY04RjOEmiRh9kSZZm4tqCQ8-Nzzmjbi5u-PBWjYey4O-n0U7dyyTa7TAfOvG_TTaoM9wYMRIl8buCYy5FsAaCdbFpPkPnAYFJ6Y4X6BafVXxfygCJSIae5cJ69VBmA8n7J5ln_H_W5Uh_6fh0wfnjuChL2z1ObqZu5PNLJHrCJJ6sn1kGiERHKk2SmMKuklW2ogtWMM1EdW475ajJeMMl4wxjupMaXdzUvyz4pnxQkF74AWuvyvEhE0zzlSUsmV8yDL7zMkjXSb5zvLyjdZjtMe2wiIzMxB1tgqr1f9EEdibz20IkEz3IoAtnlNNKuasVYrb1klz-JWHvCgKAUoYUuWU5fi6u3en6NPwYi4QTHtd1xNxBRV3xzrzRb9XZ4",
+        "width": 4032
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116226930092208310758\">Ana Almada</a>"
+        ],
+        "photo_reference": "ATKogpdzt0oDQbeUWqQDYqa7k6Oam8LOctoFmW7Ad98H2XS0UpUvGbJq4oYASa6bkrLI2yZkg_Jen0BOQZdyWVLXDhSf56Q0mFo5JN3_msFLpRGoUGnvuJKJi6RZFzSFi-RpMZNbF2aCLFPIUI1y-4In9dEmdfkBrXPoD7xaYMLX6bkPUQx2xnIWzqra7R663n0R__3iUXyT42N0W-m4yrLPhtoeI1JdLJ1DlSnYUdbTp3A2LUG9m1eQmHZF_qchuCpsagDQlMtCHGLaDa68jvCKYFRGwwdagIK-4VgtPd5Lqp_vd5S2Vm8_cieuiYZlxBEvre6oOxOmqT6sYSO-S6ycvErfRhYFth8Ek1Fktj3WGHeB0-9Z4z5t-4Ia7YfIlkKD7P7aaT8qyV4LYR36O2ng-SiDRnZe3uHxN_jqeToakKFWm4hY",
+        "width": 3648
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110300389399819065473\">Alvaro Silvera</a>"
+        ],
+        "photo_reference": "ATKogpeQoVRrR7fCxOjyJ_tmc0y6iEsN6pRL-FxSZcaCE6KorgyhYhQSXcrRJ8IAAC74q5Pg5jlyWuadsQiByAIl5txosBusJj4Ad-cE1SsMA_kPAJfz7xh8YkZ_8ZrTUwTdKU3SyvPV0BqFkdqC2t1LKk_L5phRj9eswq4uHkbiZMyICjq-_SaHEhdom_5OfaFbxFOxuN_3eIWzxIp5hBH6CwwK2ydf7eJ-fnKdfrFycs__vLcEgNWhRoElACOX8cUP07m7ZcjbzBizYZ29EWLOHxh2l5bB-IK0wgfIiN0bT7TeY90DGtUl-e0pS574mtj151bYhD5UUP5Cm1t3dvOQfXJqXra3EDxU1ywxZIPsVqZm7KKPz74asjl6eyqocc-F5WlySwDvzNAGrQL7PGvj9WTwn2Z5qYVKh1MvqNuVRGg",
+        "width": 4608
+      },
+      {
+        "height": 4640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112504660494362258937\">Gabriel Nuñez</a>"
+        ],
+        "photo_reference": "ATKogpeH-g7EpIGFUn3nIxGkl0zJLNyxa7D2Bfa_KS4uDOaS0WYho_BQu6HYmWZbfAMEWDg_Pbn_c-RAx91AG34VI3yFMPXJ42NUvR2gefz0W7dr-7VBqN7_dj47qJ3SfmvIyVKJkbuQ2dsLYOShKePAXJ3SsZfZMV14MKdt5LQbbWE4oxXxo8SNl8U5kbxRzjkogejbhgh4519vleJYsh5f6ZXkBZtPoAmZxWuO__uScezTAMsGEAlpja-iI_68vnGQbuwyOpqVTOmmumk0GyQzAZ6Yj3gtPwenGJSftA05oEfs3XHEh_IA0F_nRbr9v-wjUz-j0audk5LZzfmpkE2ugYGBkEGLzdt4L2DYBlxjdWfLkAEwnzEFku0yr9lWEFGHQ3cS11TMRev14AjuBm_kZ4QviLrCDs4EDAk",
+        "width": 3472
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111605345146146945256\">Romina Lankford</a>"
+        ],
+        "photo_reference": "ATKogpefnnddN-cU3z6OIHnN_mpexThWKMn2CkOsGmDiPEMFtYSzzg_runXV71fNFT42KR28YFMMNjN_FxDKSb-AFkGpuOX7zpw2Ai0ok8hixJT528I1cAEgL9YqTbA6wmwBONAvYHkw7Apu2R5n-5bohIkCoaECJHtHZULPOzyhvQ9CibZLaCJqpQYoMBp5RToSPAtpLM2w4zYrNnWCDgp-TiuhYFRRBXftSRYbpw-hxQgHgmcKYjaHfW-_du_8HqQgk6LEFGr145dnNLym3TLob7IhGFsZzdNCXN2welAB5hHBu3wQ-W2ARW_0xTQLkySgv4HS-0TESns3KaJ9soFQ0szds1KGSgqYKQA8vLOOUHKQHA6xmVb1Gl5_4CryQpUK5aCtQozt-UuXE0kWjI-TtENFuP4LX7ps0UzWaibkXts",
+        "width": 1800
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115371580102930722345\">Enrique Valdez</a>"
+        ],
+        "photo_reference": "ATKogpd3ohseUGq5HI5V_MKXGgCGXBIC4mEv5x8unDj9hONNehoafE4elmlqgNFabiP5wvvk9pwPRGONeq9On9Q-awyo1tS_uybz3aN7YL0O8o_-_JI7f8YAVVO-2WOXenbM0JliGVRBUImq7AEGfjy171nsPSpKj_HC_iEK2cdnbqFRLZ_YBwp5pNVSYEwHVaxbhws2ibgrH0VyAEYR7iEFMAPKFx3G1NCQ2NSsGW-VXfTlOgg-xxW3RdwzEMEcA00o_pkQE1onwNx6qx3fmnyEK8bV4_fltKGayVeRFKWIcWqeFsoHNblW9IZjxV4LjlMWJFQR6RdsWP4jGeWptxbFHl-0eRZETmloJlas3t0KHpH4DdDMxtgFT-1W4o__jm_bXiLOcSz4ChNSAoRKtKURcn-wi0gshf7PEYU4GA6bzheN0yI",
+        "width": 4000
+      }
+    ],
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Ronald Alexander Rivero",
+        "author_url": "https://www.google.com/maps/contrib/114278288332468104186/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTqAIy9Dh4huvYQUSmpV9JD5QmRMMRRwfW5p5PohBohTAUhAw1Eg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Good place, food, te music was a little loud. But the experience y really great for expend a hole day.",
+        "time": 1650829996,
+        "translated": false
+      },
+      {
+        "author_name": "nicolas roibal",
+        "author_url": "https://www.google.com/maps/contrib/110949051455201152199/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXseQxjMH9o16VBnqM8cCBEEQofW8P4pWoymcYWPcnVt7Ece_X3=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Epic la broo",
+        "time": 1640616336,
+        "translated": false
+      },
+      {
+        "author_name": "Diegocris El bonito",
+        "author_url": "https://www.google.com/maps/contrib/100150440960439862410/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKXIZgA-jqqmuH1Xv_7sEYlh-aUPu5pETzVI9BZHi9r22_Lsnevw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Ok",
+        "time": 1640564688,
+        "translated": false
+      },
+      {
+        "author_name": "Alicia Jaime",
+        "author_url": "https://www.google.com/maps/contrib/114800628870909869474/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2yHSZmToD4al3IZmX9pHC_Sh4TGObaZ15KPZZRpmTkj0OVgi4=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very good food, tasty and varied. $1000 per person plus drinks.",
+        "time": 1748283154,
+        "translated": true
+      },
+      {
+        "author_name": "cristina santangelo",
+        "author_url": "https://www.google.com/maps/contrib/100958621661293340212/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUG_v6MNe82vW70umO3B6fDXEambpm1IXhC3HgCJKxx0buWIFJb=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "a month ago",
+        "text": "We've been going for years, and the food is always delicious, but this year the quality and variety were significantly lower. You couldn't choose the tea and coffee; it came with sugar included... you didn't have the option of bitter or sweetened. Another great detail was the cattle trucks passing by the entrance of the establishment, practically millimeters away from the crowd, having to endure the typical, very bad smell emanating from them.\nOn the other hand, I must emphasize that I really enjoyed the show by Piero and Horacio, who made Mother's Day beautiful despite the stinky food and trucks. I know they can turn this around.\nI like the Rancho, that's why I'm criticizing them.\nThe girls are divine!",
+        "time": 1747612524,
+        "translated": true
+      }
+    ],
+    "types": [
+      "food",
+      "restaurant",
+      "establishment",
+      "point_of_interest"
+    ],
+    "user_ratings_total": 2076
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5247985,
+        "lng": -56.2780935
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.5234513697085,
+          "lng": -56.2767141697085
+        },
+        "southwest": {
+          "lat": -34.5261493302915,
+          "lng": -56.27941213029149
+        }
+      }
+    },
+    "name": "Pizzería Las Brasas",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117041160916143024294\">Eduardo Toscanini</a>"
+        ],
+        "photo_reference": "ATKogpeA8JWEpcQSsarKh3fr19BkSWbocKfAwrtZAvNvFJoU2Y5UKE9cY8cJ92bY6lbnsNvpF7Dq37Tns-aAl494AU2q086IEUv9dt1-26k42fbDEdK7bEbFuQDzpibcdeGo2X_9MZFx-EPNkCYDdBR3NPc52e7R9k1bj625gdEUgXrLnUO2c29NuuJjXa1EIMZARZRaRjW4Y1E6iiZ43gd8SwBUJutFCPpn7CIRz58KXB6L_N_N1ruqbSRYGZF1PFzvRgFaviiEi-ZfSx7LHEsCpGkroaltOKd9RtdroDHT6lyM53NYESmlFZrD3WIIrC_0XxQkj0-BZQkS4Ygbsr8u7NxvWXLoYKEIWXUB1mYUWuoOAId6GzMLP9JxBGu1GBpe9CRX9rrGkmWwqEXTWBEfENZJ1RR_wHGZ6O93nHLMIpY",
+        "width": 4608
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104587777495198880804\">Pizzería Las Brasas</a>"
+        ],
+        "photo_reference": "ATKogpfPexfDC1zdolXbs_S4aY-eLlDlDX4DPTOmcVpp0ckJEGkE_drtD4fh6Bfoz1Uv_ORNRAUzdGG10xgIlNWXsyUvSlaW4ADYBTGZAGzb-Q814F2xbPl8opvwIM-WsLiLzo_H34-fjbvEP0nb1grsq4jJ_y_YNSNNpVsq35D3G_2oKv0oBMiaNO9BRMHjkaigoEk2WrD5f4OSLj85MF9IsXNFdqq98BRtAkB-O74EFfPBvgxvVARLidDVSuJsLnCzybq9HZgsiavB-NQOSELlK128fcx_J18CdXz_4nFqq8pCrg",
+        "width": 1436
+      },
+      {
+        "height": 407,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104587777495198880804\">Pizzería Las Brasas</a>"
+        ],
+        "photo_reference": "ATKogpfeWFDtDNYtTuxg3JEdygKShSzl08X92csrV39ibPS9GrJAUlhe2J4mIFzOWjq11OQoh2zAqg4UfTpnEPTTxAnAOglDWYZBxR0kFpkINWH0CZqyd5ZpYAI0ZVFJBXc3PcRrbjztSMppQMP42EtrWRMQgNo4nU3tbmT1KKaBwcb7TBe-FdtnYjBgnJliU9s0RSVQHJ3SVp1sfgdfl0E1xJz-RECG7GD1nsHF4U15PbloyHOjOMHyKfFeLjXTxqT0f4UqKpye2mPqq5qSAKzYQ5LGa40a1iutci7mTla6R2tKvA",
+        "width": 723
+      },
+      {
+        "height": 2088,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114074256202903019188\">True Cards</a>"
+        ],
+        "photo_reference": "ATKogpfBfVa3HFwflYBbIewomTxRo_JcCU2Godj7DY7yl1-LSVzG0-M6SrWYjAZoyqXexNVaBVr460GbLIsVR8Ousl7AjhTlp7xW1ahPLO4tdulR1QNt44hwjXPhUFu8g87omsdtPJoIwqxUdXEwYQ7oCpS2WKSiGJaA-rmOFfjtWCA6bdTvg7ZUa-WJ72WqQyLQClZh4TyB47JxKM9wBithCX2KJ2kgLLStxyM1Bn02cJYxPyYlE4AosGL33uP-H2c5_QCXn8LI_XQ4tX23XaN7GSQ18RFtV3YVpH-QxgDi7GkfX2EPt42x9yFR5KiF--AhXuiZPbQihQ0qwXEh5dWyPHVm6U1OFG-uZLcHP6PVNVKfBIRXCIV-HNZCiNsRqvOJnMIV3rbx7un2hwT4tFwkvbzHbv7kG4eWpARM93jMtjOUp0Eg",
+        "width": 4640
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104587777495198880804\">Pizzería Las Brasas</a>"
+        ],
+        "photo_reference": "ATKogpfVK0Et_ByeS5MjNgPfpdxi9eL2LBng9BUhOUL8Sg3lZ9KC_mVtAOtuZZfTSkcvzBI0rKVxMzKZBZVRAc_DtFDgIsScVc_GPD1i3sErQG9EWyXVBip8AmnNeToWcwG4BEBdrjMC2xKcGvPxeTjW_rj_TpVB_BOHu35-MpH08HuZXR_OwU2pYUa2Md4n7Zg98t9lpPtO7Tk1RA9aC_puWVsDU-g5nc8jo2B9X5fSqVyHAe55G5PFDd6UVfzGCQ8-GTaetDu8zmx9SYZTpv-nJjXTzCB9d7upnRTXzzqeqJphJQ",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111738537979217949950\">Martin Gutierrez</a>"
+        ],
+        "photo_reference": "ATKogpe053sdtyVUesvDH-Yo7BoIlcD4zwNIaBz5GEGriOwisd8Hi0gF2Rmid74eqWqQwkaPnc0lYxJnI8tOr-EdYVGjPgNVqmjiwsVpYPZq8dLtp3tiUkiMgdVYxZWc4mm7siOs7L2je8wKS1vmdX0JdsYE1MLEr3tG-qzDYkKn5h9HjrOf_G1PBbh4VZxVdY0v9ZAPyyiIKU_cXnff4xwW6F3nOA26BfFYAg05dav-z72ubbRN5Bb-ZewtiM39vBqXnk0SFITuqrxmq7hHfV4EzmkCrvBd1xq8k5x5SUYUDQECcIoedLCUhXibY4tLJROEl9HdRbm3BeHo0a17SrAxGRZxZuwq3KowwX4j63u5X9uuzqquD2J15rjpwvvzr-7cJfXgYw9RXYJXdhvhLjdefIkYBh5XIaZHByuzokeEdksncFQC",
+        "width": 4000
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109380754841851450837\">Ines Calandriello</a>"
+        ],
+        "photo_reference": "ATKogpdZwTdRB1EwOTn_l8LSMTGr6NS5L_UBgiwiOwNdtEj4XVoxBUcnLzB5fRsB_0JCcWENGiVhHhJQcBcDpH9jMDxRuJbECpT-KGztdh4zMTXcg02iAH2yBLRq9p4CnulcCDlYt50VDd-_veuHjmdfpYyVqjF0zUkdg65DrthvW3kY1hFISTzOijQKHx4euao77IIQ7qUx3KrA4UBHCNzpirLo8HXNnVTWoHkaafndon_AFJ29-1xbWnCFyuADPIpMTrRNyV1gKOKZFvqNJZzGoPdmFTSA8H6k9fVuxgQfmLnfvXV0NQsbFjJZnqlHzodlqlo3jAaoNUV8zR1pljgRxptleHIFRHWrWGQOO5rOwXUQy1v4H6jQxyT9qBd9QJADNwOtrH3hClJNpnOL5n_U9sw9xKtdAIhrP1FkrvefzgupGZjI",
+        "width": 3648
+      },
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116250007281286835873\">javier polito</a>"
+        ],
+        "photo_reference": "ATKogperHXlcoK-ntX6ujzmdggewAnUFqwDtqgRtGHE05drskFjLOh_A_8nuIpFySGI4pv6M_MovKGkj69FUiJ7w2naP4wdp13fBGecN1swJrFUE6X2IU_UezT_UTA7YaiWmrlAwoPGJmhwbIqQUFpe7KGJUC220Av8uVD4xLxDqobnTTfYGKZ4zw6scsajEmJ0otIwyFcrRZPy9SsKHs4PLkNV6YWW-HTs_C_dB3Uiwj1oBRipvwXIdibXkauCHP8FfwEbDVRa4yW-gyvcu8PrE5P4edVi-t6w-0iR7ixAn7CAmCnb6A7019bg8fPr1DLNQ9HC-O9LeulCQjpPeuxfmvWfAIRAR4TMXkOTTwUnqB9GeqOR9iVVQXafAj97zFbJEDbxqpt7xyHFKaI9PBjirEaxidOzoexVttgXgwsJR8eg",
+        "width": 2048
+      },
+      {
+        "height": 1124,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104587777495198880804\">Pizzería Las Brasas</a>"
+        ],
+        "photo_reference": "ATKogpexQpa9C2NFQE02FvJgCO3ZZe_5EM0t1dczuEO9ZiWHqRaSj_467kWtIODcN52sjQl9F8W1Ir1zHpBFUp50NXP-FIH6RSzwp40E4YQQaVEPtbjcdUaZyRGXZpffbwUjaku7Vgh6amK7J9YyceKwHvjg1rvQ68nGmQ535Rd5BU16fuAS60HOBEX2Gm0Mqm_Opcq6lEFc2o9Ap_qIOaNkBroCnYHnDAe6c_GJBHAN1snI38jCK8jev-qTPpx495Z61SEysAoon4Dobhm6Bwck3W-gpdXnzoBG_kg0dx1RtD6xWQ",
+        "width": 1125
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111738537979217949950\">Martin Gutierrez</a>"
+        ],
+        "photo_reference": "ATKogpeKVXbQpDEtGp-v4NN5jeWLbOhLcd0a5sWF5dbrPeS2mKmIjFkpSEBc3CYJwQoB218Mn-Cs96WtBwviUQ2LXc6wF2FnvooOl5_tc4xXhLSHnPxkeEYGS_sqDwmLOVlCNb-Nx4gar0t1sI9PQ81BPA6pgtivmc3qhQL1FuHvlte7hvBsmbvMtVq-Rp4e1pMqMqBWcXgGojXhuS78QCRrUgESUTw5Pjcobz-1qPONNUI_kuk2sjwrncrazVqfZYwisNPTwH7DMmlkY28Bge_DwzJ2_Ku9_6j6HwJzkv_-kFHek3TsJYVKsTv62cQwBEXPv01Qo9-ROI-YC52UH1MfPnKb5oHYJsmBx8llTpDSvALNbKFzucsv78aDF8jV5J29ED3wbt6WJbpJEP2Qg-dPfbU34tUFyD3DQ1tdQEtgpDM",
+        "width": 3000
+      }
+    ],
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Gonzalo Barco",
+        "author_url": "https://www.google.com/maps/contrib/104904939962050024715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5S0HUsnO5wWKURCYEeRQaY2TH82jx2brYsnxuEIG5F-Zq25jF=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent pizzas. Best service when picking up on store. Be sure to ask for faina to go with your pizzas. Remember to always ask for \"mozzarella\" or \"mozarella with...\" your favorite toppings since \"pizza\" does not include cheese in Uruguay.",
+        "time": 1675002181,
+        "translated": false
+      },
+      {
+        "author_name": "Carlota Chartier-Coates",
+        "author_url": "https://www.google.com/maps/contrib/111100021950983466381/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURhfIPEnzSF--8zUiANumgOYN9m8MbGmSjaoq1FqUME3DAVl8K=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Great food and even better service! I visited with a friend from the US  and he had his first \"Chivito\".  Our waitress, Florencia, was not only charming and efficient, but also fluent in English!",
+        "time": 1581075595,
+        "translated": false
+      },
+      {
+        "author_name": "Schiwi M",
+        "author_url": "https://www.google.com/maps/contrib/105649679149281587599/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2i-XJjeQ3cYsobKdhcKiu4RdgWn_ifdDmAXeRzcx2pngdDTb6=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very tasty food, good pizza with a lot of cheese",
+        "time": 1667399003,
+        "translated": false
+      },
+      {
+        "author_name": "nicolas roibal",
+        "author_url": "https://www.google.com/maps/contrib/110949051455201152199/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXseQxjMH9o16VBnqM8cCBEEQofW8P4pWoymcYWPcnVt7Ece_X3=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "The best pizzas are here",
+        "time": 1630354746,
+        "translated": false
+      },
+      {
+        "author_name": "Gonzalo Flores",
+        "author_url": "https://www.google.com/maps/contrib/112718061041632891557/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXz8lHsm1y0SzEbLCKBWnMkRpvtPREaQpc79VieiVNdh3n_7D2W=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 years ago",
+        "text": "ok",
+        "time": 1444249890,
+        "translated": false
+      }
+    ],
+    "types": [
+      "restaurant",
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "user_ratings_total": 934,
+    "website": "http://pizzerialasbrasas.ola.click/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5215198,
+        "lng": -56.2822627
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.5201756197085,
+          "lng": -56.2807649197085
+        },
+        "southwest": {
+          "lat": -34.5228735802915,
+          "lng": -56.2834628802915
+        }
+      }
+    },
+    "name": "Moshi Moshi",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103012956710967414425\">Jordania Santos</a>"
+        ],
+        "photo_reference": "ATKogpekqtnPU9R2qsUCq1oZSJS9bfM-T7scQEm68LSJ6t5qmrXYZzlFazdtbtXnowdnXazNtFrsNgw_lWwIX8EtLMqwUXxxmqsJrk8y74fT9LwZ7eW7MWtUIm32G7lqkIOVz6fhl1Fl0sazVU-zm0aSQoV-y3RrMbTfdRXkzqSo7feB9MGKNSmAY4UJOxG-VaSsZmkemsE7TAntMfw5qxhPZL_p4mupIODKkuavcGdd4QFTWkJK6o5hsKRusHs2iDkJo4CwRybA5tTs-LG98ibXXsAo6Ie8iRgu__XB6pW4y9bwzE4_NYJRHZZF1WkGiL96cUKz0bfBP1q3bobG50fSmAV23H98mGJqMs4DvtbrV5GvbyFphTX-t4QcGrF8KF-Fg8duBWyNk2mR1fG3SOeHlU560-boJvSaELGtiyCtCqmVz9E",
+        "width": 3024
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106269076015231655162\">Moshi Moshi</a>"
+        ],
+        "photo_reference": "ATKogpfPhgAikGADVzXAInTqSsdWqArazpxtu58tSDWwW9kkWVcJBZc9sPhQxDCmUVB3DC61O1JihVGdqDx2Zn0nR5Gy3IXcvqc5ggO8t-cZp48e9yCjAeg_SK8BHOft-2KO-RvDPOpxg7dDpzYguQ5Qh_3WWABbbuX3Ib6zCDdMC9KaSTRc6Tmw-OIlQoCVvxYVqfCSYra6SvpQQ4J0G0NRzyBESJ-afF61TMzdIzjKveH6CuXQxdAnfX0UnUQTc3tOFOcwkEUTzAOprnExALvXfGbCaRdbDbxJKDGWSmCkwaWFlg",
+        "width": 1200
+      },
+      {
+        "height": 2701,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105992008854514565315\">Claudia López</a>"
+        ],
+        "photo_reference": "ATKogpdzaV2QB94pNccGsOLGVX2i7_y-j9mbqYFGlkgmejtCfYA0taEPAgKo4K863_ThaKzIFdhzkAteJkNY38aSKpOskkh5w35lgjeF0xBB9F--AqBp1autcRJx5aIGttswcYOZOeX6-yd-prook4a3eyTNDaaxaFEYIfQ8DSKanZne75qJiJLBtQ0YZhbA0tXIVGHOUUH9MC30x_2iC5ClMEhMv0uyoPHnjVpalmLc9JzNNj638JyPvvFvnO0dEIlTcATUJeLwg_nmRkgWB4_GfZoYKNNPyyv5Ld37apRagEdYan_aSkLBUNQlqk0XKavywUqvGe23_uk6niJkLQh0d7VY9a7krPOMswotUsSRTodryVmiv4qQHCJX1bQkT5s_MlGKhX1mXD0p_7q1dhHi4luSTUxXPIP30-jkOHTx1wsWminRAwNb0SwfmZy6YG-v",
+        "width": 4800
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116924762540910787723\">Dahiana Machado n_n</a>"
+        ],
+        "photo_reference": "ATKogpdHpd85b6xiETYlR0hiCUv53ZqmZ7zL1zfWwjtTNCQmdjzeUPFYuFexRlOUJhRThoKRT0731s5H_OYB5l1r0m226CT8j-7HCn_Ci_aeS__flzcN7lvLBnufJ2xJKlkToaVLEBHjYCShLdoT3Jb4l7kvvudt1jGBiYWd3tnj6h-UOu_WZ8BdoBN_44vhEd3vB6m9DXD9bc5z44Y9v-zdEdBVxPFqWjzufz-FyIMSHulLl9TwGMvMU5LZkVV8EE4K220a42Xou0H1--uGFMzwGXQ1jof1dmW1DQbDA9lNBmTvzsQ3T3enCT5AvTaKqrTtVBYJiQ8mE8N7pK1iFhTgs709ClrioKXZXC89ilx2nd-aBRHTUsb5D-cFpOvCrfrKdn1FZ46x2NtZcppfzZUjM3G2O9-dmyNCJVHjcNA-YLaUjKgO",
+        "width": 3060
+      },
+      {
+        "height": 2701,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105992008854514565315\">Claudia López</a>"
+        ],
+        "photo_reference": "ATKogpdiTwOSEimdjdGPrV4O3oc2mfop_GZcuxB2DCqjqa1Kxd2tRqq-vpWEpHfCUzDKwTSOQ2apKyyEuAvWYLMq5MnGOkzB-38nb3kWyVa2hJUVb8y0tVoIG_PbCbjNpL8WaYKIeLU40x4c_IqNVAVWtE5y9YiLYVb9KFoLUM0ksH3fg3vn-nCAZmBZkKaAFRvQ67b_0jBeXyUyL-nPaXHCZkcYsOHF34UtHQeyUReWloMzTarB8vV-Jb7KnImLp5x6bIjnpnolsC2VFDYngUj6Q-Y-UTIa9dFTgcJrBZbiVwrU_O4RTBYjXDT8zXdA21Dc0uvs1bcK0lAiX7eRCFkJWxJlaT0R9jbG0HhbKIGAjsCowIea3ips6ZYKH_lpOjtqMPzYIefkB4tgwahXPVFbeWtVy6TppH-zsswYfu9LKfMCBQ6Srzrt-rDJiy3E6MFU",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109936973821550411317\">Karina Buzó (Las Chasconas)</a>"
+        ],
+        "photo_reference": "ATKogpf4WrRTzWtXfd7l9qw-LWR0EZ-mlnxvabWV-XSi1aMv_3d8vC-1yzbVf35-anMYtjuNWz_5tW5TGkgh_j81wvOvk44WYXcs7-tTU61CouWHSIeaL6WgpjPA4LwXnx_6PrOc4DzKIjbmr7WiRVo19EKYqtIgcByfT577swRxHds_YDcj-YuULf7nAQse8nfgHIwxhDHgbBNWRW-dLkM-pqoffAV8Qdw3iqI6Q56LGDurmRS-lZHX6PnXCi5k6aNy9NVRPNEbjv8281vsv_wBUsPNfh8so8We_PNJNiFgO9YhhQVmfCavSgRySRqXP7HsiGlVOWP2h0FD0Prg4B18Hjl7PoVe_zTdsM3vYJ99qBUng_CK6qly3Q1Ma8xcZu5ipqTErqhvlmfns2BFpXEvn1pcwQO-PukEikHjorgLs5-jClqL",
+        "width": 3024
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106269076015231655162\">Moshi Moshi</a>"
+        ],
+        "photo_reference": "ATKogpfBt2m-ye8oEGYhdMhsJHwotrdfc6mTAI2pGal-CptsoSdx_m6OJsTR0i-db6oWYvbUtVP1Gw2W136icvnvtyQ-kKyjxJ1AbpII8s2CcqlDnXTPbrJOEsR59fR_yWN4CXHgw58WEAZp86xDvoClfGk6XFoyN6-pUNJGgxpvDccQxSwJP-wZRpHwz8D7Bnl_zmZ4R1xPonxW7LIhu1mJckcmP61FlBmk62sh0MuXmtPiBeSxkHkZCHyBeLnW4y19_ezsFBjUEnzRUy2rH0R26VeWF6sCMMrTCnuNgurWkKKTiQ",
+        "width": 960
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106058521110637535457\">Luis Soto</a>"
+        ],
+        "photo_reference": "ATKogpeXKmy3TaOq81-knxnuhR9w4CweuRZauJqP1cDMa-qIu0d8xOcia4sfWLO6p4HzIv46opTPSEa03h9Ut0S-UcdVbQsIcLjayV3nTe-RH8_WbHsRYLlK_0hlFuUgONQXDokjUm5S9lkRxePOjLB7mSrB5FFCCCfw6WkS1xDfxFswe_RiBz_f8iTAifeNS0SyKCwTyn0BQO5N__Xd73OclOiBtJcTPMtrxIq7FV7UmwSV1TiVQRuBmvicF7z70wbXd0meY9YQ082SM_6w0NpnH061XQ-d6lfmHd7W7iY867wG8TMCj0b87AMz6ACo6D63ySXlv-6EpDoefQmV_UlQlql9wYIuy9iPt3fMgjoOkQtM1Zncne-93vosZdxIsKQumKii7oj6-He8DORYuFPpcdlCAFhkwEqD2-zBM9YzCXTr-3Q3",
+        "width": 3120
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106269076015231655162\">Moshi Moshi</a>"
+        ],
+        "photo_reference": "ATKogpegAI2yVd-7dXz2QZtpzZIP1cSe7ujZQfNfcmW8Crc47agys3Wdf3L6YhK-OVEZM2mV2MDMHXdHxtkUHf1i38uFFW_y7gwQP2pKZpYda7MlXXJmKIS8uBemL-fCrEh7T0heAjyL0cJ3njwr08ao4LxUGFw6YV24JUKEIDa_tvPXhNTFWQ_1x9Z3ojfX1H7-eWsoPi_D90kGyN3yfFPgdFPAw-5WhIIhJZU75AV4k8YMX2p1oS28dTC6kn_IVTkNoIGrxaY6asO2AW8-Vbt0btSAMvBLW5YMN9PLi730OiVL_Q",
+        "width": 1200
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106495401711839823975\">Alejandra Alanis</a>"
+        ],
+        "photo_reference": "ATKogpejvq-9BjoXBfMbVx74qISD8CoYv0YhKtY9hkb8GmHDbql8W7WAbVz__LlalR_SwD6ybMmeDpRrY4QXGFr6HMv_alMZ_uFjH7CRlLkd-TxY8coFoydr5yCgTIlj4UeN6bFj7s_lB5U06btuMCtJmKxpCM331hULLJll49xl2t0afBnHEFmbyRG0qgTLofDVAv3XCzChHPwZqWWk7IT49ydPPNkXL2te6qNxAkJ0vp1mK2thUhxgxQykpArOys0H9DwrDYb4CsxF9VgX847c1cyAuAYGdgyUpNKVh_2yDDOScmMPtJC1MxT3sjJOo0P6oNoMr6VIemc_iaYGo5CoFhPd8jCfiT2kKj_nHo4ZEs8lRnJQCG1DJeFvsHFHEA-aJNufQdxDo4Vt5k6uY8Qeid4YnAxBXQUFB7G6ROM3SEg",
+        "width": 1080
+      }
+    ],
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Tomas Piaggio",
+        "author_url": "https://www.google.com/maps/contrib/104399535238305221252/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfCACsI9Nlshvzk9gtEJlFMfFVYO256o0E8MM0aiGrExDs5Ek_WQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very nice Japanese food, I was not able to try the ramen but the miso soup, chicken teriyaki and tonkatsu are very good. The place is very small, but cozy. We couldn't try the ramen cause they didn't have it at that moment, so you should consider making a reservation in case you want that.",
+        "time": 1693331119,
+        "translated": false
+      },
+      {
+        "author_name": "Santosh Koshy",
+        "author_url": "https://www.google.com/maps/contrib/110181310742403113308/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5FXOXQShFpUEyj48VShZz0FERGaZP3asOHXBm9vhZgs5nMbtN=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Nice value for money place.. the ambience inside is lovely and the way they serve in a ship sized dish and all - Excellent presentation. We sat outside and were well attended and served on time. It's right around the corner of the busy street so well lit and decent presence of people around.",
+        "time": 1512873953,
+        "translated": false
+      },
+      {
+        "author_name": "Leandra de Labastida",
+        "author_url": "https://www.google.com/maps/contrib/117215590614333213123/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtATwnJc9RwuNJ952T3PpiGTAAMm4AxqZLOjsxUP38pQv5BO1jAg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Delicious salmon Poke bowl. The owners are very friendly. The place is small, so plan accordingly.\n\nThe prices are reasonable. Just a heads up they do not take American Express.",
+        "time": 1667595207,
+        "translated": false
+      },
+      {
+        "author_name": "Jérôme Lanteri",
+        "author_url": "https://www.google.com/maps/contrib/117534246763076013404/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpdER2__1DAFCnYvJWR-E_1Ys2Z5YvYBGcrF4cV420kmpupcNh=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very good quality food, very good cook and a lot for the quantity. Good service too. Well... It is a five star winner with a 200$ tips",
+        "time": 1708476896,
+        "translated": false
+      },
+      {
+        "author_name": "Pars ifarsi",
+        "author_url": "https://www.google.com/maps/contrib/106555509046979782275/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHZuteYHJtTTPmtNdkYjlQ5DwLUsTYwK2c5XGnT7vUVtYktw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "I consider myself a sushi aficionado. While I've had better sushi outside of Uruguay, I think this is the best sushi place in Montevideo, so far. I have enjoyed all of their sushi and It's nice that they give you a free mini appetizer. Sometimes service is a little slow, but we've always had friendly waiters/waitresses. If you need a sushi fix, this place should do it.",
+        "time": 1539287794,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store",
+      "cafe",
+      "food",
+      "restaurant"
+    ],
+    "user_ratings_total": 788
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5242916,
+        "lng": -56.2888622
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.5229390197085,
+          "lng": -56.28756416970849
+        },
+        "southwest": {
+          "lat": -34.52563698029149,
+          "lng": -56.29026213029149
+        }
+      }
+    },
+    "name": "Rodó Restó y Pizzas",
+    "photos": [
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114127054233307106575\">Belkis Ferreira</a>"
+        ],
+        "photo_reference": "ATKogpe94RgIEFkXK0fwcC_4VVoK0A2Da5MFSbaIoL2AOq7Ff97EBWcofaZ8bGP9sL41qvOTS7RNqYbI8-5f2cRwfY3l2vwncYGuwIuzVfhtIScBx7u3TnbzP_89uPiu1llaCU43bm3SErDwmq1l8zYZtubOg_zd0eHeM9O6SVNHYW-HX1GUBN2ICs5mShaP4TPR0-aKJiFLcBKFTeyZ77Jb9RA3XtZlNX7-ZwUAPqt5yLGBD9kiarbEnZtEf_eW6MX47gcViZT179FbOF6lOD5kfFsA588ro6et_yKzoyee4hD5QZBo_lVEXspmaKBqeLzeRtufKZoJW7tuOyvNp_bk9kQc7vPaNy43MKVTWOWCEOFsKDrqkf2BL9B8ahdbeza_f1EjzijPlA-BTJ3FlMUFUpgoiUJOcX8fFIFWUR3UV1h7AKmR",
+        "width": 3096
+      },
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107004621928125516583\">MARIA ISABEL VANOLI VANOLI</a>"
+        ],
+        "photo_reference": "ATKogpfofj4XQNjF4t3A00OlIjHOlFGFDwSXLnguvBPWIl90V9cB9hsT2KPA1MpEhxexP701iPvSh7sgyqH45dFGES-fM20kRDgOZ3Ro6JyPcQB18UyyKzPZkytrli18NiqPg_gSkn0wIAaRx_xSlqAkWBxwOX8R2nqmQ21rmDe2LoWoD4wGa0F4ut3Vh193MVnmULB2RudLCEW5PZpXMvMx2_mokcm7aSuJ5awScThJKp9-93-7H4ePLL7yYliEue3ZTYkNc9T1lJHGKqyIDFMiXir46BxYQniB5yYkIxtxH_3L0sVX-mfJdM__iHWfSBIE52pT_nEa7WVjqOocZuO0ZlqF-hr6rbEnFcRgsbRYP9IuWU9SP423z8E3W3xfO9e3MAEFuw79XYKQzMCdJht36VZhjKlWWe2XqZ_BOVsv5_Viqirh",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111738537979217949950\">Martin Gutierrez</a>"
+        ],
+        "photo_reference": "ATKogpcQuAUziWgDqpJq0U2e0Ozu8tsG9j3FWelUV5Bz_mmuz6Z-ezdMPAuT1L8srrJJF9LqX4oOZVGL7PrJMb3pbJzKFK5e9E-MpcmsXXGETrT4woP8dJgdCwbed8zu8Up8LH7LOPcxKTj6DyVHK4iQsg5Nnx-lavx2xKC_-eOlQJDnEJbz0D1iKqndLKqb5fEgxyuR0Q5R783wWm_5KFBCdlyZC4JjQ6V0_SBqxAb_exmAD3g0--rPVlTPxgKCl5hur5zW4pSIfXVX6zmfFgFUfewfdNm7x7xAQ9ZKVjC_87PlnMgRgzPc0Hb_eTAoxHptkKA89k26EfA65rDIt33vqwf7By5jM6pGHkuIhsuO5UHmyY3dYm-RG25h0bQmF09LaseXBER4ZABnH42QQudk2UrVxwcS0rGjiCJZJdByG5OBzA",
+        "width": 4000
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113333341206759698078\">Monica Bisensang</a>"
+        ],
+        "photo_reference": "ATKogpdRdBHXAKyh_nm6IsxvP3exFKWLO05WdMInOEkCaxxJReqD05V6y81Um7ffzwYTLaXoltIfg56eY0eBg37dV8t2mV_H5P_XSgPYES0vo-9OI24FjA2Mck68vMUhl85r4dnpQ_n5P1QQKsakvs-Q7xE02WtSBZ1e1vrSHOu4CDMcc31caLrErKEkuPJamjuK9FuNVRZTVc_ITRbSxBBi8504Ao7lwwxzxa5l12Yn12hVKj7_LIysIb7_ByhcDfahP1rK4cl5XcptVSTXoL25fa_SPVLyQ-gfAm2wj-7UEFN7cEFm5eXmXrPVvZ63DRzsPm-WkRPX97KCT_ldzTBmhs8EakYRYTOuLqN9kqiuDCjd1jU_bgzMWba8djr5VL1XG0cmLR45O876X8_i2sfOLL15zgBS1R1CryyL_AWag0FInQ",
+        "width": 4000
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100079507500580681170\">Andrea Ubal (Meri)</a>"
+        ],
+        "photo_reference": "ATKogpcXrcFf0fsMPU3vU_XU4y1DI6WFkeueL67ZPuitE1Iq2h-zlHeOt4GWjiz2AIJmwmBM6pg-WTd-x9bhypsqWR3aD5QUptiZe_INViZnV4_j35jD9zfu3qjDLBBZJVgpsh8Y5rYjAmYwpVkz_wIuFlrJ3g2974-6Kp2-6FBVWN-miSYCS93KuQ9mxUcgFL9Bh2-KURySY2UkepQRKglimi6-sBFZbSQPA745BYwmD17Xssk2Jt47qz-r6v4KP8wb1VF-tn0yXAZGnJ5RyDNFIj9tBdCOPBSo2zGuZzps8akt7MvWS_DEYeDd_41vuinag03UXwh6vr8-A8z4Fc8YXxvC3MX8ImJ4DYDbo1QI9AXhs-N8umd8bbityHJ9ec04fI6DVHkSvLPPziGOvVyKdmsjiBCn9O-aeR3pcfjB_E2HujS4",
+        "width": 4160
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115379019618087701455\">Melany Bentancor</a>"
+        ],
+        "photo_reference": "ATKogpfqa_4civRGf-YA7u5mo4fASq2BkfLALw525UiFH6e9rfHkIZWMpCZiXfHRoST1faSUbsc_2hc6nga61ccinv7PzX7FmCp8YOAzYDWxl2jQhXio8vHxW_mwKUJhApSY7dmEyHe-kcsdSllUQS1y0kl-vW-y-jZ7ZQHl7D_kCamrnp_wvGe0E7S3gONpW0817tzuPQu6nK37yIyzjm1YZPbXd7HhHs4wakZG2MXNlFWnW1B6OjpHWLAZbGrz2k0_dyU3yjA5T9qGO2e1ZhXyveKfHCBBXnn3aJPrC39v4bj1wlC1DWkHrklb-UpLkYG5QdwdIF-KW5C_cGVVTMODvbx5l94rWaSZP54l3Bb8Lkxh8obE9T0OagGOxOYb5C86eRYeABCkWvAW55S2lkp7hO81HlM3SIO_XueSErNaw7nTAXbg",
+        "width": 3600
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106124212568614264176\">Graciela Rodriguez</a>"
+        ],
+        "photo_reference": "ATKogpcqC1uVpIk4WdBCVwfwH-qUOWLNIPzwQ_o2T3IVgl5bjLhsTc4RsWKlH0JqTMfKV3C2Z1ZFH9w9V55w5GzhI_LssOQwQBoWar0Oo6Ven95f3YvwAMOaYmE_1gBkTIOL3OhvxPkCGRu-l3VzszibAm0GiwsNKSvC5W0iJdQ68khGpqU8vuBXIbFV__R_vfP66noEp0S_uQwCrLQfUregdh3C4xecyF3EZHtQ9OrpnO53OrY91o7y18jxtZEswH0diAjgdaDgS68modRfmwz7MDHybFdDowLClWTTaagmPz0qhwGLq-EoK4Zonn__6Ehwiq8ACxSYUUuIDHzFuFX-79rDViHNffi_aPS2D9EaiTYj_snoGCAFvhR1UAhe-Ymz8rrhOeAPHtt0zP2PYK5sRnmoWrKbr7WBP47fQOznjBsgBvpl",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111738537979217949950\">Martin Gutierrez</a>"
+        ],
+        "photo_reference": "ATKogpdNMKemopYDqXxOmC4yU1J878ejt5meIjUKtCGE7DFN97oO-PGUmVQ-SuoC0n3SCd4nijWryMde456d_ZZ5x31rOHJXB04udaPl8L1486VEd4dFTWCZDFrOCLN9HpRfFhWxpOnRlkY2ik9Wcx8P-WzpkMohwtumvYRCCHPoakYtAYnBEH7EYEiPwO-u0EbB-5HysgL8RNFXQqyQAdLOf7RqU0MP_9_sN3wpbtwdjN9QsOIEY8XpZFMTYWar0B9JWbKBwVdaJ8qA3NZ_pChMGEWxUsq7hekGmQYVVB5x0Kg_37BUZTbWhEYlernbdRb4ahph3kyF5rS1E6YGI9KlTvgLXlIM1M2MXYSOcgD5W4ZNGRV88bzRB0eT5JnRZ_iK0SqFPap7OTqxHTw_1qgGNOcyu-OlgpyxHniFzHDinIkdkS8",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111738537979217949950\">Martin Gutierrez</a>"
+        ],
+        "photo_reference": "ATKogpdRWYfNqfbDgOr8NF6L8vIVIjorfyO0nRP65IxPHqG7Jg6-LMP8M07fEkmfI7JPQp7muwdGvcooq2OwqO28D5NdJVUlfTEekYnj_ZZoxMunU-yksiwdqHVasbU0FRKPUx0Mg_9kk3kb_HXbX3Eb-Zue-cPrAcfOInFWONGiBYSP_ghZ-x2fi5rlGqCINs7kN0H7LUwX9QWYx2JSp40ZIPr39B4-V8pgb7huCubl0bd4aakrC_RFTPd0BuVFdNzX6MPTEhN1GjtuyZ6_jlIaPBWKlgEmHzjqT9-h4FPhwDNukKPuTty6IgQbkv21zTuDNLEy1DW7vqrEZ-uopSJSQndzFKRvRaPTVvYhs646ctKXrhi23haWFCTf4Tl3JR_AXUZ_LCAnLiXAIvsxLd-7QwNMLOOk6SaEmgSFXClj0yg",
+        "width": 3000
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105086807061407416107\">Mario Morena</a>"
+        ],
+        "photo_reference": "ATKogpeDKvApsLuzKVc1_dY40auhcxOrHZLLCJoClIYg1-jF92AntkqdK7YuXkjunNLzMtiKakeEPo1LP0TwGmRwwicxz5WfPkOATG9QpsEMnvr5JfdE_aH7fHA7ilL227YWOoBMFXcfrc7Ha8HoQzZMi_w2BEleedthaUvB2e5j4JzgXZgXhIMmKZ7srtWMR8td79g2qhX4EIMjha6G9z2-4gj9CJV3LeGIrHt_RDaDo_v8jpzSIET1arXIxTkiStbv5T257GAXtPcWyDvcJxw6r32VDz9G5zHym7BKjJxldO9uiapwjp_n7uiX2kNSoeCNsF4w-VZllS3QLUnY9JWs5MBxG-3M0lrbvw40ZkyFM7jhD-LmBiCrm27XZQ4qbtfzgiMCv3aG2He5qLkAgZStuYZtWeFoTwNH9q3Az6F-PcYDyw",
+        "width": 4000
+      }
+    ],
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Diego Lenzi",
+        "author_url": "https://www.google.com/maps/contrib/117362418904688283097/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNpNrSqXKYPSlS2VVtEySAZsqOUce7jzDZ-Llwr9PSxU-xPak=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Re Rico",
+        "time": 1630361635,
+        "translated": false
+      },
+      {
+        "author_name": "Eliana Garcia",
+        "author_url": "https://www.google.com/maps/contrib/100118051299543788774/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdrTZmBox35hHpQ_qCYVt3s0aHk0I9dk2xMuUQoer6cgrB0g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Expectacular!!!",
+        "time": 1539439445,
+        "translated": false
+      },
+      {
+        "author_name": "Melany Bentancor",
+        "author_url": "https://www.google.com/maps/contrib/115379019618087701455/reviews",
+        "language": "es",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkL9Z44wajviUJdPyLJrjmScRLvNWFQArf1_6UGZ74uM5WC4x9pA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Muy lindo lugar, muy buena atención, pantalla gigante ideal para ver partidos 😁 super espacioso y muy en cuenta. Me encantó!",
+        "time": 1742612222,
+        "translated": false
+      },
+      {
+        "author_name": "Dan Teller",
+        "author_url": "https://www.google.com/maps/contrib/117422932489057916449/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTRw0dddFrzdhGT3VBxTdLrEgXHOna7-NXoePdXTPicO80Wg17=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Very good service, delicious food, very good prices, and I couldn't find a place like this on a Saturday afternoon near the Plaza. Place A1 in Canelones",
+        "time": 1750604180,
+        "translated": true
+      },
+      {
+        "author_name": "Lautaro",
+        "author_url": "https://www.google.com/maps/contrib/105695532223841425406/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCOX9Pc486jJM6yECZfrnClmto9XTGBul4yWAugCGN5nCnUw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Excellent place, I went with my friends to celebrate my birthday and it was very nice, television in front with a soccer game, very good food, I recommend it.",
+        "time": 1746329319,
+        "translated": true
+      }
+    ],
+    "types": [
+      "point_of_interest",
+      "establishment",
+      "restaurant",
+      "food"
+    ],
+    "user_ratings_total": 776,
+    "website": "https://www.facebook.com/restorodo/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.6694336,
+        "lng": -56.2148717
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.6681254197085,
+          "lng": -56.2134474697085
+        },
+        "southwest": {
+          "lat": -34.67082338029149,
+          "lng": -56.2161454302915
+        }
+      }
+    },
+    "name": "Pizzeria Giordano",
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116011013597179317783\">Leonardo emanuel Correa suarez</a>"
+        ],
+        "photo_reference": "ATKogpcewvEoB3IMiqeghiNIM02-KrusrWPzLv9s-rAM6i3HNQI-lrEMxil12fQs03cHSA21ByvIzVGBpVcHR3WY5eY0eNjKmXTQ29fpuFzoxC9-lpmfZ9luabGPYmSDWx7bnXhCtQg5Rq3Q1Drlxe7pRAN7UFgVVO8MOV0Ofjzh3xpJ7fNFzE0yG0odHsHIyJGETv3wTLJD90MVBcI5nYJpYpxV7MksD3jM5B5fs6TdGiAO_r0fzVOohWYqBbIQY9eMfYuE9PxDvZtgUZndkPtqKttJD4goC7RN6rvbmI5Y7Ncy-1DfjX8J-sH3UZaZW4owE9hNqhbGTuy934012hO6ZYABmB2_2cYOifbTQe45Gil_kQZreIFWpFG5IrG6Qr9YiCyyx_iOsVxjf9dgi4zx9mQqAh838_h0irmM9akqn1fv7OYV",
+        "width": 4096
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104368992623992119132\">Wilson Caballero</a>"
+        ],
+        "photo_reference": "ATKogpcyBVG-QxvDsFmzmlFbREVFa9jm7PxxNdDwHjI7twqPG3RhUA9HdEQBZmVes5sVHFyEdTwUU-LtlG4uxQw0XA1jcyc1-q5JyzxENE8Bv9YfUeffVl-GnJg354CSjaBrH0Fc6YF4iOKfTdHWXW5qmXx8T9q5F7T8rHzDg_jVGsOCaPsWt6JTmZvNrV1YB13TXJ1-KMEAgGxnUn8nS-3_x3TSyUK15gzDxYqaxlABRk8PXGxUC0K7mtKsITQdfWDKl486H0E2Jozn0NmGZkKiA1qWlvyjZUXWq0xUa5rGLN4tHMUa6MCnsFOdE6fMkhNLf-ZXflRIiEonn9ZZEAfRjm1bg_PBSfrs3Xx4vtL4OkAMtSOYIy3gP6yyoDnKnVTppQ1_TrhICANW6JITK_-GnS7NBEpX9XHXhQA72OMtOqAnng",
+        "width": 3120
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104368992623992119132\">Wilson Caballero</a>"
+        ],
+        "photo_reference": "ATKogpc-fppHbXQ6CpaGNmUGA7Toa9OfboEf_41booO-HSht27OlVOLJ7Fnay1WJxzWkfR6ZG_ZmKl8doQkRp6Lv4OhmGIsFt-DUHslC5tMo5sLvr6ucB_b1OlFwb0oV_3qPEqZToUNXFmC75JM3Sm5t8SD4Di4B6mQ24X88gi9IwM6kidp1MNebRGXSHT9I3JHc-w9PDxfgNSyzygORIGvO0V3YGQSjcnCo1rs8jkz8f4c_Yfxb7HOHtAKCZT_G3Q5VrDNW4kylvAzYSWBMifnBEiIMHWqMG2etCRrzQF4R53mLauFCo2ZCCdFz0eWbUUTeKyZZNEzsCWn-Wr2T7FnAjWBShlt0o7vvW7sDU_9i1gWdPkQPkcmdMaaf-tBd1nZgEAFQ6_9n4jdnIWnC1O9lifFySvsYrb7xH1nj5bhFp2lQ-Uo",
+        "width": 2000
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106471983166833711266\">Eduardo Tom Salnikov</a>"
+        ],
+        "photo_reference": "ATKogpcUkF3n_I2uDBDAZ8xOwDbhwRBAV9JsVM4R0c80NqJYLILKWWfnP-EyXNUKGyTYyQoU_Om-Y7Vzb0L4zPLKaFkXgRWUmUydmVsEcsblC_uEfQZwQ9eNwnJ4C0KrA-pVz7KuPvkRC00qwURr2Qn-XKbPiOy43kO27SJHCqo_c0zTkTM4RHfYqyK5M9SAcwfP6qgj4BTJsfJ5C4L1jyWLKdJT5RLM_KGe09d9Ae0WaJ92Ep1RZmFFCDIdHZNxF_v_ux1eOA7R3rnltdmHcjRv02VVdJYnq77vrnGPRzmcmtryMd0HhM6wdSugBxMtcBI7fyFIbqHJ76DAsv5K0JdJzGSDAmAWM5p24OL_PEPtu5a-1zE5kbeLImbb5LT473vOVE6v3KHx_PWDrTZH7IFDwvEWUxNJbHvdbAV7T9kMc-MQCQ",
+        "width": 4800
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104368992623992119132\">Wilson Caballero</a>"
+        ],
+        "photo_reference": "ATKogpeuxPO0Z3mrXUAro-OZGz1GNHCz26fi1HaN9w2P6MG6MpkgoDKTbO6OL0nyKME9Bn7pDIb2C8MxvKhjqUjidJPGwzFKXytuDRibB6LCpTa6WPK9fEOIXIRxspgKU0yZr9zYYu2FL1f6W0bbP3v4zwLuwEbexHa0teuMPjZ5CggD17n9YGqVBlRCXEtI7QmFV4SyLcGL6DnCN5C3-1897vv_yW1uE0zpI7myfHprACuPIHh3jdboZReGfD__dSU3lqrHAGHqy1SiODpbkLFy2mC9YXQDNr5e3OMItOTHLl4tdlo30ZYTneOP7Exe9Jbp7O3CNQ1MTnpXVjOKwqp2vq1RadGHtyQUP3nmdxG9NPkgnJym00SBiWWjhLO6OoxVBJIorU8DWZkER8PZ7GUzFvmsxm7zECD-m51Hpns7a7PVk9e8",
+        "width": 2000
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107433373985877448541\">Edward Fleitas</a>"
+        ],
+        "photo_reference": "ATKogpe6-Fd9uhPSIP1iZmTUeFEC8lUwqAATGfFsQxRCsgUXPcVF3s-AnbJhuR7GTHOrxzym4Fqk2QuuN4uHxNGBACSzovHW-bSKEmsX5P8_LGmPUM3L8DwQ2RO0duazxnjMyC2rVnzb8ZU_vtjS18RjF6-TO4dGimt5DyvG0t7SA-0gc0IVN0VOuVdigqYb3Ijb6wxjtZkw_eec3Qj9wcyY_QImMx72X9nAfj5zRjt0wLsvht1pGHTGSYGldMcAFLQvfe74-txsqW9vaPgkxzS04zCzSExJFpZpzH-qnx1IlAqfeJxuIQNa0d9vVTpXjMId8UCWQZt_EoZSfQQMWhWlWM9SMPupqkvssAXwMpOX5K_-FFRFmfJby855JDINsr2_qSFsK_1AOrCjWJuRlvV6XZ9JnAb5LyCXA4p02VRl1ZtF0Q",
+        "width": 1600
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112957353699114645189\">Gabriela Sp (Gaby)</a>"
+        ],
+        "photo_reference": "ATKogpeSG9yk8zJxLzLs58hf5lTZvOphNC2nmBi993H5bgxE1FFN3_o0KObKI93UzZdnx9ow9kwjAS-Nq5tlAcZXc81cUeIBPoHra8xzBdVe-py05Lk13RaR8h2z4vpdYgfR_heFm8hPNRK_gBrXBMKPEMvkpa24hbjze2N3bHLnBDAslKw87B96DAts0rrWzT4KMYAfn9Ke3a7aReJ9uxPuS3O4VUBwzxXcL425OZMh3Q7j4JN-jyhwgh1FJPMRm8l7R8rLh2auQ52D3Ur4jZ2kWEmw3EFLB2jFnvAukmTPDF9z4IUC9lFO1vWZFu6PxKHGG2ql5Mwmo5nECazlO53fQ9oSjKkYx2ox95UHpEiHjuCqTqDZQVI5A8-WQ0fnhZzRV2S2UDjavIWd_RLMw4SLaBnluWJL3aUag1GHnndyFjV07-O5",
+        "width": 1920
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104854359591483351476\">daniel porto</a>"
+        ],
+        "photo_reference": "ATKogpd8ybhuhf4eONiPAoUcNZurFNsa1KSOumk9XFYLW1tTur2_zFctYPw_lYpS9q1trRCNWiZ1BzAAq_ZHTJ6lQqC71kifEManNccoA5ZROPkfuSFRmrup0gtmWNGpWfQaAdjn8Q4mxdgIwAYQKtPsttJP5BTjeyCz167KSGxq8mBgnV6vmeA2vI-zPU_yoxQ7DCvN9ES_r5yx0eXNcR99OHjgESUDS42GEH96GNAXFdXtIRL_XYAOFzBo9xe6slEWmFWrfpeFLbJSflDWVk87mJXp5Ubvh5bxcFrMLIXOKuYVnJqr7qdSlcs25uFb5wJjirOC736bjsSZSp7TI0e0ClyzwrqiygIagZb8t4vxwnj4OzKRKXS-Br6h0C2UCjaxDHEKz0OuyyHpjBcQT2QTEouMndOpqnVoJObFZcaJMX9KArA",
+        "width": 1920
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103157194655201299801\">Alex Gulart</a>"
+        ],
+        "photo_reference": "ATKogpemfNCAGXlSJxlvkYlwWNOC06oYO0OKnZkVEyeOMiupt3Dukm_WT8tzuMPLlQNKl6ViP8woVholpDXS0n8OzKPUS3nyfmq-xrexBW9_rlPI0ZsB4OgVQAc2p-ccN9I534Ew9GvMkk2-lCEkdwIH_r2WHQSDT6gUhJUXkogkNz7ShggnEg199iq68S7Rclm_ktOyt29FdQuLbds3jxSsuzVBJeN50uX_RFgxpLX4MsZwo1AAX0mIcM-Mtresd50o8LxP0cDaa7id3gSdFkdACYB0pZprUhx2-A6LGoVucZYWhRRmhkaZ1iBk0VCeRmUZ9qMn9HUopDP5gCJnh3nVCnAcuF-m9W70pztq4Q2LZYw_VAJtj-OsYhhizLeRTp8Fis6DDya1Nmc0veqK-YmaxPfQOqZbq0WcolrSsMtFSnOcsv76",
+        "width": 2336
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114743139164155449078\">Giovanna Russi</a>"
+        ],
+        "photo_reference": "ATKogpfNJG0Nciewnu2mGE2usgK5_a1VpyJaDl8tbYTnAJgnV_Z8f0dw6gAVcakgDtNijbUwqSSMQ8GjskYaRRVLbrti4oEQlISNgcQhYAAb-H83_0vUkAgKJkJOyhUF5CJVtDUZYU--AXD4CBNfLrPWmKezOZS5432Wm2K3UO2Sgzhj5NQW2T0VmXEbqR_NXvHlCP5MhLmmZ8u_ou9cS0SksJ_YzKDIO2GlIFvHCxQcdfYqUEiRUUMIfVcoQ9OiV_JLStxL32hWdq4VWogFX111Q1hop1DEq9hBhWnbfjfN3jTjOEg3jgxklo6pHd4BnMMud4w_qldJDSC_n7tqaRUPXjog0vf9LXpnQGL38QfXxAjLrtQnxtCVYDVWbHfM71OVGT7tHrzx1YTgvRwU3ktihapy0L4KjifE_W1U-fMQ5ZfjNB8j",
+        "width": 1080
+      }
+    ],
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Nico Mancebo",
+        "author_url": "https://www.google.com/maps/contrib/117071741273202226696/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtTo83NAcrghzgPLVuevq-kbHyhmMHWultjYW6DW0ZcVUqGMMY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "The king of pizza andaaaa! Jaja",
+        "time": 1485550554,
+        "translated": false
+      },
+      {
+        "author_name": "Leonardo emanuel Correa suarez",
+        "author_url": "https://www.google.com/maps/contrib/116011013597179317783/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIjdbGtHdbjs21X5ASiukhp4EEAo3S6u4mEbhn_BMu7ks28A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Excellent service and the pizza is by far the best. 100% recommend.",
+        "time": 1736732096,
+        "translated": true
+      },
+      {
+        "author_name": "Eduardo Tom Salnikov",
+        "author_url": "https://www.google.com/maps/contrib/106471983166833711266/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsaLBqZ3X3o9156drxaG6IATHgCEO4atGopymTw0c2AnRI1CFtkw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "I was near Progreso and craving mozzarella. Maps directed me here. The reviews were very appealing, and I decided to try it. When I walked in, it was nighttime and there were no other customers. Naively and ignorantly, I asked if the $220 price on the board was for a meter or half a meter, or what I was getting for that money, to which he replied it was a slice (imagine my face). But it had a LOT of mozzarella!! Almost as an apology, he justified the (to me) high price. In addition to showing me the generous dimensions with the knife (not huge, let's agree), he emphasized that no one in all of Uruguay puts that much! When I also ordered a fainá (I was going to order two, but at $160 a slice, and having only $400), he showed me the giant slice, more like an airport pennant, and I was convinced that one would be enough...\nBy then my cravings were adding up to $380, luckily I still had enough money in my pocket.\nThe mozzarella preparation arrived, and after opening a freezer, those little hands (without tongs or gloves) began to load layers and more layers, until I couldn't take any more, always with the hype of being the best, now almost on the American continent...\nThere they put my pizza with mozzarella and fainá in the oven (I think it was the other way around, mozzarella with pizza), and I was happy...\nMeanwhile, and to save time, I asked him to charge me, whereupon those same little cheese hands took the money and gave me the change in coins. I thought, will I be the first of the night, or has he already charged another customer before? Well, out of sight... I thought... But I was just watching...!\nWhen it was hot, he takes away my portions and asks if I'd like oregano. I say yes, and also pepper for the fainá, but he proudly explains that he's already added it! Luckily, I like it with pepper. I don't know how I'd get it out if I didn't like it, or if I were allergic, anyway...\nAt that point, I wanted to get to my cave to stuff myself with gluttony and enjoy every dollar I'd invested, since it also took me 14 km round trip, being in Canelón Chico!\nIt arrived, and almost without saying a word (I was alone, hehe), I dug into the first bite and felt like I was drowning in that tide of mozzarella... it was something unique, something I'd never experienced before... Everything went in like a bowling ball, because the melted cheese kept coming together as I chewed... By the second bite, I'd already bitten off a smaller piece, just in case...\nThe fainá wasn't like the regular ones; it was like puff pastry, and it didn't even look like the kind served anywhere, nor did it look like it was made from chickpea flour. Added to the added pepper, it was pretty awful to me. Even considering it cost $160, I wouldn't have eaten it with gusto... I wouldn't have been a fan of the mozzarella!!\nSpeaking of which, I didn't like the tomato sauce at all; it seemed like one of those quick ones, with a taste far removed from what I expected...\nAnyway, the next day I had breakfast without fainá, and I shaved off the mozzarella to reduce the cheese layer by a centimeter or so. My two faithful companions really liked everything I offered them, so in the end I'm a non-conformist!!\nThis is all MY reality. There's no accounting for taste! Cheers to Diego, aka Kiko!!",
+        "time": 1552752452,
+        "translated": true
+      },
+      {
+        "author_name": "Santiago De Souza",
+        "author_url": "https://www.google.com/maps/contrib/102763044468717217112/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLRiQFG-2DVeldzFijgf8cW1XKAtGfvq7-E3l6KPG4_McJ9wRL=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "All my life buying pizza here, the best pizza in the world without a doubt, I get excited when I remember it. I give a total crack, I have beautiful memories in the pizzeria from all my childhood and going is almost ritualistic, the best pizza in the world and I don't read any tears.",
+        "time": 1727923131,
+        "translated": true
+      },
+      {
+        "author_name": "eugenia contreras",
+        "author_url": "https://www.google.com/maps/contrib/113227827955036409635/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhgaNv0XvE8MCwgDSA8AelUni9RsA36_UugPqKcphh3UevBVUx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "The best pizza in Progreso, the man is very kind and attentive\nThe muzza is very rich and abundant, the pizza has a good base and the pizza sauce is the best.\nRich Rich for the weekends 😋",
+        "time": 1728437522,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "meal_takeaway",
+      "point_of_interest",
+      "food",
+      "restaurant"
+    ],
+    "user_ratings_total": 309
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.6713616,
+        "lng": -56.3714702
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.6700032697085,
+          "lng": -56.3701154197085
+        },
+        "southwest": {
+          "lat": -34.6727012302915,
+          "lng": -56.3728133802915
+        }
+      }
+    },
+    "name": "Artesana",
+    "photos": [
+      {
+        "height": 3199,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117758615739601257966\">Artesana</a>"
+        ],
+        "photo_reference": "ATKogpfzx-L0qolsmD66VN1-0d0aQR3URY0p7UYRCFpGab0ND_CYgqpDZqCTU37e_qD764U5ZYAHXVVtZ2Ov4SfoRmVOJxm8x_BWwe-J5fG244o-E6hCLyuKqmgxL7xwOOzQi4Mu40Qk_SQexwbfd05QHmk35IZ0Clbhpuab4ao2XGQLNECbWw7_z8GQsUQCFqHLfwOj5SPLnNZX-94F5MSK8t_ZQTTnWyOy5a8G5Tr9N4ffypRF4TKUBUHiKrz_rgFpUuHa-Akdjo5rb07IOScFLKo2XYYDwAAq1IwyPiiifNll0g",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100073921365379886788\">Gabriel Rodriguez</a>"
+        ],
+        "photo_reference": "ATKogpfwzzPaJPRDBY9oWKb8Z14C6ms0gE3dmZ2lRVkWUrfngJRYWynfFjICWjH6C3YFooOBg3El7bwIOOhJj4imRp5sbm-6kweeQyRytM8Cya_wbmMQksVs9JVrILZ_MShx6-yB5azsSI677dipAwlkEA-jRLj4CEpJTBpzye43w85bnWFdgHOSzhUSrz42rAtwVi02STB6JPpGkLTwTtDpTCcjRfb7PxLC3L71F29py5Qj3Ag4S6z-CEpQL9Ocdnx1AwjALrEH8aCcFxx9NemoFc4O-w2L5VncAYJh0m518SoEDw3kkMJ0veRwnuq47hzpVyHg0Tv-DfL3rWtdj7qi37BCggbKBzT4hCYz4dtfXgCSIgylY85Pi89S37iSb-kf1mNhXxfNBGhUgpQfyLPDSyKy0hix5n1TkRoj2s-_nRfu-OEh",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100046459895641183742\">beatriz chevalier</a>"
+        ],
+        "photo_reference": "ATKogpfiEP0E865SdH0MMThMr32uJT0CzHqc-MgZo7UxaEhXRvvryyQ5kFbnYhHBOvgQ0W8iab8THlIO8-CNJpt2mSyjm_udkhFD0KgV4LgvwiOOnt9gjdDerHha_fFIk4MdEr_dxjL4SsqRKBjVLp_oHtrGIeYAiYiyB4Iqmzj076o1MhfrP7lU0L-dtmPHAiX21Z6XMGN7wIHILUF9UzGWaxSDpFn2rLZpyZlg5kDYznULICh-gB6cLLDgkm9Smisnzmv5HqRevnRG8bRCUAK20CVfZAHil60Ui5wAUUK-UInUW5cMbThlOqBb21in1VFYeYp7gkf0N0qaoCDgTqWbeEu33l25UUjhIBkdgRJWyPojYi3FIrLeqNAdCCB99h5Uxhzr2Ut2bXWI8mJIDNYlliwnDtJ0AieUbV_xjxAFTDs",
+        "width": 4032
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115618524220529428556\">Marcelo Guarini</a>"
+        ],
+        "photo_reference": "ATKogpcjrXyb4EijWqOx6q6k1k1u2L7qv5Swtw4eRFB31J7xuAdHUhkCC3igpec-9itSYRn0tV5Tj05F5H2Omy2MSKR4VLlMgr6OmeCKrn1fMhUYA5uPWOUIXqBed51Ek_MiZIpfPzIGf5Yjgwctrul6aRSVmqiTIxRinVnvbCHOeqjJY66etUVCkz9lm419XBy9hceCHjhjVMIAU9m4gFYILYiDu3bFdaSJqGN3lJCU7Pv4uvSocFM_fV9teRRq8fmzyVfXgpcSqlPzbd7KOOYpHdQr-97Sv8KZ5-qyRvzknK6NdrpEP0eMWSSR2ApqFd4o4xPeUzjOzDwIDXY_dTWn_fIWUXPUcfof5z2PjnRVrh7eweQU_YA4A7benOhyQoGOXyrgywepBtIxmkWbHaDboVPatFYnkcTbDSQ0eH2D5k48cy0",
+        "width": 4800
+      },
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114775607198812748522\">Cristian Safie</a>"
+        ],
+        "photo_reference": "ATKogpc9qBGCREK-Bw7ej0NSFxq1yXNu8opzGsOjFiUT4Unpd1DLwvAOGvhV-c6Czp9TO7dODjR_zBUjkoijAGv4NyJ7XUPJpnRV-scP53dSTKbwtwkbKuA9NhB4W0DJyMEys3q35nw_PgqBtcPMubA_9kMUxg6JbCCAFSbNCgJpxKaC_KnlMy2IISN5bZu6KDeGv41gJbAyGK7ihkx4Yu1W6FRCuQWJCOCoqRXpDB2npTriIG_p6QOaldvHMJdK8aLcYjAXsjp4cxmo1JKzms3wwsZtatuav7uLZlMrMJv6vhyK4irawHtyMCcCpvt65fL7luHcri42s7NBd9k-YI5vRi89LcrUkNVPQN239Or3ia1JpUHvNvGpNQys8d8GzXAF_SKTZNm5hyFjQUxSGKF7orjwNfgRYalX_TD0cIlsr18SqctK",
+        "width": 3264
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109317872215889934770\">Claudia Pflueger</a>"
+        ],
+        "photo_reference": "ATKogpcx5GaxaBZr0SK_6gq31YgwV5gG-XMloIil7ofe0YHhNQQOFTPcIcvQlLZn7Z2iwa9B584Oif8bpPP0FX3lMoLGnYlO8f3x5JxFDb6eMLZHqzS0WD51fmXmT2FYC3RxUGlj4lGV_4RDtTHwNQkFwgXtOIICX_EsABbC6Yu2bKMBYJvTu-rcbsDUfiOnqN_-xFvQCBM9gM9eYpVFsXzYpiJ_Hy1WoN2FZoEAcGkqa-JofP72gfghZRjfmEjsGYl8C3ebvpmQRE-jsTPblDlelOLJt57MBgItGp8lDGmbH3nTwRLJJjlmdQj25WZxNvW2MEh0JrHp2ot9njEN0Jp136dC_WWG6lBdi4KzNfnFHtNtpAC0FXpgzK62uepgBD6Xme1hA3X5dS2b_u_MXrd-_iCQ8rIrvPZBgchnsSBWiccWMg",
+        "width": 1200
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100073921365379886788\">Gabriel Rodriguez</a>"
+        ],
+        "photo_reference": "ATKogpdjhNlEjWWG3W-n07Bij_saMz0zxxkpgcPNDMyO74kASd28AeV-IB4u4aA9Mxjlcs6dgmNyRYEMUtcchrYQyco0rtxZD0W7a9CAfVcFxFFDywAB1_9_Z6tOWGfkx2gRN0GeYby8lLC14oysYMMWo7a_g4hvhVLj6BV33HWfTXa2FyATMnjUiCkLCSNmnsrvMiDM-evBGGWAFqPqOxz8OoV9vC9LjareZPDRgmCuaZhADxnyfoSvZjeFNN_W5UQUC9mzIS5SKxjH2fQqpoi_rHNhNbgbNZJgcTXvLKwhhF-h1h6kYupmcAJ6BkqbZACzGWUlOitaN0pTDyPeLjXaNqkv6XXVhGELffseXeRs10-JiqPh_-ypPFOwF-lt_muYLipIdYwpI5fNMGLiB6fsaM22-FJq1TB8ve4PSXsDYma6d2wz",
+        "width": 4032
+      },
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112779957809811714215\">Laura Meléndez</a>"
+        ],
+        "photo_reference": "ATKogpc53DyLFS4EfOnaB8DAPR5Ul_CIPRcj3AiqKixhOAuaQ89kLZND0Jvn3pk1ANxt-Ms0iYPMXQUf3MUL7ZSFdRBVrNi2tiuV9_ou4xl7mNf7amZSUUDTknf2ku1DCQB6RpYgRu2pyZE8a7krGGijo6ueqSb3SDEOn8vLGKvt7LaZcG6Yc58ghZLTCb9At9NJ8lDvptbl2NZ0lE6l3YA-oeyOz-iilqAlonQraov3lW2yu6F129m50aHmOb1HTTHlO3tBrVCGhAuUYEk6-3jNBFIaK5nhnDvFvmxjiZRVEQPmNGYY98RsYzDIRKtJiyHHkjpxLwGy-PPot-Q1HPf2xBEiuBkYLuut6SSlXIVYBL7_uxauM8mRf2D-WSCEYYuYfarxNL3WH0W2bA9FbsIlhrL7gV05tBWQGaUNK89shL9VyeB7",
+        "width": 2304
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118114802540560104013\">Helio Costa</a>"
+        ],
+        "photo_reference": "ATKogpddt9-M-JPz-r0Mp4SWb2uKx-kSkqnkljyAA2UwZzEjUiYHVeCQvGekz71On9luq6GCDKTmSfIs8ZEP-miOae7qlm8x925uQukP4_HxRZmLr-Ev6MtKl8dTD_RtlY_PDRAnn8VCCGSWZ3ZgL78WAkiJM7cc-H2dfjR0VVBvxkYQGFQ7gWlARUrG-iwqPeEC0kLax3Z7f6c4vsUx3_oXqIM_BqPp8SxZXJgE0IWMlYYGikDLCTPzSBaMxciMUkEJIE8bx-PtLScxUG-kMfLsBJKxhs3EhQBxZkVab0DkN9T2VJGD2jM_XO3ZuUd5p_Ip-NLu1utjbSKbIzB2hGwf6295ky9JnUXJwX9cG_snZeCJmTQZ0h3QygAWGLVwS9qUn_usIlyr1a2SlSA2uqOaVLuxV65GnwCuILFzpAdmmoA",
+        "width": 3600
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100073921365379886788\">Gabriel Rodriguez</a>"
+        ],
+        "photo_reference": "ATKogpccHHyy_ZieYKvGBGGR0xt1cHBiHNz0fmyng_6cDuq3zH1sFQh_XHpzH8NRV-kESOrOzyiXAVUVktrJuRmLZud0JilT4mS0q6EaFC8nlTLhL11PXLujTRl1vyt8c3GBkMZY5Y14EdhL41YNKlPEy2jc9UJ8GddckUj5geyIpOglXNxFnLX37kGWwaenpK-cePJB6BsAuINxGjaZiq6TLsVzuaTMwodovbDlM94JRpNOg0It6LeFX4jyfGFFdwqadPbj8GbCLi8QroVU-UW_osSsE8V1SLh3lxfNSe6YlWlVPT-1lavOBEwEopqvg70vr3M96qWtIoQyhJ4bUqKWCr63vU0zWD8LAMZQEeBlXe63KtwkLRZx63pLNiJNBveIt1pcmmBeiY-aaHuaw7c-tL5NJIEjcq-XwqzejhgW0dh-o8wM",
+        "width": 4032
+      }
+    ],
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Luis Gustavo Peccicacco",
+        "author_url": "https://www.google.com/maps/contrib/114324996317955403539/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYfQN2xvUijuAoSW8vmTYSR3CVH6PF1kn4aYS14Ut-W2xHcOIoCA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Outstanding experience, from beginning to end. Small winery, producing 60,000 bottles a year, with a recent story. High quality award winning wines. Lunch was delicious, with a view to the winery. Edward and Laura were so welcoming, and they took us on a journey through the wine history of Uruguay. We learned so much and had the best day! Don’t miss this tour!",
+        "time": 1703501605,
+        "translated": false
+      },
+      {
+        "author_name": "Helio Costa",
+        "author_url": "https://www.google.com/maps/contrib/118114802540560104013/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUW0PFhT7xmn0g8y77umIyjQloL4M-08TY4S1QzMNZ9UgIcrQGe=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Today myself along with 3 more people had the best experience in Uruguay so far. We tasted great wines paired with topical Uruguayan dishes. Anna was the best host and shared with us every detail of wine production. I truly recommend visit this winery in case you wish to have an authentic Uruguayan experience.",
+        "time": 1706660972,
+        "translated": false
+      },
+      {
+        "author_name": "Augusto",
+        "author_url": "https://www.google.com/maps/contrib/114931810745988416835/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ-ZAEirJlO1J7iPIaHuSxxP33I3qzk_UTSUSdH7IxIIcd_0Iu8g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Beautiful place! Delicious wine! Ana hosted perfectly! It’s a must go.",
+        "time": 1673698641,
+        "translated": false
+      },
+      {
+        "author_name": "Claudia Pflueger",
+        "author_url": "https://www.google.com/maps/contrib/109317872215889934770/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfGTL3WGAvkXx9CbT2Q-S2c1sjFJpLvCchcP8hDraDCCszNwfY=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Amazing wine tasting and food experience. Fresh made empanadas!",
+        "time": 1676861124,
+        "translated": false
+      },
+      {
+        "author_name": "Joy Whisenant",
+        "author_url": "https://www.google.com/maps/contrib/113195046377664541448/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW1ZjUpQGYxAlh02O1Ao68B3yi7tRSXT0iFObHNLbA8Fm32RHk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "In Virginia, bought this wine as a gift for friends. Apparently, the Tannat does not have a body to it and it tastes fortified. I’m not sure if the imported quality is different than what is consumed at the vineyard. Very disappointed in this wine. Really does not taste like a Tannat.",
+        "time": 1696734381,
+        "translated": false
+      }
+    ],
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "restaurant",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 47,
+    "website": "http://www.artesanawinery.com/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.7251234,
+        "lng": -56.21880239999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.72382786970851,
+          "lng": -56.2174510697085
+        },
+        "southwest": {
+          "lat": -34.72652583029151,
+          "lng": -56.22014903029149
+        }
+      }
+    },
+    "name": "Restaurante Bon Appetit",
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112504660494362258937\">Gabriel Nuñez</a>"
+        ],
+        "photo_reference": "ATKogpdagXsE399J0i3NeuNRiVftTSS1DRkwOtHHNDRI-bpjdfgN5OAyj0WWNdiVswnM319pldFc2unSbzKln_nFFyfIRvB5Zelt1--kxnxaCQ5oQMIzw52gP3KWxUUk2saEoE5WJ8oDMXt6824BEEl3uONpvGhLlyd8P1IysIl2Fdqhwi25HmDp8DAIU0TU5z4vW4XU5K8XEiWy77t2FCizUuJDOqA_0a_hfEIVFnHpG51PBhX3tQGJ5p6RLVW3yJ4jv7WV1qNx-hd7cNcOn0195FLqEedMpmGwa6jTwP7cFNC922bHRo9LHr0k2GKGMHT5h2hvKVOGC8vmTyciOG5lrcRTJcJ2sg6QMqNZwlNXFvhM7bfKGN9fpfl4eAPFww7bX3olgz0HnGcl5TysCaw3YAMRQUxmnPizXUvUDC9s1DDf5FIV",
+        "width": 1536
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109591123401798203953\">Restaurante Bon Appetit</a>"
+        ],
+        "photo_reference": "ATKogpcMFKK0SL7vkdDUN-eVAGvTALRvdypikJ_ijAxa9Wi0kyBdIiegRzoW6qOdvcYaMORAa04CI7i2SfeK-WC99-VjD8VLAf7zPUcwHY7akWcp5VyVIVU0hISVb1l9wS2zCbEN9LZy-cMzsYlghvWU5N6UCkcu_D6aw-Veb143FqIi3VmelKLEEB3ySohla6hsqlFs-f6J5bNX6PeUOEdIW6pp-37bn1-RcbIlYYbHHB3yUganyGSrMs9D3i_FF6i8vPgWK7wD8ugzPm6yghu135Kz1gooCwyD_0bY8hoVeDyY8w",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110770815526751741459\">Martin Ferreira</a>"
+        ],
+        "photo_reference": "ATKogpfo0Q7EQfM0FiyGKgvoMQCw9st1O6mGdE3GQPG4zv6mLTAFhlvV0w4a6sYMXMtnOWe_c_OkVbuX4687RdXv2aaZroqateGAACrAeScLXi1f6Z0zNP75VUmiFfQn9r-hzKIxUatD5ekzdWz9YfqeDCaicqfsiBRUHdm3Dt_MEXJf0jSH5scbbUIiZYlBAYEw8bNE5-r3OjxrtH2oFGA5i1f_08N4WWLWJbcEXyNUURg1hiqoSmroZ4io9bYvnPXGL7WZxrwfnZZQBM1UlJQMy44LW_dprP9A4adqOdhZaN8hBUKH-jt9gpnbte9k43cYMlNHijHXW-mXaj_ItEEqg7o4yItRFHTYC-J5TftWncKoLhlyiCpjvBEjkukoXKY2t0gwsjDjsP_sSrso3GxxoMgUwTHQPeZspKhFRKo-RpsDrQ",
+        "width": 3600
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103163232683519382075\">nat rere</a>"
+        ],
+        "photo_reference": "ATKogpcfvgfvtePeAUhf5f7lPrqpsL3XCSg5XkbbnI03usBvaaH9vLi1JYrZVP3r6tvkRmJJwKCIX6YnapSNPKMABJUDRUw_ZiM4vv7yszJDQFfreWQXtmfUnGzVphL7mvH3NqXUT4kPciJW-C4S3_yYyuJN95P9ThcntCVHtexK-zcvVB2aguP0ZmPD5NV4lCG90ygPiVP8buodCJtZ21FLPDZ-IlnsNzf_CQ-jVRZXgtKAfT67iz5u_bTAcrAr_eMWzHCq45q1u83gb7jvljNyF8MeP-T06obT06sbwoRdxNl0j-4ZU9gZ8zbVUN84kBV05T23HT4qwUikdufDRrjbpHj2iKzaaW7-BlOx3diw63HxFsvCzGgTEg4VgUhEGNPQeCku2Uv0VJtfdSiozg8mZA0S7PteQeNQ9Y0kGrPJ0sthzyhK",
+        "width": 3472
+      },
+      {
+        "height": 4640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112504660494362258937\">Gabriel Nuñez</a>"
+        ],
+        "photo_reference": "ATKogpdNnCbNwLwIAfImkNGWQvO5kruR2qiCwGXFqMdTgaIYVZDjDf_CgfESlFsHqD-13hAiCr_euC1fopoMieDx0rYR3fkUglgKLfAVZ_MiSZ8YHinPQHlYOROqnMV-ATC0YJUe91lATOHKwCa-a7qC_ArlpxsYPSCxvWopOJeVsIMm6zzfeGsoU9DpNLcGXFaUrxHDae96n3W6USi0qSFgOsvRq_trykFwCrx6FpH1DS_B7H--od-Qbox8uUCmHEE-i2MRizpbnE2CuWjGe1hQK0DSBWGkA7oPBYl_XMGBbXmA_jnCLcyDseDQ3pkE9OUgIn0GIzUgKyt4VP3tB30GobwM2krAQlyRKeOLh0sUf1zBOdINU_3abmvU03HR0n0m2G1qpM5vQk0BPyZ-f0eglFdVBlDkVz-8O5oIgiPUxpmYvw",
+        "width": 3472
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103163232683519382075\">nat rere</a>"
+        ],
+        "photo_reference": "ATKogpfijr0ND6_5WCCGwb0_jZAoMlI1OsSbB1kR7wl5xOM-y3enqhdlx7KRyzlErNXdoluBtgDStvgBfE6l-F3sDahFxyhWnqUPQYZDK2G0pjVv8lRMVKIMNCJI9EYJkYLMn-XZQvPGhgsvNrqgoXD61WrmzCpfRFtbECoWGFgQmuIOX6zBQr0msnU7h7SDbxYT5MUDzY8sLl0O63kGg1H2QHnyFZs8cg0MvlilSIaUYGZGRyCBVVf789cHuPTp2O9oqIximn2d6BcJgjtCm7MfqIsuvWADZGUzoyBNDyy6SiNgr3xGNVqgbm7BtSteyiGwn3qgH9aUEKk9tJeodgTYfxQ9ng3wsOTXWIBqmT2NABKyptnE9ZnIcKadsoL7U2Fm8t7FPzmAeTdk9IB9zt3D4nO3lPVcMsbf48slvPlccM_StYTT",
+        "width": 3472
+      },
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106446705648858043814\">Gabriela Estable</a>"
+        ],
+        "photo_reference": "ATKogpct1fSGRVkNZdP_Yo1IIHOD8KheRuW1elcrsk19hd8s0QBPXT5zeUpJZzEjO7j2oGcF1esC9d-p_2vpQHeTA4wDNU1eKxDjqRi0I54x89xNwrVbWxWP2_341epQDg2EHrpHSC8ewddPfDDbFdi2GcaU5_DAdbl1wXDbU_Zswv9buCttvDkkRC_7xTO5fcfWetXwI4NMaspN3JbSPrliRiSXkvRaxhXRKB7_vUwA9E3i6vmGwyLoPg0nvP2FEl6QNw8ZC_7sNF1_OLlS_HlNYxSWDasFW2uQ5xSlNiUIplNbPPWzC0RDiyRNY4omyiovmMI-V6AqveC-a1aTNlp-Qbekcz-viaBBSpfwBlovrMhSS9CU0fYmoJstCUtbRFm8rSiuKqlIyEs7UpAJ75arM5lzLiOdEm_czoU8PSUVqiEGaQBo",
+        "width": 4000
+      },
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106446705648858043814\">Gabriela Estable</a>"
+        ],
+        "photo_reference": "ATKogpdGbDALx4ZBw8_UFmsSCijdXCZFnELvvpS4pbLhRM0NtB_TPMap1DsE0IQhMqgAZPrFKAGpwBy9pqarWcK3gC-X4UCrSsUMR1elpPg5SFdPkFHiaRrVhURBvTL9jOCilWOqX4O7ecxlBq6kPMqaFE-TtBHgcqtSEuTxDj0-TSqwUoGfNPk2wfKihYlsxAo6vtciL2COKv97uuYJT-A4V4IlYtMvc7huOZ2kyDdNjq5w96AI4-rP40k68E47VxIeplolVPfR5ZrTTpFP1qjtrLpKt8yQ-JBpK1eVZ6TYkAx-_gXjbDvGG_zunNMSxsuZ2-DFgzLYFbyR6f4jwJYOnZ-iRrwppNVgYAHh_AcG4Yr6QCxZP3I12O9lC4bjFyQ9kCZ6JFgV6WGvj3eDUE7H2GHCi3mbXeVr8pI2NbXhP7IrJUKW8uslTaOcf2Yj_cmc",
+        "width": 4000
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112504660494362258937\">Gabriel Nuñez</a>"
+        ],
+        "photo_reference": "ATKogpd7hJmZ5yfrV8B8CumFvGUg-lkB9QQpHiz83QY1NrCeKy1hb7MxeynTy67f5DuAPJL15z56tb-ClVlskDHMQZFAMm7dJ3LDJURoDij0geRAr4Zw5YoddWWq-ijG7LJ3N_UN63poIADRlfvdHspcauReqIiFbxT7trKG95PGju9QsxWS_6rrANZ9RNMn7GFd6VTN567TQ4186vgUOT0k5PCMUezEtCBZf727qaEicG_rjbcpyqXsUdFaasoCMbtfNy9_CMPsBsvRJavKL-CaH2ndvzw47aaP6FHXt031X5lYOxcqKl1RbYjuOUIxl8gPQfUY0oFuV5w0MbNxPPLX1CQhU3EL-rQ_EVfrQlijzWQLW3AeuH9hejNr0ndwd_BPaalAFjtEjWRwk4_RSMkabneaWHAs9ZoAlBYE9OUc6GJAKw",
+        "width": 1536
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105753265788604594970\">Richard Damiano</a>"
+        ],
+        "photo_reference": "ATKogpdTs04lX1xD1MRYHWwup2XigrKYSZs2q8Izb18u0Gvrv07F2AOktJxnI2ojfntnqkHrwkc-tC_VaFaV8RPbT8PwyyeJbjbAF2ar_Z2nTZTM-zLb_wSZbvSuKWS2o-ar1okkq_0YHFanT8y-BcapudlCYBGJyMFEb4PGBrtw6CRRw5mPgG9TdZeXFLia3woaFtrWpWVvHVXDXVUDWHt3f85l93i68BIS2Hzuo5yID44AIZBnsFfDxcNJYoABX_BOwc30iXHwhNAOooYTU2wAenxxLVAsWdr3y7isg7o3K_jSGM4F_or5W7qNUi8joFeOoLMl2WkYoLmC0VyLtpkeHHPE-ioMjPpb4_ogvQGDkSJsaaUT9kygs0Wc0Ux0jq5326Dzz-VajavNJYhW5zuCZi8pIdzZnyeQlruDP81aZ6fuCc3X",
+        "width": 4032
+      }
+    ],
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Gerardo Lopez",
+        "author_url": "https://www.google.com/maps/contrib/104371234448667572456/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIC2kfhoEPgGJ-BRWP5m8tskTOPc-X9uNCA7V1cgCjAmPXjaw=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "5 years ago",
+        "text": "Ok",
+        "time": 1565086567,
+        "translated": false
+      },
+      {
+        "author_name": "Silvana Teliz",
+        "author_url": "https://www.google.com/maps/contrib/107227063610563077914/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEQk2lxseu111zKt0kbA-92OLaMlccXJ_5J0F_1Hpo9D2xvw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "I found the place by chance because being close to the area I needed lunch, I didn't think that a place so hidden, and boy apparently it had such an extensive menu. I was pleasantly surprised, good menu, varied options, affordable prices, good service, regarding the dishes requested, perhaps the chicken in my Caesar salad was a little dry, but nothing serious. Nice tables, quiet place with several tables occupied, so next time I will reserve first. I really recommend, family place",
+        "time": 1739136012,
+        "translated": true
+      },
+      {
+        "author_name": "Gabriel Nuñez",
+        "author_url": "https://www.google.com/maps/contrib/112504660494362258937/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGkLXMh-JzuNQKr7rJBrq1k5ebbiPJgoysaQdIe2cEItYATY-ItQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "A place almost hidden in the city of Las Piedras, but worth finding.\nWarm and friendly, signature cuisine is its motto. The service is excellent, and the dishes are on another level: unique and excellent.",
+        "time": 1734908657,
+        "translated": true
+      },
+      {
+        "author_name": "Martin Ferreira",
+        "author_url": "https://www.google.com/maps/contrib/110770815526751741459/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXigvvzzCWXBryjPHUDf3BV_0DR1sWKGSw9t0YPvBnzoDTAa5rYsg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "A very nice place, it is a relatively small but very cozy space, HIGHLY recommended. Excellent food, totally friendly service and always attentive to the diner. The starter, main course and dessert were on time and exquisite, we went for the first time and obviously we will return. A place like this is very pleasant to visit, I recommend that you visit it and live our experience",
+        "time": 1737545483,
+        "translated": true
+      },
+      {
+        "author_name": "ma St",
+        "author_url": "https://www.google.com/maps/contrib/115407201871089720509/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGh01Lh3LujJTKZv4p4o_cP5Bj02TQbGjoHMItmZ3QBVP93w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Stunning place!!! Gourmet dishes!!! SUGAR FREE DESSERTS ON THE MENU!!! CONGRATULATIONS!!! We loved it!!!",
+        "time": 1746877952,
+        "translated": true
+      }
+    ],
+    "types": [
+      "food",
+      "establishment",
+      "restaurant",
+      "point_of_interest"
+    ],
+    "user_ratings_total": 678,
+    "website": "https://app.cibusqr.com/restaurante/bon-appetit"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.7239569,
+        "lng": -56.20998299999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.7226746697085,
+          "lng": -56.2086542697085
+        },
+        "southwest": {
+          "lat": -34.7253726302915,
+          "lng": -56.2113522302915
+        }
+      }
+    },
+    "name": "SSI COMIDAS RAPIDAS",
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106354656681399464975\">SSI COMIDAS RAPIDAS</a>"
+        ],
+        "photo_reference": "ATKogpcwpgaWF_AiyqlVWSKe0uVEU4_YwfHYtU2P0N1ZQXfH3BcVLP2CWRvAR0o19Ir7p0xTPYqhcpNHQ9R0A4xAHsl_Xs56zvlTU97GtVYV5Y-tM-p8EN4dzIrM4N5OsQ525hA906UxbBJZu4kmmsdNj71CwbvJYeE36Z1U3u9BzufPoE-D8C_XYZNUMnu3M5VqpYsD9IBSaH2wRspMw38yZsrYIrrCNZ-6qbf5XYy1lTILoVoEF4rD8IoAog8djYvZWBpUoBLvJ22xg7a_G9R3lhbxdc8g0Pm4Coiw55Ii7QDLgQ",
+        "width": 1280
+      },
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106354656681399464975\">SSI COMIDAS RAPIDAS</a>"
+        ],
+        "photo_reference": "ATKogpclLwUgeOQ-QPDRTqPnSk51uJkvid6hRg0TZasw2mQvwcSigxJ9qL5HgHpDlFRSgO32mE-G0ZYWM2BctTnSd8mGX6I9vc3aIoj5P_tuaCbIkDOhnp4LnCn7cDGrLA9dTXRzo7UX-M858d2gMlgeBr0pU1jz151mXzjXKmbDWidVlVcC6i5ef9XrI9nri3UjZIxhVcbfXqle8jkpMeEb52_olIJrUVYy72tSdDr6581cfHNyVzKs9wMnON8jsbitQKg0PUlu2sTNG8oo-o5zTyDXs8D0ratMFMkBluOy3mUrOA",
+        "width": 1599
+      },
+      {
+        "height": 342,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106354656681399464975\">SSI COMIDAS RAPIDAS</a>"
+        ],
+        "photo_reference": "ATKogpcqz_QXOCCOSzNI-ITWB-nMwVQIowgN7AP9DlgyH09Lz_ASbZpzfBLar5flz05fW35yCfbS8H0sX5LYckggTn9mc7qbOocIIWZXUc9y6CY9dN4buxj_BCgZwDW6xcDP0bLWpXfsvTBlM2RgJshGnBmDjUlyJbsxxH9_uUaGA_aPdA62bQxlQamNKv8DEyikk38k8BOB1ZSvjxWBOlwu4NUmNahkwf1YiD9AGXgyyuMx0XH-G60buB987oYqtUYOTyCGjiYaCCnXx-i4VXlJyQoHoozF2XPuuWuyBIZLGfvzwQ",
+        "width": 456
+      },
+      {
+        "height": 342,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106354656681399464975\">SSI COMIDAS RAPIDAS</a>"
+        ],
+        "photo_reference": "ATKogpc2BrUml8Ocmhe4X6oBqn7xDpuXnNdV3xYHPFAmjGLy5WfVnmPydJt4LCwHSy-YRogZQ2bJ74jPnt2ux90_W1L4iMckW3vxXzMAB9pREhsdzIJAnXymVvTNDLUc5mxfHtGgVZI27J45ETWitVlslo65uVn9qqe1CkIXawGFI2NLCDZsemGSoH1Kr3DqgaH5mz9PxSxuydy_O2wzLZzQdK6CoqmwGZMeZ4Z5HsDuxsbzl9U9687KvHJcePcykhNayq2jOKxsvWhFI7aScN2fw7-lHjqldsl5Qpm4q3ajiYrE_A",
+        "width": 456
+      },
+      {
+        "height": 342,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106354656681399464975\">SSI COMIDAS RAPIDAS</a>"
+        ],
+        "photo_reference": "ATKogpciE4b2agbagNQMI04z6CmKF6AGH4tHsRCBZU3QVfNNBmgnV9QJMfAsNGazjk-tNm0PwB-gps3BOqgT3dskzuIGzHBjSjfrpjlSdcJK3khvGjP7POmIw3LelIGCuOZt4jpz_-WXlJw4IOpKGtL5wWvQI8JpeBo-YtK0jP8yHFiAsPaGe3R3eAJ19iq4OfS2NEl7GuvuvqZkGIzwtw7bLnY0GnKDqQd2NgixWl8PDV1gxru746wQWuaf4ygSPhFnmj-7FM7pF2vUQkedrw3PR3VWitGbh6nCjqJS4gV7gIwI3A",
+        "width": 456
+      },
+      {
+        "height": 342,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106354656681399464975\">SSI COMIDAS RAPIDAS</a>"
+        ],
+        "photo_reference": "ATKogpciJu9e0d7q3v_MP6uLevR3Cs2Iee1ZohSjxYiXo7Hv_Lszy8ocSJB_O5jG3ir4hp6Aeo-AWw2sMhq2iammgrn7qd-PfQQ7eHlu4jx-SGuf8XWmkLM3i73l_6Z4Cwttj_wx_ebnKYrIjYslhCJOcv2xxVpMYXQPupmzwkhAFpmibJuSGFsZHGX_6k1SaPVli6FwQVcOdct18y7E9HomIsVW0HOSU5piD6ZVbj0hc-_P5S_cXP1gMHibX-alRwa3B5xXyH0ni58SZdz-nefUVUKtyaqw0Ji97D4VSXSj8DLVcw",
+        "width": 456
+      },
+      {
+        "height": 1066,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106354656681399464975\">SSI COMIDAS RAPIDAS</a>"
+        ],
+        "photo_reference": "ATKogpfIFZbSQfknOq7C8YX7iAOPgOsQbeMVYCJkh7zfNcp3nE3UTKkGb_1KSjrYh0D9ikbTH5gacSpI1Ij8bpiMCU1v4tZyRG0t-0cOE-IxVMVWQpnlQBtolEKoZWbDVCoNN9j9m9iHqJXDWm_FdcE85g_dxJMC-6Sq_cYVhieD7c0co-gkAbBhaRVYe2Z4vdtCLa1BEW43FwPNMJQGjRtOXex4qjlr8PzTpyOz-Ci8hUB3KjpR-gTTaRk7DlK7XvU6BfXJPOOWIQJ4HA2Ee7FN7iOzwlX33HDXtS8rImP3FUW8LA",
+        "width": 1599
+      },
+      {
+        "height": 1066,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106354656681399464975\">SSI COMIDAS RAPIDAS</a>"
+        ],
+        "photo_reference": "ATKogpecqRyVwIRmjF7WxuGoGLNR2Oqz-c9OHJqvi6mh2OXArrWQ3xIpwSH40f3bsUqDu3AMD5_q958YeA0cMdgfL_nDWsNNroRUQMYf8WbkbiuOZOfG96duXCMTUr0ZCptvIrzhhcW7NCv2onrEYF5L1I-xd19c1NEzk0RaRfQnZioRkRGBD0kMr6VWNvK60ElTiWchU39w6EQj9XY-fpR9PHbqfjImLUj157lv5U-kwPMuOQ8zh3ijFfAFU_m9d5PHVMyrDElRQdd-8l-sjM0mJ91SUNb75lQZmzMwPr-ECk4NLw",
+        "width": 1599
+      },
+      {
+        "height": 432,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101672352608921218079\">ssi comidas rapidas</a>"
+        ],
+        "photo_reference": "ATKogpcxfW50QNehQ4llpHKahpC92lIdT9A3XCocqbtiuhmjOtykmAX9uIu328l1rFNcOqTwBMnn8RQgoGOhWQr8rMAYv0ucE72n8sjRDbnJ8jNsq4BmhDEHLRzJJ0tFxWAEQbuGeG1oz9iCia_v4rhHoMYzbXljqxPVCOIE0dfBFSPHZxN8_cOElnthX4PvPxp4ERCopXPQcvqSyLGaxDYalYufO8EnojDdFUBayVmMrjOpv9CpFdrVL8ZtqFyWptHaCChUDzpHRtoTVu0RDAz0mxlPkufkE1fLrTLVNNvR4BnkPnAAcao__wgRH5JHXsnak6hkXWCfaRVOQHdCdLRYeDUzC5SO3DlMZW6haCKHjITCk1biT6WXVdO7rJSRQjzrDHSfscYgZAYYd2CqxqKnusqNrjnePdbDN-7kXS64FLw",
+        "width": 720
+      },
+      {
+        "height": 1840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101672352608921218079\">ssi comidas rapidas</a>"
+        ],
+        "photo_reference": "ATKogped2pkuNBGUL5_aLJgBP1CkcygCx2dxJF7hhqqkkt1WQlKMvoyXngv-NcIFjXXPPbkye1Y_ieRAuOeDjLcxH6nj2wSOv37V-edVXenNOY2hwJ2pugfh6ebzBjiEfIQgurBGb6dmMp6o9TwBbX69zMNtOlV6ROOzUYY4iSpDzO37ZJmetdnY2vUEFCeHs3deeW7u4WVAOtKRWsV7E-yYX-V94k4cavMCNz_D7Hy3jqsgWRHLRm88w9E3XNRW-2rNBmsD8yjQjI-9bJAxbTpT5IGDfxZbSIh2i5DixyfkVgatmQSmpbWZbyrJqK1EZkfofc-HevVOQxaccZgNihAz5Di7joGY3tc_ZAyegr7Bct98aMYo5ABhCB2F47XM6tLL5coogwK9g4NBMs4BShBfqfR3cy4ehc-Df5E9tjxKHTc3wKk9",
+        "width": 3264
+      }
+    ],
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "NIES",
+        "author_url": "https://www.google.com/maps/contrib/104428378828557195793/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH1iNkFHREC6Gvcpv3X1kJxyBww0_2DBpQ1xycY2erotzhqw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Buno",
+        "time": 1563690083,
+        "translated": false
+      },
+      {
+        "author_name": "Marcelo Marinho",
+        "author_url": "https://www.google.com/maps/contrib/115935075595887745241/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXi75EW_DwtGUdbNfC-hEVoT9c_edxjAipKY1v4q8TGsqdh_JVnNA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 years ago",
+        "text": "The service, both in person and by phone, is very good, they are very friendly, the food is good, the prices are reasonable. The delivery bosses call you when they are about to arrive. You can even ask them to send you the POS to pay with debit. The beers always arrive ice cold! 10 points! I recommend.",
+        "time": 1581044965,
+        "translated": true
+      },
+      {
+        "author_name": "Lorena Pitti",
+        "author_url": "https://www.google.com/maps/contrib/110273534164023468907/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0LARdeOX7g62l4R8WSCAdPn6H9Fm3S06QlSoT6nwKYQQsig=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "7 years ago",
+        "text": "Very bad experience. Almost every weekend I ordered food. Until I ordered a complete Milanese in two buns and there was a worm in the tomato.\nI made the claim immediately without receiving a positive response to my complaint. Since what happened, don't buy more. I don't recommend it.",
+        "time": 1527943906,
+        "translated": true
+      },
+      {
+        "author_name": "G G",
+        "author_url": "https://www.google.com/maps/contrib/100995056784602848797/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKq_HFniZieaNHNuOZ3THKOZ5vdAK490olI1DoVrKsUK3F2JQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Good food. Quite fast deliveries and affordable price. They have some promotions that are good. Also, if you are a scheduled customer, just by giving your phone number they will know where the order goes.",
+        "time": 1684828153,
+        "translated": true
+      },
+      {
+        "author_name": "Joaquin Alejandro Vilar Rojals",
+        "author_url": "https://www.google.com/maps/contrib/108476669810480573644/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL67S4UovB4j2qJfQV7ZIcToNYkjnnPAHYIjHiswr8-QWxTKg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Excellent attention, very neat and very rich, everything and price accordingly",
+        "time": 1546867190,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "restaurant",
+      "point_of_interest",
+      "food"
+    ],
+    "user_ratings_total": 290
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.7258567,
+        "lng": -56.2052458
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.7245007197085,
+          "lng": -56.2038257697085
+        },
+        "southwest": {
+          "lat": -34.7271986802915,
+          "lng": -56.2065237302915
+        }
+      }
+    },
+    "name": "McDonald's",
+    "photos": [
+      {
+        "height": 4406,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103844820872922773011\">Eduardo Sclavo</a>"
+        ],
+        "photo_reference": "ATKogpcaV3HjYr206Q-5xMnBo2YlUVA70muvVmyTp5am3otS_zVbtxQh6jtyKeM-IQf20hB_XvTy9ObAwjXc_VOX5b-v4QDyPT-WObzOj5FFCeQeTgUwCG4_auoiF_bigQKxyDUH0cU_ne1kqnU5oOAolBoNp2L2Uy5B2ng4IfF3WbYGthYC9std9IZ7MToLW2jXGdjSFPeo2Tnsw_CRLiEP9MisnDNmw6omBjIIvL05YsVtHzZOr1a0zzeRyzab-gKOCDikhjR6j2zuGwVRrTy-guTPhUWozcUDHV1cuE6EUewBUKpUzMINNuR-Kpp8le-q3GDWcE-TzL3ToHy5H_o9PrmUbQT0b-IzZeIb57Eo5d5t_GB-jcXK1tX1Bb0TdGHL2Y-8G5rHIVCUYjAW7nxOmu_FiQNRXLU4KJf6bxAKX_kHnYq2",
+        "width": 3304
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102608060959451015565\">McDonald&#39;s</a>"
+        ],
+        "photo_reference": "ATKogpfTITzEgZfsmHMtvnQ8e73BI5FfUEri-_2zyqnnFoSRoAAr8SHLeUnHefiNhYK5q2f7eL7JB2y_mxLZXo1O_IP4HCH4jSjPwMQPDpvIEdsebBaCrD8lVgr7xjJvIWn6Fv_wg5KEraPUOKMuRTWu6yrDKqVNJ2tWJBMcfMM8Wp8NAHnhg7gW7wJy-a2DnWPePyn9Q-V9EUVbRboucVcG9BoJy5B-1ZNQYay7ez2vbGERYl-r-wvtU9dXBTL4W6-yPf1l7jn95DJuCeVTKcLI51kjgXxSVHZPN0zTxxHLpUFb9g",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102608060959451015565\">McDonald&#39;s</a>"
+        ],
+        "photo_reference": "ATKogpduK4X7F1rz3FDGc_DQ2CppbzW7YOfdY8zASemoN65FLX3LjqhZDNXbG1UWWHmITeaM9V3fJG2E3Jc1p0LoWckJWwW8v58iVXt20vQ6vP4ujGswXgNK6g534RKqKfsG_uPJ9Cpzs--7BgeeDX6tdnltMneOCUp1oaw2tMf-MEIg2V02ny9MRAVwffdJGQLsMegjCXP0DD7q5kBf-rm-lCIUCGRA_tPwiHg74yv-5Hq32PKd7bDWKqlKW7TXmQJ6-jkVCPJGuTluL8kDdAz0v6_AWqtFIc256LFoO3_begA_cw",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102608060959451015565\">McDonald&#39;s</a>"
+        ],
+        "photo_reference": "ATKogpc2rchdblxoIGPA5I24xjhSS7aOEEVcM1N3JFQ8nF1W56xb0Hriwcht0Q2sRHQ01wZumGTwUXtZFdq1r3-SVk7bogY0p34ahEXN3TQ_D5M9niSqMIoJGTTLaTihSCH2aBpGhJtVD7QlvnP9u72FXL2jF_PqNefcBb80_VVw9ttq_5Z-nHixGrInbdRs-uI_NhrjDD-d3ETetWqFDRFNd-QgCHcYp3xz0fMmElXAYyntweprux8qbZVv3kYldRBZGFOpweCTHCaRcfOyyf3-hgWdt3rMam5fU5UvSR28sE_bfg",
+        "width": 720
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100129608264389812061\">PabloDesakatao (PABLODESAKATAO)</a>"
+        ],
+        "photo_reference": "ATKogpcATXUVeWVUzPJaXY1ksyh_HForYX8HupLODEpFEHZBX0jt6ubTnXWX-KragUUI80LGlhbY5aXwBoUgKjQ_rKmZFrW43U77BYesBiMStXcehMnFu_AA85uE8jBzKrbNoUyAnOvaYx1SBPaIharO2gA2c5G5_GRlsrbXxHN_FYmi-CTNd_KjAnbscItlUB3PlV7foczkKTB3_GkLakz1UCUOQyo-TNRFHHsQHVdmj9HmQkL6KhX5hXfSs3svkkx24IuWH8TiP5BZL9P36tBuy0kEruYkNIXSF3ELl8jtPBEDESGoA-kvqarH8KX-ovSJs6mCRnvKeAb90B5SF4NhvmHm2AU7vL4V4cEGh08YFjOXgM2nrE3SFATLngOa8cOkT-gwVAb2A3D6LyFu09ArRVxN59UGZtWuQra-pqC3AhDULQ",
+        "width": 4032
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102608060959451015565\">McDonald&#39;s</a>"
+        ],
+        "photo_reference": "ATKogpfsQSYrQteoDdpgjHAwznXoclpPe6KobeTDqcun2nbaUv6tJuYfqc14b7U9-nFfCkkbcdiJkDViG2bn3AtX6mKyYYt57JPIHCzakB1V2aT9W8Nv1IbYYcwo2Dc-0BpQ6bIPEQ1i4Eat9ETfVj83hR7SMc6wLGnKRM_mfSylTlKCS7hPr1YVGsxjWu6uFW3fbfLr19jRsxTXNQUu4AeRtXbfT9v-Rv41vBOGGKNUxNCFfBQnS8QeALzInV5jnS9Bs2zVMdbKnWCMbHkek6C3zKZwSCKZ9Dufr4dG9qIAKlUNiA",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108520977441230602790\">Angela Pastoriza</a>"
+        ],
+        "photo_reference": "ATKogpcWceX11vC1gzxzjVaBbhKpVQ-WpreZ2VDqYW1sNchumEvTMtpDKbB-6dPZU1vOe6ZMIOXwYrIELEWxTlaXTCmd-0EXcm24xHp-7SfmHO5p4c1zjLRrvWLecCBCvPfEHu0y-bfBAWThQZFgbn2_Kzy-IHBmxPGryH0eul2TdUExDTmWzIQIsP-zF6Km0LH8OHvlk3f5trv6a_7rIpv_01qG8SViUzS8Ja44fZ9YNas6tfmJQEutEl9XDVFBhj_s9THWwUPWkgaEyiw5jyr4ecQbdFMf93Pj5JrMZk6GTiq-TfuvKFispuq471S55xGycmEHrsFZbtuSV2B-KwMy5XP3NfEtkzbJKAEoyhNP-yeTEl7IangeAuOOFm-TYKaw-60DRcHxzNscjxdHXZc_JzBav_YAGXvfXhU043zJcN6I7g",
+        "width": 900
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117542018565982170477\">Omar M. Lamas</a>"
+        ],
+        "photo_reference": "ATKogpe5IcZcoqu9jrHAL1Qw3603Ft7Riusgesn1awSQZ1CXKK0ZJlxdldAKRueShlV5KMjIQS_sUaG_02MYxhVYednR5oT9CgYBzP1FHEVL9Oa1x3x7bVrC0GwK4SMgiEoLeqWbhiRl_pOfcxyrOOstZF6MutCyNsRB3mhAXHkFXbKmO1negfVKN_0MZ8CXprqRQiKXDH9Me-srOxKP_TMC0rcKNGBfDQFiVONpCMktaBj5lWMG5tT7xAPdNPGL-EIC1anXstu9eAUisI5iBMeDRxSp96Uw3kP8Snuk71Qzg3B6WvXdL-AS3WZfH57MkZqxMOvmVZmtTbBfDjMHFVMSZ_1jBKEuojbSni_7s721GptSX-fGiCsTmafzPCpy_qrwd7DzZvvnHVPQo_2ndz48-jx_mxgzdZNLjLTJdPMrOv_g9Y03AmDbnNd0VRDobV1w",
+        "width": 3000
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108520977441230602790\">Angela Pastoriza</a>"
+        ],
+        "photo_reference": "ATKogpf-gw5bB99A-_S1evNlHKj-BGt0ke2HprwpXsnGy49rPYbB3LEx9Ue0E42w0KxFjP_WuSxxc7Bf4CWTRSqXnWlHn2r3qg5uSjR60sxeYusFx4cIYiEwgeycUe84yx07pB9BO9eKwVHtW_YPbo3WhS02xDO9Nlm5TkCHomafKQCo1cHWOUCV3pBVvE7pp3NX5dyeEnaa_-Y4nNO5NW0EnK9tjR39rA0TV1wERs69JQ5xl1ABZOI6Gjg_4vDkK6-RUxKo4_Nky-S1gTPlczFELPgrE889IkrFTPlI5Q7qYgJvvRg_9QAvam1vLSym7bvSAkpEvby2RucQJZlyyQTJqW6BrL3lLVLeE4QifyoV0XC_-9ZH_gNfwOWyvcTcRLq0l8Hk8NQt28huw_MDzi3_wJTPeQO8RjoAnfyuIx4TeWYz60wU",
+        "width": 900
+      },
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106070936056534193366\">Tadeo Rodriguez</a>"
+        ],
+        "photo_reference": "ATKogpdt6HOIfF1T9B9LiQ_AHsPTHnMAiZizViYr5V6Q5pSFSvO7_M5JepIAnkK8fjR8shOL1rPPI_z-uhyAUnIwImpIB4iv8epjh3EJJN-GJWM2wW5uC6QlcN0xDmvQY3M4WY1HRmwxjVYloXIvyu1P7jUr0HL5h3d9hf54Lb33KDhaOYGVlfGC_QhN2B-kWz_Shmb3v_fCYaUPR5FStmcCqsIZID_G4SRYAw0l5alOJCnhgOPn98dldE3f-HiCsl7bQnYS-hu9J6zUtUBcbzwfsrBnDlhKc8_iKE57YEzoxy0JJ40yd94VGaJsBb26mqZquAJeZbwK8SyvHlexF-feoq-_cfe6T8XNlV2thXcMDIFEM_yoBgMiV2qcRSo82l5JA2QxhsDP4CZs3yLX4NPM_dqZXaXAMkdtHhUT95p8ihpA3idG",
+        "width": 4128
+      }
+    ],
+    "rating": 3.5,
+    "reviews": [
+      {
+        "author_name": "Michael Perez",
+        "author_url": "https://www.google.com/maps/contrib/102609513186292167897/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3qDxND7sDY1KKB0aacwQ-l743YHs47-5xZDdal9VGgHAwcw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "The service is terrible, and the coffee smells awful, like it's burnt. I don't recommend them at all.",
+        "time": 1748203038,
+        "translated": true
+      },
+      {
+        "author_name": "Natalia Scafiezzo",
+        "author_url": "https://www.google.com/maps/contrib/108877656817010932483/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXr3leyMsJI0TObJOsSlCg3A31OOd1V3i3hH8O5JATzGGg1Ru5WaQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Bad attention. It wouldn't hurt them to go to customer service courses. They are ordinary ones.\nOrders go wrong and you have to claim that they are missing.",
+        "time": 1743983298,
+        "translated": true
+      },
+      {
+        "author_name": "Ruben “Robben” Dario",
+        "author_url": "https://www.google.com/maps/contrib/113832553629474361895/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlNkWv57iH2QnmicEmdQ0cOfN2_fXCES2GDsOCk8EYP7u0-Idc6Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Yesterday I went to buy food at this Mac Donalds and the service was not good. Even the order came there but to prepare the order, in addition to the senseless delay, there were many officials, only 2 orders 124 and 125, which was mine, 20 nuggets with potatoes and a drink without ice. They played the house\nHa no less than 10 times, they looked at the order and did not complete it, I don't understand that, until when I was tired a girl took the order to give it to me, she gave it to another classmate who gave it to me. I check it since I had noticed it and the potatoes were not coming, and I complained to her and she put it together as if they were small potatoes in a big package, and the girl laughs, I assume from nerves. Everyone was talking, there was no one as a supervisor. You are already paying for an expensive product and the service is terrible.",
+        "time": 1737241163,
+        "translated": true
+      },
+      {
+        "author_name": "Omar M. Lamas",
+        "author_url": "https://www.google.com/maps/contrib/117542018565982170477/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFcQfZqI5vXei7JLabOUXsXMRFBwCUD8xpBorwEDS0MTfDxcyh=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Today, Saturday, March 15, 2025, we placed an order at McDonald's at Shopping Las Piedras and they sent the order to my house via \"Orders Now\". They gave us the bag and it had the drink overturned and therefore everything wet, potatoes and hamburgers.  Also, the burgers we got were too small. I express my discontent and document the products we received through photos.\nGreetings",
+        "time": 1742064447,
+        "translated": true
+      },
+      {
+        "author_name": "Jessica Russi",
+        "author_url": "https://www.google.com/maps/contrib/100582466926698517824/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkbRP5NQETPAJwAXhVXUFtG3_EEvtV0NtGtiWvHmsm4GdnoWM=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "We ordered two mc bacon combos and they sent two big mc. Everything arrived completely cold and the coke completely flat. It can't be that they make such a mess with such a simple order.",
+        "time": 1741456363,
+        "translated": true
+      }
+    ],
+    "types": [
+      "restaurant",
+      "meal_delivery",
+      "establishment",
+      "meal_takeaway",
+      "point_of_interest",
+      "food"
+    ],
+    "user_ratings_total": 298,
+    "website": "http://www.mcdonalds.com.uy/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.74366699999999,
+        "lng": -56.2087458
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.74232131970849,
+          "lng": -56.2073905697085
+        },
+        "southwest": {
+          "lat": -34.74501928029149,
+          "lng": -56.2100885302915
+        }
+      }
+    },
+    "name": "Bodega Familia Dardanelli",
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112213954733356937645\">Bodega Familia Dardanelli</a>"
+        ],
+        "photo_reference": "ATKogpc1J3Y0B4oLBmePVyLEJHOX_cZbhxM-Ek-KWWeeLuS70R-z6PSLbekqnhpY-JnhMtMkVRLujuDcmJYX1tl5IYxcEQ4O0fI8-9E7pMIaYr0tbRDTvhnA5fxXocqexXqtdeIUDEsoK3eJEyE3HBGa2ezMBu1sDnbLVnpdNSCG7ADQXqWu2DlIi3W7ZkDYt_iHphMV4EKZmW-tu9wTxeORpXg5kxTyXL_9tWsB_uXKBTP-9OmKChI40r879_mtrYaofkmS_UkhPYXlRSdR27c9BaDs1085GczVrJJJIr2gEm5gCw",
+        "width": 1365
+      },
+      {
+        "height": 3614,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102483936778543032764\">Ger-KoSsi</a>"
+        ],
+        "photo_reference": "ATKogpc5T9gaaU0EvcWYqY_wOVOXTCY3_Vmg13l1rFulD1q2qwAGsHLABHGdOo-IfQI2NhQ-BmFkOpevEqy9C6clw2Nej6seFLw5-4BJWl4EXmgnBjTgXEeqb12iZjG0w2OhoxZ7jFZNHjCu2R9CvG8dh-DZ4aND0qtScZ1UP2vC-3_ycpiKq5-UcLvjnbRUlSsge9cDj8reSGRhrBr5oDKOObl9QdbWMQJOVopg69cJumhHgqOE8Y4ZdGMTc7w6q93U_-F4-fgmT3JoIgSB5nmmAx5q3jhQuFk5WoqmWjtE6GN97SPtGvcZRycMs5tMOBuU2vElV8e3q3g_8lURmndbJskt6eEqjIpgfFKokcAj-MR30hy5dFZsR1ebUsY-i9Bvn7QQqmSyJ97FybsOmeS5Spd39e16YEcIQf85ePRdRQBxcbjX",
+        "width": 4800
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112213954733356937645\">Bodega Familia Dardanelli</a>"
+        ],
+        "photo_reference": "ATKogpdbiRKZBJu-XDJAlbYIygE3tNchkpxgSCofOjXNcMnfddTQy594ligjM411XB-xYLDrTbw6HRq6pU92ylHdPfU_-NLKnzn5AIa9vuPFVkld1IU30iaEP_2SCEl5_8B4IFD_p-5xj2IKSEMB7twckTo7oYYpQ5XdmVDV5TRSGEuptV1__AqYT95ZjodqCHQ9I76y732clLLUIuv4aIKiU15JAekLRget07Um39YMsyU5doLc4MgFwq_hJyfjlFGQ1yCfsdjQwLX9dyMsfhLL7yMjA95C3CepyuiTQm1X9gdbNA",
+        "width": 1024
+      },
+      {
+        "height": 3614,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102483936778543032764\">Ger-KoSsi</a>"
+        ],
+        "photo_reference": "ATKogpd2XoygW8Kl86jk8Ub0Yg-nTqnukTFxVB1eh5XTFNjaJx0yeDStunkFYsKJQx-21GSqXj23fi6wYQMczNx8wvgpvWlceR_ZIo9duRDCXO8CW64wUcytAUQs86RtPKj8nnYE3WXhWx5tTaU0a6GFJZvrJzTu3DSjgCArCVtU0tLi-Skh3j1yIMlZHu_teYXBlSFqSa8eVDFbjHwE59tLaH7mEfW4p-Fe3PoYdVBZMrgnrGKqLwz_mXRIL0BJYguD1nVIDVIN7tXsqabtcghlW4GyC39V5Y09R1VSqrsIDWcWI-NmNz6zHZdti8FxPlxhZ2d-nPmsBfWDRviARbO2Xff4kbzLF7hPkMTjwZq_vhb-yBVzAVRApQ60_Vu7dydpkd0noDsrkDXDAqrIRVOLeuvqBOpAyNtBB5a5rYzOfSVSbxc",
+        "width": 4800
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112033211162169656437\">Monica Rojas</a>"
+        ],
+        "photo_reference": "ATKogpfHQJ9Pxr6eYVYsrXuG5jS05nqVbDRrR6H-rZdQKPPc0DXRYn8pi2AWK2pRMNZMtRNcV8TUMrIVz7SIq7REvUMJ8XUu0COps6_60c0y51oTZZwmwBUkr5kfQ6tILatoB8Gky5uHvNlucwiQ98LyCZZUCWX4Vteq4wKxCrM1oaNYsuHdpolOZzLudlkizWnxWFcjz5XQxQtW_oHc1a6ZjyRN0aN58VQ8AqI6AWyV3dylKqqv7-YYPv4-1xA8sEQYxxH1RUYTc4p5H-qimAUkv9m-wBGbtt0o_GD4cH0WLQbpfEAfmcdGa__57ItO7JYrViz8UAgdbJelhKLxyKdZ3AMTQOUXq9jrPoqFDyB8eQjHPM0Yp2u56bq_BUuFUTbrMa3grZnuLRyF3iQwTbq7wAlOM-CauPUAASF527QurnWLmA",
+        "width": 3000
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112213954733356937645\">Bodega Familia Dardanelli</a>"
+        ],
+        "photo_reference": "ATKogpdDSd0Tf5LfoghYzqzs-H_ZFcUS_m6cCwif5PaWIyzY6pQsMQzWzbQruiutQEElvO_ucbLVhjqGwIzu0OT_01dhXhIrzyH3-SjqMOzNfTjIfdX-sT1mmqvdTbOflrX-WDQCzb99IFvwmPkMEAtvOfG9JoRPJfqcSuYZDZcdFosJ0wK_RBSZXsxpYUKMddP9EG61BSZ9_yv0IK4PbKb9aj4PVX9SuKKbJxYrP0aYVZO3bRro1gLhdm736cX3mJa8DouTloS19uaz32CBcFl9IQxjKbTsu3JQxD-HAVM_4z2_2g",
+        "width": 2048
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112033211162169656437\">Monica Rojas</a>"
+        ],
+        "photo_reference": "ATKogpci_zeFrSK2R8ikFc-t14n0mdkNPL7QylLa66dtI3C5oXp9tCosfcXSNrAX319VLfG0ZvU0MzAVv9GTpI_CLtGYUZZ1b4J3-NKwBeSmTIgDFBfp4Bghk-n-7gwBt6apWG4DLBA8e9gLmzgULz3SfdT80QLRmwphBFJGl8EvQDGfLE375cSVjxhzrNjLLw2WXhKRIacYa1w-tDyuvVm35TpwbyqkVbg0ngIc-nbHXFXZmhT2Fb5vdUaABIyLmpUYzE2n3W87Ge1PhS5YFhR-V4n3K5XnuDJ-JBTWP6accf3vo2dCgVYqUqquj6l8EGBTB3RJCw6e4v2akFIpJDz3TJ9IIPxSgfeuqcXPLljqGEQTSmcNcViqVfEsnPuq18J8Ub9iGI6pbOQpPf1yJnB5Vy2m1ZmFPhtmYXXHG4BWZC_TOTw",
+        "width": 3000
+      },
+      {
+        "height": 3204,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112213954733356937645\">Bodega Familia Dardanelli</a>"
+        ],
+        "photo_reference": "ATKogpfqewSPAwldkU8jQKMxxuql1H-VxMUR87yNkjp9uMGxTfLSRh_yLw9VMsKPs31yxhJV6p5MGYUJrtGEf0BBWDXRukvrDEbM9Smi7PUujaLFGQKGH-9EfOGIKZrD0n9APPZm9Bgry2p8xqOQEwKSYS8BUiIHKcEpu42D1InSPkCc5i2MLoRJ7jgsltA5ErB5Tj_CzUvucH24BV1mEVmemuukcJsYlzDdRHO_9Nl6BR7IZCjsLnQsqnuqvtR3AOqiGAuBuI9n0vDf1Tl-Mnv52Ibf2lJpC2lQGhCLYo2-jgseqw",
+        "width": 4800
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112033211162169656437\">Monica Rojas</a>"
+        ],
+        "photo_reference": "ATKogpcjlSJ4C9q2UjL7BDdTb25LJU1ryOv4pfEXs3k84nuVBk9R9QVikapnISFwrhzgHwuAjuhFOtwwlSTuPRuHRhKjlFUtdZiIAmmNyZLq4DX28hEfMm8YUqhpl0PyMBzjrPLVwe_NYk0eh7i5eUuPzEfJINBjaSwH3YS7FHbp5HJIncfYY2Bf82FXKA6sfI7sGrgWpkdIuGV7p0bY8g0UWOrAait9pc36jaBxdey6NB9cluMlJSnFd5jS8HBnE8uw9PpMU01SCV98kNc0b3U2zWx6uJoYXQnJJrL6QCXpHetX5hGdU8pEWzxBALSovs_t2ZPyboE-2DFTAlge9luw_SoAeHQ4XvVEaa4Dske4d7HYZCHzwDXMCm9UIMKZt5cixp39WDAqdvqyxOs0oCpiaGfItJaQsmdHy9TMucPzD0U",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103882677855334771448\">Luis Ortega</a>"
+        ],
+        "photo_reference": "ATKogpcov_4vCXP_uEtkNbzW-qp8NbYCHkTbqL9wDaSvKZqWC-ULZxW_vDDmpPETppWbNjJyGi1offV_wLxOsLQspApR6cNBebmjN2cHrevBBxF9MGnOy65T6v6mLxgbT4-4yV96i8oD_Cf0PEHicJvZutEnyM4WGcgEo7HUOb-jlCqfoWtAdEWfLq3HYJvAlZQzhwtznEW9B7et_ilF1jilNWkKJmRv2G88Ly25USz1QY3vnGmVDf7qvEnFhayoTAAm_Tmz_g5tFfIUaBeTpE5_4yO0uI3T1Mscp93koDU1zXd4lyMn2UD3VcXHST5lEr2ZLdbaArO4LlBbGC1EMD1nJHt9Nj7pqXmmUCS8XVB3JhFUVI6B2ARzLf6cpO07WEd4dyCn7rH3mulcNH58cju0DkG-yrk2Bi4_VQIv_oGjfIfYkQ_P",
+        "width": 3000
+      }
+    ],
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "L K",
+        "author_url": "https://www.google.com/maps/contrib/100701722346713012562/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGiIoe-sd-5eC3TB4rt95o4KuCXMNlJvNM6CWJxMpjSlPadlM8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "We loved our tour! We called in the morning and  had a private tour with Eliana in the afternoon. It was very informative about wine making and learning about the history. We would totally recommend: the tour, wines and empanadas were great!!",
+        "time": 1732558920,
+        "translated": false
+      },
+      {
+        "author_name": "Maria Marzec",
+        "author_url": "https://www.google.com/maps/contrib/112766597947128057605/reviews",
+        "language": "en",
+        "original_language": "pl",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdhbRo-94pM61Fw08MNBO_EavOIXyuxWGcuWQ8YHmewBQVCA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "A very successful afternoon! We learned a lot of new things about the production and consumption of wine, then a tasting with snacks and finally a nice, casual chat about the attractions of Uruguay 😊. And in connection with our visit on Valentine's Day, we also received a small sweet gift! 😁",
+        "time": 1739579124,
+        "translated": true
+      },
+      {
+        "author_name": "Luis Ortega",
+        "author_url": "https://www.google.com/maps/contrib/103882677855334771448/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJeCV4GKZJGi-obO0KcCOjcKMNdCtYa5vshPTfrHdvpo5Geo3DXQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Very interesting visit, we did it with the IM (intendance of Montevideo).\nRound trip by bus\nThe tour includes a guided tour, complete lunch with wine tasting.\nAll very interesting and very rich.",
+        "time": 1698515175,
+        "translated": true
+      },
+      {
+        "author_name": "Monica Rojas",
+        "author_url": "https://www.google.com/maps/contrib/112033211162169656437/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw4f_tRYGIgMayagF8Aimsup3btA6EEodwqO_4sM1ZppE-fo-C=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Nice experience! Federico, the winemaker, explained to us the entire process they carry out, with a lot of knowledge and excellent treatment.\nThe tasting 1000 points, with delicious homemade empanadas. Alba accompanied us with a pleasant conversation. As we were the first Peruvians to visit the winery, we were able to chat at length. A family-friendly, charming and welcoming experience.\n*Detail: you must arrive on your own. What we did was take a bus to a certain point north of Montevideo and then order an Uber to make it a little cheaper. On the way back, we didn't find Uber, but Alba, very kind, took us to the nearest shopping area to take a taxi. For the next visit, she will already have a contact taxi number for that easier outing.\nWe took the tour from Citivatis.\n100% recommended!!! Nice story and perfect attention.",
+        "time": 1667342609,
+        "translated": true
+      },
+      {
+        "author_name": "Raphael Antonio Queiroz Russo",
+        "author_url": "https://www.google.com/maps/contrib/101671833385430640545/reviews",
+        "language": "pt",
+        "original_language": "pt",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVV8O-CpbrVaH87hoeAZJ1SFvhZNkBFjzO0K8vFJv2AnDPelICDgQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Ótimo lugar para conhecimento sobre vinhos. Empresa familiar. Fomos extremamente bem atendidos pela Sra. Alba,  sócia proprietária da bodega. A visitação custa aproximadamente R$ 120,00, com degustação de vários tipos de vinhos, frios e embutidos. Localizado nos arredores de Montevidéu.",
+        "time": 1560325277,
+        "translated": false
+      }
+    ],
+    "types": [
+      "food",
+      "lodging",
+      "restaurant",
+      "bar",
+      "liquor_store",
+      "point_of_interest",
+      "establishment",
+      "store"
+    ],
+    "user_ratings_total": 50,
+    "website": "https://www.familiadardanelli.com.uy/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5281018,
+        "lng": -56.28266170000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.5267520197085,
+          "lng": -56.2813125697085
+        },
+        "southwest": {
+          "lat": -34.5294499802915,
+          "lng": -56.2840105302915
+        }
+      }
+    },
+    "name": "carro",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "restaurant",
+      "food"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5276686,
+        "lng": -56.2844638
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.52631716970849,
+          "lng": -56.2831789197085
+        },
+        "southwest": {
+          "lat": -34.52901513029149,
+          "lng": -56.2858768802915
+        }
+      }
+    },
+    "name": "Pizzería El Horno de Soca",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108625620204328847243\">Lucas Picco</a>"
+        ],
+        "photo_reference": "ATKogpfpsGj3IvYwLY8x14TcelBCWCHqx_vaOKOzIMLvGP9FKiX89W5fAtgDRCPFm2I0ie5Nn9GFbHsvmztjjXbaQglNxyPOEuaAten3WiIN6K2gJ241_ActrWmH_u-MNM0PD6XUejkYm5YAPyrnYgxD2XhWfa9n1HvrYcKDEf08F1L-088lMsul-9eQDbg35bkz9sxlqpp0EKMjI8iYw9sdJA2di_GwibnzkzFbYYe_KuScbaXODM6y7XU4oLuYbAhb-8Iq_IqnsFObKWMKV1Makrr2cjt_5Wt_5qjS457wYJX0tAit5vUhFbUENzHphwAzl4a6snKXuHhBk-JMjMiVEg_XhxgUB00YPS5MrTkHf_gHHKlflJvASC2_Xh2zylfmGXvN4VOyxJe-YgvWD6O4Oj8O7TSiBfHdQXWXKfkJeoF6ZET6",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108625620204328847243\">Lucas Picco</a>"
+        ],
+        "photo_reference": "ATKogpddl7bKk5opt94CpRhfyEg3c1E14m_PhHAlnKYRpJog7xHW2gH5u10IQZn50DQ0_YX7kozOOpeTTHTYvVB0tAgvADpzX4czvbFyQWxY4LO2wHK0f5WwdcvsiAkKWt5k53bYgo1BJbDUWphvDftuemDKJSov3c2xtjvZ7lR9FCwspBR06qQ1TXCzoHVebauTPlxH4nFJXSB3sqsWtQ1d-rHNK8ADnoxByew82PLlDYKy0sBk_sCtPnzUqZvnhckI2ahHj3-iHHsLb-G5REeJ9eHzWLRK7gBrYAcN1bJSEFz2e_28FYA8qbE6Lq18w0Xs1vsnBij3pc1mjiM8OX6n8YuXCnbMm0Rc7zSptt9pcA8Wqry0bmCpwN3v77HMgG5AzkuxhL0SfcfI7hZ4kd4C4P28Hz_gZaC7npgtXPAh6x0aVV5c",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104913533468639239785\">Florencia</a>"
+        ],
+        "photo_reference": "ATKogpcyBflRZ0NY3601-DIgImnxd2DvInLjMVrH2JsoTQZoyv89IIX7qL3F_YKcbUM9XlxC0Jg4oFz2LJ3AEvpoGFz7mzMt_Ly3xCzX5SMO2Daz2WQ2--BJJ-XCJXVYEiZo-OuIJxLKapZZyCLflLo7VmkMIvelhZW4kwnVnb94ucO3uMQQ45HU5RK1mQZun5nyMm0E14zX6Owm763JexZkP998COVD2UGawpupq23lOp0NZAkF0dPS1G2c0sBx8k0Jwe0-xE9VmeiOi6CXkWXwbUYKW5H8gfYCBJn-6XZDROgWW0xL1J0SO1CJNBIkS2GvkM0iOQ-Ux1fEEHNt1EyhO0BgSa7sFZ4nFcyN5ilqOXtXSzq0aXIBjEuK6eTZZyWgX_ySqXixBIuJgQX1kG3FRVd7aC5lnwKxyuvIrHUw18C_Jw0",
+        "width": 3024
+      },
+      {
+        "height": 1334,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108625620204328847243\">Lucas Picco</a>"
+        ],
+        "photo_reference": "ATKogpfVe3Fld1ksyMHcqIhNzeM9Eh9_T7uDwUuDdD_zBt9aXKnQSoByPEEX6Og83AGFprJQ6qc5QpQKTY-c4lzV7OF2_8cGas0K6jPMtSlGezfoMPKlIWIsPoldMdrw8zfc3nlgu0Mh25WN7j85L-Ny0bk8YCNnBOOtqLCIcjrw8V9zpU-BA_AjGaUhmAd5kTKAqMMVx-SD1Xh0E-QMpeBTc8s7awIBFGTZHbdf3QcJ70nIEOIcAJvAoc2dKB9cgjbVZhUVQUgrWLicVZoE94CBymvDilw9TUwUxoV74Ua1BV0l7LwNcSf7j3pqTHtW9IqrAxbGZ2Yj9Mxr08ZVq-aZxKn7TZiFPnnUmJI4iiRMOx7AoQri3oBKEPfRTK73a4Eyg16sSgVRksTYQdLW_xwQOabbcEE2AS3jivY4kskZrw-8Jg",
+        "width": 750
+      },
+      {
+        "height": 1268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105643229809312521277\">Gastón Borsani</a>"
+        ],
+        "photo_reference": "ATKogpf04XYWMPPMqYIsw0WehgRQjnHbjB8O4UbXzL1vdyv1klQ8geb04DcgQrg02SKiBLxEySkrspTv-HUN--jSlkG5fJa20pWNSQHAUtmJJ6DeGPEOd6I6JZhf8NAWaNssB-vLL5SoES0483BuvsBA1NR32DRWOB62VReCCIW8oVkHF6gIdwSGEqN7RGkYJC9Oi-pYyFAJtJvvzAU2d7fiVJfFezb8AsBb_S1QH5H3HndmC_nF3jij3B1-fGhktJgVbOnLELIn7v-fgiU20BEGFfGVLpY75mrAPR9NozNnLOIGsFZ54gpLCiPFe9jkEeoSsZfenQNmeTCmVQD-OYCfcSqJXiBOQ_wjYCKGzd5TTfYcE5iasLfdTq6SMMGyamyB-iRE7kX2tsDseM2OFEe7hbnY_ZyG-aI1DeBSOtj3nXF4PPSm",
+        "width": 966
+      },
+      {
+        "height": 1116,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105643229809312521277\">Gastón Borsani</a>"
+        ],
+        "photo_reference": "ATKogpf9fM99o7bKaCbrzxZfqp0LHySbmMa3vDJpuj3qWdW_RXYo8EO-LislBX2L6isVT3dojTGWpW2OMygYiZt5yKM5hF-5SXK7POp20iOrlDXsfNQnK0wpsTa3snUkD2gIotVnVofieH5MaVRDxDgHnsW3na7zmATkrPViVXK1KZJMqzZp1Gtt5QNJJy41Pu5AQuRSRl0S6Y5jH8YJ7yDXY1BtHz0iEYVsF7s9hhVYOUNwrg9tZl4xU5uUJRcmCUkO--BX6dMnNMwqdVEd4D8drgvOu5qmVpcc2GhGIEeW08uyAgwIdbTqzvyEMtx2f6ZSgunk7QjKh30fJyQSZplsrrqBQCJtKZ-G6OyOCkYGxAYSt9m_VhtdhIi38bstPVBnuIcujbicZ4Tntx4fRwu1Ehf4EtwqZp6necU7fFWeAFQ",
+        "width": 1080
+      },
+      {
+        "height": 1315,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105643229809312521277\">Gastón Borsani</a>"
+        ],
+        "photo_reference": "ATKogpfqjxi6-3I_xp0Lj5ylEnWnVFRLbEO6hXdjcnQtr4C0fjRO29tpLYQx0BNOPPCX-EVPZZ6SLdZDIJP6BWPNx2lPSwrClhz7zwK_xvQkwZNHtKqFwpE9CAf6KzGXsH87JoPhmGKP7QIfMK8B9dMmOO5QiliKjumhaenBg4PS3CiOeAgkxaCCCSqF2mhnzJHJ2lzRcnXMF6bWhxqKn1GfItTaqiNt3wP6i4QnxR27CY_p16R0UpZQNpwRdyUVVpbyBx4BN05KH50ge4I725bnCShlw_FhAkrizZGEWWh2UAcSsOvusFhfJEoLAcJDyN33dFEt4pTdtyiQGWqNpIMDHnQ61cDVsFtbejIPgE6q25cgPF7Si-pGOWxUe6ZS4DiPvMcsjhLmgWYPeAIEXIpBWdkCKUIY5jDuQMSFdlDO-slscnet",
+        "width": 1080
+      },
+      {
+        "height": 1334,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108625620204328847243\">Lucas Picco</a>"
+        ],
+        "photo_reference": "ATKogpdBobOmJ97IT9xAp4A_VC8YeQpuYeY8Ef7HzFIOiQ8RcNihhKzzuJN9Dg9c3wJ7YZKJNtuduD29JCvg6zobXm6oRqD9cbSLKwzjjQ4rqcGiB8yH06qzU85gcKqwu7437cARezEec8TOP2xIPs1-uLrMy35TTCxcmdo7My_1webNSECCvf40S2I3wPUYv9lzm0dc49AE0-2PgeWTu2FCUkOCgLGtjmWH1ZZji6F3oWqHIl8zUh6B_M92CLjDQiDoqYNLQANRdkbJ-80233eAmr_sdGJH-un5ucHxj5_4fQEuNJQhWabDNNB2kuOKwPf51LYzhdvAvQ7WvAxMU2opAM2mEAnpKOubmi4c3vBlOaTnFucDRFlne1M-nE1UDbmcufhYPmscJ4U57cMDI2xMJ7VpWEbP6L_iOnhJSwi55MraxR0",
+        "width": 750
+      },
+      {
+        "height": 1047,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105643229809312521277\">Gastón Borsani</a>"
+        ],
+        "photo_reference": "ATKogped4SkUlOVQtQ7GBPqNEPgNO868h6916iOLbCEBEeznpneCGFAMmyrlN21xxMfja0nUEEgdocsyqqR19l4ojVHxj6ibg69q5NwW9z9uwPXbPD1nFW8vC0a1CV6_-_rYxT5gsxSfMDhZicjp883QckyvabWUzPgUan1Xlvk8wyStZptO8OjrSCiFevQOVey4-z9Tee86KyqsqoAdayvicTOig-lj-vdhY21hRDe3HyqDBgLnF9DZ0JUd-F9OOKg_6V6T2lf208fyvSWB9T2ojI9CCR8A7NEfh2eNm9jXP9Vgi3mO7KPHI_uY2tZ58hOsJX-DryCWdJtgaZkOO1JSoMax0AlV60ycK8QuGVUUah0sxmos9BPF9037Sk_aq8sU1oChdRzwoTIhBKaLcWzHKKQConUlVBjJaUrMvoh49Pk",
+        "width": 1080
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117830738596851015215\">Carla prando</a>"
+        ],
+        "photo_reference": "ATKogpfijUHP-CNClt1cL6-puCoLVzBDhaNcHEcGWAPk26TaLpHbOD0Aox7ZxFVanMFWO2A8JuLe07eNqm6AUb6O3oBEM_8oBgxBvI_EZOkvbbE110JCcNc7muBD-h9W9FCgJI0r_u6mzxC-D43-i8GyytYDzYa3YT63A-dl3sHkYMl0y-yfEgb6CGfjG_7Cg5LJFxDg-2VguSYOLcaAlZk-NwZFYAAyekB3C5X-R-T5GIG8mDbXQoL8smrPOUyJXWZjRxnFmsIF0PXyYH_YYsUj9pMUq0n1h5N6F0z6HDu_3Ff8J49jakaM-ymOsO42U7FjXZwu0vD9m1C2y4IIhNhF23RrWtbYghU7xQckVna-wKcIjl0I0xqMCcGHJ6FZdtibp4sL-jUfV-MuYUKu2f2EGs3n9gfAAqG4crh8szaXiOyt_Q",
+        "width": 3024
+      }
+    ],
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Bernardo Ruiz",
+        "author_url": "https://www.google.com/maps/contrib/115377191082698775154/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDjhf3k7wk1fLCuApqAQwdlsHTMZQpBXanBJWx2ZmubecmwVba=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent soca oven. We ate very homemade Neapolitan style pizzas, unique in their dough and texture. The fainá is very rich and crunchy too. Recommended.",
+        "time": 1679192410,
+        "translated": true
+      },
+      {
+        "author_name": "Florencia",
+        "author_url": "https://www.google.com/maps/contrib/104913533468639239785/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEWTiVDO-6i4ODdbqrNqHlVmiOH6qC00pdUegExbAT4iglY9ON=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "The best pizzas and the best service!",
+        "time": 1730930376,
+        "translated": true
+      },
+      {
+        "author_name": "sandra blanco",
+        "author_url": "https://www.google.com/maps/contrib/103689190253632896932/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLufq83Gi0YFLrW-OnYdP5suBGcvt9LlroZuU5MWt1Qd4yo2A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "The best pizzas I've ever eaten, truly delicious, Marcelo's service was spectacular, and not to mention his beautiful mother who served us with unparalleled kindness. He's coming back!",
+        "time": 1735746675,
+        "translated": true
+      },
+      {
+        "author_name": "Mathías Fernández",
+        "author_url": "https://www.google.com/maps/contrib/117121849238296993338/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyJvpB61KksHD13n5NXnnwuhdEnjVHmUnof5uiUiLBtRW14AAthA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "I called to order pizza and fainá, to pick up at the store, they told me to come directly because it took “two minutes” to be ready.\nNot only did I wait 20 minutes, but they ran out of food and I couldn't take it.\nIt's a shame that they have such poor management, because the service is good.",
+        "time": 1714783316,
+        "translated": true
+      },
+      {
+        "author_name": "Ezequiel",
+        "author_url": "https://www.google.com/maps/contrib/101626574179690682109/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8dBbCc-YTJeY-naabpAwRjjrTQDs4xibgtOsS90_hZVeE=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "One of the best pizzas I've ever had. Sourdough pizzas loaded with top ingredients. You can see the desire they put into the kitchen. Detached badly! Totally recommendable\n\nThe Roque and the Tana are the tops, but anything you order is a 10.",
+        "time": 1699066696,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "user_ratings_total": 67
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5255719,
+        "lng": -56.28248199999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.52422771970849,
+          "lng": -56.2810576197085
+        },
+        "southwest": {
+          "lat": -34.52692568029148,
+          "lng": -56.28375558029149
+        }
+      }
+    },
+    "name": "Pizzería Old Cat",
+    "photos": [
+      {
+        "height": 3280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103608979743723327601\">Mélody Silva</a>"
+        ],
+        "photo_reference": "ATKogpcfglVSsHI2DueT_xuK094IJxqDG12Furu2iYef65rWT2drbQE_IpLqQoWwiF92Sc06a-FWcducZ1mKxqqIqgqWOqz6mj9DW5DrC1kOUDY6VF7GnAN8VRD3kDdhRQ0jkWobwOAxXFQ15xb59i5Rd6_Ct7fUqlm-H3G7NDxuTImUQpngyXe1qI3bnn6H4jIY-YSI0M8Imo9vlKoxXRKZbLTbb3J-BLB66WnC5KuRpW45cUlPHDrR3ds6bvu8Y4fG50sdlr5CTCGuJsR7C2NraFjdxhRoFQPT0cbCoE4qzWG6oxnpXWGIxXkroLk4FV1InDySn5BiiC9AkzIl-OkE0VoOU8T2hsG2SVkr8dx6RWQ5GXTGQ7K8L3iwxkQ_CiLQIVRSM_CJUc3ZwhSr-pIX64YvM7hfm_rmJQ9FBFxtT4ho7w",
+        "width": 2464
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113007166315497043174\">Nery Gomez</a>"
+        ],
+        "photo_reference": "ATKogpfZVfBxVxQVDW_J_ex9Tt4d_2QOnxOfZnW65Axcr_MIa6LKQ9TBAiVNk0xbsbYP96_F_Ay1YmyA9bX-XdvWhRpnKkIKlERAW4fQV8lL23mJi7ERF29YwzRKIr1scPyPk3CdY5KCbT5X1bAfVsE5KQbVuqOKH6qRgDgtxcQDI2EU3QXcaW19Ucqxg8_smsGcDsdTNwGFiW_8gP7ISsOwvbe2Sk7Tk6PadnqsCyOsr-1r2xWfUyODnisVCJj5hlA-hpvdo3F9iAcbPahelc301ornhvZaGhS4dPhdowpuS5xVOWl_MeLahgARaSrfw5rM647JUBo_YqaKEruYBYnDmwjtF4-tMopfTN2S0_RFLlp9Oiu5SuqNIsDiTvRvpSlhOeXKA6HesjHhrKRYE7K191LkkdjlK7kiQQg0EgNwDKhAcLp5",
+        "width": 3000
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103600535027648582413\">Miguel Angel Javier Peche</a>"
+        ],
+        "photo_reference": "ATKogpdZipdFmYKY__YP3ADXfR2te_o7s7CZ9n4lb9v8JCIqKLzcgyjO13S3Eyuwn4T7wdGBdo0Iz9XLo9mbYRpO8YbPznqmgdK18M23bPFbK8fBOVbqx7BrShlxXLlYcE8aVBcgSrXOeOifFqUrOR9Yo5_KGRBC558GMc-Rtb5VYSJgwY4MSruEwmv0msoRABNXUM6iq4oFRKRJTSbAR5Bbh3E-DKvBmARaXdLCeooXx9hP2azziylCyZmq5YzVIypOZcupi7KLuWfOOCKTOkukqzTCgadYY0QHTzuIy0Ytj8j0dIrE-tzHMKPLjFB2dlAdRpic6S__9rq1M6yWDNqGWxv0ARzqtFMA5SL5cjQt5_pj062ezN02Ou8f4fMBn0jRGt11-guqvLQ0LTJQqezP9r8xQ6TT--bMpMJX2xfG420lqzU",
+        "width": 3264
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115077654244969936448\">Irina Aguiar</a>"
+        ],
+        "photo_reference": "ATKogpfBBB9S3EqPZpiZN47PHeA-CkF6lvpcvwUP5_Lh9_TbhDSMmLjwYKOhWBFUNIrTECWafeKwJHVAZbuiga9PiDfkLzGjix3IPO9qBelMEnAHxMLYcrrixydHcxX5fQMqJV9SGX85iEKFsilGAlEq3f433doeySTEg7hj3Bo8DZm-T0eETpKBP_2FQM62-WBBUsZmHCbSCh2hYay2n5IDpU17w-TGjiow2dPnZOFdwcutxvyeiY-dd7v7jXKDrrksMxN1UFOFbhqPob6e07IEgTVkixR1rzgfUcuZb9HLcYawrvghrNdm5FWbewdl4I-Vum4r6QnHRmivGd1DYcnp3uMZfLmPGEV7fmSluhNOYw8FfEsYtFIzbLMTzOqQKeWy7DW_ATgD6cp9-vNY23T4IrFxWWHMqdHhEAwlWulTM5bMQQ",
+        "width": 2992
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100550867192115022958\">Rudolf Sampayo</a>"
+        ],
+        "photo_reference": "ATKogpfi3X3BAn6V18Nu4xzQarYvM9OU_3pJWsjBleA42pdHxeUJLYx3L4xb8PzLAIBlXfTFHcuQsresWs7WAMenEYH1wBbv9zdlZGQofbPGwgUqLuSlVJqxHU4FHbByjzDP8VcTktzmsUhNOhaDvHO5mZKUExJEMMikEouwlx7pZEHUHp5pTej5H4ObTI8EWlLXEOVxbyl7OxR_raCnW25Ds4QEzagX3-hdtfB1eJXyXt0Hvr1aLc7g7EBey1njRnWtdmvMsQo9ReSsL94OiGeuWVUvLc2LZWm0cZ70nOy0vFcvtMJSgAnWfuh8l8guIBR0kLapTIIA8VX_SV4Mwwiwji6_yt9PoEcvxq9ceUoS45Sh5Ma4as5ibQtqrar5gf2mqPYad21y7nJfhwdU7zPmIcV1kr1c8iygCHGM9GWspTK8TvKQ",
+        "width": 3000
+      },
+      {
+        "height": 2080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102825800747266621744\">Edith Aguilar Beloqui</a>"
+        ],
+        "photo_reference": "ATKogpfCZlN2pF3Xdzcyw9CCT9prwzma08GvQ9_wtCoDFgss3gBUj5MmnJ9GuXGn43E-Rt5CamaHpjSiaPnl4s2AUYrssW3HF9ZpUit5Th76WkfjpC9jcJdt4SXF4BDuH5wDDcNaUqMBkCC5_EHEnNPD7ek85BYFpZaEMTy5NDhyIm_Op2CyulV2Ag7WqJ_gKntF_IdSppU6A5JgR01A0khPCbOcgzTCF_kgMxiwArapksTR_Z80xquV_VGJ24MLNJBrRT-qAvznNHVN4JvPoBW-iuIdQtAgOR4ezpzyFgRCJwcCydKzHaOP-RzdErl7xsSL52qhwFbbu1HjjzxfhS-eRalE-LHUfX-RIRFzNCSPvx4WDSFniCApkqUPoi99R86ELAKC0_0C0kIgl47drwXD4DrsIYO6z54ZMSNNTx7reFz8IWs",
+        "width": 4624
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117814858264585109136\">Dario Carbajal</a>"
+        ],
+        "photo_reference": "ATKogpepcUAgwb3-sUGSxNE-YklrThCY6p5XZKhTotqYFzIakO7j8BZkgrMi5ZGzd83gOuC4m4HeppbIFu2VqhKiB4Nu6-l3qP2-MfWtm5BteO3ChFFifBkK7kHptQ4aGnfoyk2IH9-0EbtHd9EQVB6UMIuJMohFnoQy6OjbHjY186WJZTmNERueGivt14englDfSUDe791FfG6aGu1QkRpxj15vTuBM3JosKX-NB0R4Vfa4yQ5yfbrhdo_Gje2MTiq0x-AddMFFrAn39NdXem3XnOQifzobKdsa11wnTQPRbfxlQYCKRbdiVd8Jqekj-mETTu1OptkI0EQWH8HDg2bNAEritfCZ2gCd7T7NyqedgWLYMJubIq6h_Rz6zeaJWhGn2jbtCoRF8MEhLKx8Dfwd9WXNpp_Nl01F1Zei3l2MXwsZ2nqH",
+        "width": 1920
+      },
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104551870685220493964\">Fernando Montesdeoca</a>"
+        ],
+        "photo_reference": "ATKogpeUoWyPbUH-S4VrWCcAAsLqTCQyjoLiOqQqNL-PprdACRv0PgiLpFNDq11PCmvihiviHVwSjgSnwffDgn4waxgJC-LRjQkoD5lUhLcl24MNuOANixb7gA_G4DhL-X_ztU5K-LXBQ3mAhPPJHDyegf1_tTqVcxMMFRwdtVCzwv1FiC4fth1dJTNuFE50Wd9clrvUgWVCK4tk7LNQZP5R3e4Sw4HHCkNtG00ZTysDRFA0BhC25eXlSRjxO6sCy_eUl9tWFSW4_cVWTeCD5FUfuVZxbZ-q16mjouJ9__9mbfloWOeTdtF-V-4iH7IAM4Z75hiaZKVR7ehpVJ7aN5sldhiJdPLfDeiZ7gExQIbu29nLb_41wCXzo3fBbch_npgDsgfob92M0aQMYtplmQN_ih5y-TuI-DOICcjwhYmWqOwSbp-y",
+        "width": 4128
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100339560983480687446\">Martin Ferrari</a>"
+        ],
+        "photo_reference": "ATKogpcMa4jwn44zV1uA3VmklgOs7rI8xcoqUWnAnuWrUGdKsXdOpptG9r6TOfs6JmSpIboC3wThnz2yyMiEQKQ5_7OA31e2QH_oO0hd4Z71Q8piqvWcGKosy7KIDbhuUeo87Ih5r6uXmL9qwhXYWiKIqX_hU4QltJICLgDTwHPL7NcZNr1K-tTaF4pd8yePVxj4xvWi98IZylX5YksIgP4RxY2jg7Tu4G_tei1dbTCOHeX7miY7bXujZH9EPhZycnx5hOyZRa8vhhFZLCLLPbSw-36eTQ6l9dF_5vIle87iLbhyw-L48OcAUlapWloXJoK0ohBnWYn8Cgk2w_6yCHbIxCGXNzB1E71UmvBEDci2fQC-pWmDwN8mRrqqwphKnPqNYqpxhn1i3ncma9lQhi43B5RFydTVAsYrcw7Bar2_czOdAQ",
+        "width": 1920
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113821976749265198118\">Marcelo Valdez Garderes</a>"
+        ],
+        "photo_reference": "ATKogpfyETcTMMCJf4f3_GLMPV8fT_cGzkK38HnkR1luFh5_Eis-G0jIQxiwYb8D8tVtVAlJSY-QSNTNbOtAg8-nafz4w43Pbtyiof4C6vLcTqmf8GJLIymiM5iyOalabPgrIAXU7nTNtXCmysY2SDIzHyc-kNYB-LY5176wpHC7l_rdNi36xV3MeGgxOKCZ_F_FnbFtO8a2D9LNo9_ZxgSgfUKGjwqcIHgccXPV-YjByGvqJG8-t6WBGNPE2JGiaB11PiRYLoQLX_uJkY-51Zwujvr7Gpqvdt0025tizsBM6HusAAms63CSjKTH3vjFhJomO0ouNrDQwHQW3PmI9Tce-BuBPM1P7NfxhFP3AKMV3vP-vAP-99ZVMohjBz2QSPHn3fWNw8TLyQgvTIpVbOkkILo9O8sCS63K8ZYFGU6Ct3atcSt8",
+        "width": 3024
+      }
+    ],
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "nicolas “Pepe” astellano demedici",
+        "author_url": "https://www.google.com/maps/contrib/114336241303991741209/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0sm3Jd1rmyNCekzvXE1DtSsf-C2gQggVu-KrBYlV6HtDT4hWvLg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Good",
+        "time": 1677579310,
+        "translated": false
+      },
+      {
+        "author_name": "Mélody Silva",
+        "author_url": "https://www.google.com/maps/contrib/103608979743723327601/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLZxxQP_Oc6dyAFeJbgQz_S4E-CMG81kLGeFvJs9frqSCDEMe_=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Very nice place. The service is first-rate. The food is delicious.",
+        "time": 1720482226,
+        "translated": true
+      },
+      {
+        "author_name": "Eugenia Lamas",
+        "author_url": "https://www.google.com/maps/contrib/110555201373475018503/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdLK6yFc9TcCkoIxZl5BiIlXoFfkff_v7j3PxfRYtvE0UfD2L3GQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "4 months ago",
+        "text": "While the food is good, the service and delay are terrible.\nAn hour and twenty to bring 2 goats to the plate, without prior notice or courtesy for delaying.\nWhen asking if the delay is normal, they told us yes.",
+        "time": 1739675745,
+        "translated": true
+      },
+      {
+        "author_name": "Pablo Ibáñez",
+        "author_url": "https://www.google.com/maps/contrib/114421135590299414518/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyADUORKOb-dhVNmz4K2iREMk2D1wBQ8sCb6n8kI_zICo50WIf=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "With the latest renovation, they improved their menu. Delivery is always on time. On-site, they're slow.\n\nWe returned in 2025 because the pizzas are excellent.",
+        "time": 1748134896,
+        "translated": true
+      },
+      {
+        "author_name": "Gustavo Alvarez",
+        "author_url": "https://www.google.com/maps/contrib/111804248759031745288/reviews",
+        "language": "es",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKutIMygJy1j69567rHkcj0qJphJwaOrGxrgSmhXXbgQJhYaQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "3 months ago",
+        "text": "Muy rico pero si venís con hambre espera 20 minutos mínimo pero muy rico todo",
+        "time": 1743017740,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "restaurant",
+      "point_of_interest"
+    ],
+    "user_ratings_total": 520
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5247089,
+        "lng": -56.28127379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.5233604697085,
+          "lng": -56.2799249197085
+        },
+        "southwest": {
+          "lat": -34.5260584302915,
+          "lng": -56.2826228802915
+        }
+      }
+    },
+    "name": "LA EXQUISITA",
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5247089,
+        "lng": -56.28127379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.5233604697085,
+          "lng": -56.2799249197085
+        },
+        "southwest": {
+          "lat": -34.5260584302915,
+          "lng": -56.2826228802915
+        }
+      }
+    },
+    "name": "El italiano",
+    "types": [
+      "point_of_interest",
+      "restaurant",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5291385,
+        "lng": -56.2789782
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.5278514697085,
+          "lng": -56.2776361197085
+        },
+        "southwest": {
+          "lat": -34.5305494302915,
+          "lng": -56.2803340802915
+        }
+      }
+    },
+    "name": "Sucursal Panadería 18 de Julio",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115549192184399485707\">Paula Hernandez</a>"
+        ],
+        "photo_reference": "ATKogpeEjsUiBvx_0j8mYy2VHNcVBi_xmMFSvjhDrRsbmdsoEZCQVZdTiUAWXMvDqY8s5pV7KiR2pvFYOnuQsA6V-a0SuhHFCgPNYl_oLnD27ZxHURvH798qyVKXd1nFmnj5X0uoBMeGVg6Aj_Bp8uCMM4AMqZjtoAL1I-J5sqf4X3h1qqcYDqBKx4HX9Sd7THfpGXPHGY1hGAkMQjBshH4AE1FyAnU3zunZOT6NgVlaugRz8Vg8FppNaVocHZQ8zqiEhSRDqyluYYT-6RsOapnQlDICdCenXs1ER_wwykZkkvPPFwEClCERXAK0tPeUnolShC5VmCwDRZ1rQYT8EkDq0f1BENjeKntYWMHyoguOcrVno6YVl4JSrpKbXIFXxkrDIk7bCaW4ntrARSdtRdryqFR27zYw7w3xiPw0HpTqqfoE1O4c",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281046295905630383\">Andres Duarte</a>"
+        ],
+        "photo_reference": "ATKogpeq18OqPdM2WFASRQqycUAAURIc__xFLj4KLjtKeSghYM98tur6d78xFH_-FOs-Re_eTyR5fzMBgfbi5fUUCprZ3LTFJ1HKawc8SHSqpszhn3rvOOD1wQqzzeWCRXGhPPuEaZRPjL2xAwsbJX6N34VPT2ZWiHQNVBGyK1uvGf0IsU6jv9w3-lG-A5lzXQfs9CsQXDyutOnbFKNXz5H75skNBZtQKJb5xMabqcNJ-s8md4E80SB-9iSfcr-LM24VdshsEi4hXWAZ_aioU_Xx2-ALBKVNiYvaedNkkguW-S2a05d_XdbR7eBJNq2zD_l0vPRiZwgcrOMuC9PNxoFhpWHX701yJMaKMAFHOtNMOC9KGjBYUy1E5bl2t-x7gL3JwnelBG5eBWvl2aE7Q_875mEGATlIMtlFju0V_Rlg9t_-qTeu",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281046295905630383\">Andres Duarte</a>"
+        ],
+        "photo_reference": "ATKogpd0Yras7PPpqfMqA6d1Wagm8MscX9aDpXBNB7AT2yf0FC1-Inz5AgTYmKdaFIlV480IxY_fOI-9p3h8mRWtAZPsMpL6oShg-TyNlJDsSnkB26jBQwgIEQ6MKZA-07uQTW4djelcTjXQd6DzlDea3GvoVRh4GXycyBl8CCjgiWl7_NtKMT5g51fdXXY45iaq6gxmaPKMTBaMilNPjMzQtpTjt1aEPuaTk2BNQ5u2i-HgPbr0EtE6cWemKcnA5eBfjhohm0YvsuTLXALE0IPjXre0Yaq9lHGN9dr461HOtSCb9qc2reJo3TfJ1R7dN2hyLDLUTd7iKdZMGFxyqvKfTxyJgUPInNNbBdlOWA_6qw8FRqBrsaXKUnK7RH8cmbeMR632cVMThPJSXCKERPqTs_mmX0ngmLE6K5E--RcSmpIbPe1o",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281046295905630383\">Andres Duarte</a>"
+        ],
+        "photo_reference": "ATKogpfBhI9OQTjeP5Tgs5nijFUVFUDrGT8jI2kUC3_sPQjKBW7k2TFs0i9gEZO5aSdjrYTrFXz0itIqRUPEJ4oZpuAET9QnYkUj3L8y5nveXwGyUuFxsA23JI3SS8fyt3TAZEbjdkL3-IBa4Tqi0AgOZwsxEnYKg2Ian_uVwG_b_ZNHiN5oSNyVGETyWsQSoDzxcSWL_aeg1AY4WBgLmGpmm_LfrvCkoB7O3CQ5DkTRdiALww2QF_zFBU6O6Zp6uWHM6ggNbzCgWC4z7kv6swmgbnMYEAmDZSwFTF3rFJXO5y48xj4fYlhCFrjk9at_mhbI35adB_5bIEJl3fKXSJ-ddKVrCQhXc2AVpF0PIHjTaIr2UEcj5fv0GDSlrdY-fFg7w8iIOGbHRsoroJ_msr-hfZRb5lX34f_vf6dNmRTMQX8",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281046295905630383\">Andres Duarte</a>"
+        ],
+        "photo_reference": "ATKogpdWUaTYa_PaGNy1TjKYPJYoJmFAHhZi0BuL5LXt5vMWbaJBYnJ89jAGltsPMsWrbYtaCYYgBcWeJ0g_I0YNVRdeNq8ROSQk49rpV_BLnjRyqnYgxxluFPO1dDA47qeTkUE50KSYRUnvot0ojmIPUk07jdt4MzRNHCkGHPt0Gsy5Ol-QLKbVSUpWZxsq35328lMQ2jpPpfQShjeyQYqm-zZAoGdrR8SNyw_WHQuH2K2OYIp7H7y8hdXHRyNfH4jPSOX5K1wjY3dtX8dHDk4s_sMZ-V4SA2xMqqSnR7kCx4r254Sg65XmR2S4cVUG-CSqFTRoVDps3lwcHKXweZ3-tw9ZNBMmuYcA13r_OAWin4mQ3rtv8OOrvuy5NupvVbOGtm-izhWmxssUvZM7jr-dtBWo2Wd-GFbm2rhwbv9E8OHPYJk",
+        "width": 1080
+      }
+    ],
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Miguel Vignoli",
+        "author_url": "https://www.google.com/maps/contrib/109830188925461279452/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLEzEP52VkhOzjyYLRPtTNu7Sj5hbbLX1u-SMj1jylrVP_sIo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Very good quality and price well attended",
+        "time": 1740735132,
+        "translated": true
+      },
+      {
+        "author_name": "Gloria Vitale",
+        "author_url": "https://www.google.com/maps/contrib/103166420573740101607/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkTLB8S2gLA10AS8HIXJYn0j2SVkn_S-Uxg_2KtFTeu-xTA_wy=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Very good service, rich products. 👍.",
+        "time": 1700051746,
+        "translated": true
+      },
+      {
+        "author_name": "True Cards",
+        "author_url": "https://www.google.com/maps/contrib/114074256202903019188/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCn3h_K7kbe2lfVMj-r3_3EnCgg5adiuDfc98IXEfgY_lUjaY=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Very quick attention. Good quality biscuits. Very cold soft drinks.",
+        "time": 1681322285,
+        "translated": true
+      },
+      {
+        "author_name": "JORGE AGUIAR",
+        "author_url": "https://www.google.com/maps/contrib/113173402566083007165/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgsW3kV7CaDON3Feh-P7Tek-qqPMwTHemwdLlIJGQOzD2GsaRQOg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Very good attention and products.",
+        "time": 1719404892,
+        "translated": true
+      },
+      {
+        "author_name": "Sergio Gonzalez",
+        "author_url": "https://www.google.com/maps/contrib/101051750744832218162/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnHRL4I8x93V68QQXGTGOwvM-UpPP7z-lgpL5USQ46n-DF12wn=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Excellent merchandise, very delicious, and very good service.",
+        "time": 1689726201,
+        "translated": true
+      }
+    ],
+    "types": [
+      "restaurant",
+      "bakery",
+      "point_of_interest",
+      "food",
+      "establishment",
+      "store"
+    ],
+    "user_ratings_total": 47
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5240819,
+        "lng": -56.2810547
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.5227302697085,
+          "lng": -56.2797567197085
+        },
+        "southwest": {
+          "lat": -34.5254282302915,
+          "lng": -56.2824546802915
+        }
+      }
+    },
+    "name": "Centro comercial",
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118343593902397998005\">Carlos Cedres</a>"
+        ],
+        "photo_reference": "ATKogpeyEiIXN90k-IQ66GumOcQaS6SB6qpUYwEcZJPQfRCrnviMX8aFMLau4_bWpjZjb_Bx5nsGzX5a21R6KpHD962uuVwgUBkmMWiOhZTc2N0gfwnfYmLY5FuWxgyTlVEfdX_-tnoF2aI5wfXBqli5WuOI2OG0MwdnP3FfMuuZ7LorRCkL6Z7VS_rPorL_kdsX38IHAJTNs9AMLDaNLjEDPXnoHEp77UyHp203490JetJbgfm2DQgipi9LFX7Fn4W3Eevf-dMevIfnZVozOj-NCRWs44DqFx_IoYknsBwx_QsJlprWPE30ZatDdCpE3aDD4EsIIZy4Im_Dih62MZmEnrwDrZBzY6W2AommwDH3Wnz9gtBk0IK7qfnwMB9tU56Ci8VM-Owsq0z33wTZnGFat_kYkasl3da8qX_-J88sXp3WLA",
+        "width": 4128
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111928421140167402008\">Adriana Herrera</a>"
+        ],
+        "photo_reference": "ATKogpcln-aOilGpHQP29Lp7cohbq_dIpP7zIOLAvy8hws7rCWgSQzaqsnWN4X6HIS-xnh_ZdTvGw25qTPgjygQ7D8Yn_OHaejbHzgaOljfQP_wZ_NA1bSDimIrYoqZiCcNcfqjl9BLPbCRN0KUSOBXwenKJ_xExSl7XADPNE3JlXnNtC2lrm-e7z-G7IJs_Fk1YQe22tb0htAY3kOX0gCAayZcLrdvVDI3SKgmoIhC41GC0ZXp1Za7PFwaIs_FBKXx5zTvIvU6U70U-Ej7a_bTBL11rJLYuuMpeVnbC9ifvajtJtcGcdDtbFV1AUfqjN2f-tPaX3jK4BR14-4iZ7BabxLchDmdIEynzX7bO3xp3O5d6mBgZ0eQ-d3KN-o2xnMTfbv4UubwQcAF4rSj6kXoFebNuMcye_Qci36H_k6IaazR6NBQ",
+        "width": 2604
+      }
+    ],
+    "rating": 3.4,
+    "reviews": [
+      {
+        "author_name": "Lautaro",
+        "author_url": "https://www.google.com/maps/contrib/105695532223841425406/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCOX9Pc486jJM6yECZfrnClmto9XTGBul4yWAugCGN5nCnUw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "a month ago",
+        "text": "Food Pleasant and good for the palate, I didn't like the place very much.",
+        "time": 1746329161,
+        "translated": true
+      },
+      {
+        "author_name": "Pablo Pagano",
+        "author_url": "https://www.google.com/maps/contrib/111908083988191384792/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnbn8MXwLWYxB10XwBT8pJnDnHuvk7qEmeWJTj6LafzBWOzLg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "We ordered one pizza and it was terrible... it never arrived. First they tell you it was burnt and they were making it again... and then they tell you the delivery guy screwed up... they're making fun of you... honestly, never again!!",
+        "time": 1733798549,
+        "translated": true
+      },
+      {
+        "author_name": "Silvia Melo",
+        "author_url": "https://www.google.com/maps/contrib/107918024696153227511/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDccL8kP3E0ibnidqPrMwgtNvbRQPeZdTsC28C2hoFi1mAciAN7g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "After a change of ownership, this place is excellent. Great service. Hearty dishes. And very attentive service.",
+        "time": 1733345044,
+        "translated": true
+      },
+      {
+        "author_name": "natalia merida",
+        "author_url": "https://www.google.com/maps/contrib/105325212195841465120/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNmJd3J_ygXCEIyaZOHv_q7KN-6dPS51mLdYE-ErDydMwSrg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "The delicious food. What the service leaves a lot to be desired. The waiter treated us in a very bad way apart from getting lost with some out of place comments. I thought that by changing firms the place would be better. But I realize it's still a mess. After filing my complaint. The waiter made fun of me from inside. The truth is a total lack of respect. I neither recommend it nor come again.",
+        "time": 1702426364,
+        "translated": true
+      },
+      {
+        "author_name": "Romina Clavijo",
+        "author_url": "https://www.google.com/maps/contrib/117512679351928705208/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3cJOSYxbxRYNVv1j8KvaCZAFj-0xqeQBXt5VgDrZu1tqXhrB8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The pizza is very good and delicious.",
+        "time": 1746222329,
+        "translated": true
+      }
+    ],
+    "types": [
+      "food",
+      "restaurant",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5242967,
+        "lng": -56.2868341
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.5229270697085,
+          "lng": -56.2854825197085
+        },
+        "southwest": {
+          "lat": -34.5256250302915,
+          "lng": -56.2881804802915
+        }
+      }
+    },
+    "name": "Buster Burger House Canelones",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "restaurant",
+      "food"
+    ],
+    "website": "https://www.instagram.com/buster.bh/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5248873,
+        "lng": -56.2790184
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.52353496970851,
+          "lng": -56.2777028697085
+        },
+        "southwest": {
+          "lat": -34.5262329302915,
+          "lng": -56.2804008302915
+        }
+      }
+    },
+    "name": "Apolo 11",
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103417622534292991378\">Carlos Moretto</a>"
+        ],
+        "photo_reference": "ATKogpeWEzISq5_xfdTWXtFE1glSr0WWd7XVpKOg1kes-lllJrne_8oaHQ1oteGtyokIWogFzUx2tzczoobeCW-7pz8A20IihjXdJYi0aQzC4lvolXTDQ8xLv6up7HWaUANaotUbcn2c9-wSvkDtV7WUYcjRk8SWgCr8OkwhnGz52IkFMC1zaxAewn7FFuQZg2lLzZqhP7EKuu1L0Lgflpx4iy1N1moOsPpMZHoRcuiC5RuVu08fAYIE_rMfuqOXMkiw4yDGgWIC4KSWTwJ02XbmykYIm0RgtlSlCBoqLpTaAsJbZYewss80MMemKOFiOE99SPYq1EQr4TW9KzBI8-zk_4FE6CuAW3f3MEz7yzXb8nU4JxilSi3fakuxOY8anu4hG9byc8WJHkMepzz0nV8-z5AR3bHZxIFb1hJsJBw9l8ChyvRX",
+        "width": 3264
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107850579626685483755\">Miguel Caceres</a>"
+        ],
+        "photo_reference": "ATKogpfdAe1gyN4rusYrNvAur-5gAOSxUN1zH7bdp4LcI-U8cHm8UJCtwZA4PFjVczseF5FsAxv7Y85u3Lpe9VDSXX87gPIhdCdfT8l45c-Jkjug5rLhnPYkFlJmj0rWYpyFgDDxHI5Cwsm67-iX4PU_GsWdbGcijhU8q4neYZene6D0Np-NVFgUYZ6UtqBVtowkjyBmUDMEkToEWgcQ9F1O_buzzUPS_AH8eCfjsCyHjs7kLDZhIszIDja7Q671LQImYHJRpO29KRSSJw3FzveIX-0a7nQ90H7516WgwwnpZorQp8BdH_rWMHtjLEJUB7VEnipFnFfcR4nWMriSXNSH5CtPrNfIkZaHXeQhG5t9W2_qRfLDu-i3bTHpt3RIL4aY8pp2xGj73pZWbzEGG7VLcmR7Y01O_7yABf2UCppp1bnCviOgwpbn_Ry2CXjH_xmx",
+        "width": 3264
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113716749912479870808\">Diego Lee</a>"
+        ],
+        "photo_reference": "ATKogpeDoC_RQTvSYbGPVnQINtMkuuENiN5Ori7l0A1DwSkZu2ylol1cbHs7I_GNq2sEEccQ_KgsA9VPRqwEWz572shW1Op5gLMJSqzEfO4fl7GA6kQqyMbWNv2JvzuacQA7WU8665UGPQQNC87h7eJIsm8pHb05ccl03avNutQvz3f3iW5HpiCkwI7IQ9oYlFqymVlt9bf7yOk-B2rRRHF4bls39K5FjcrZeO5XT3j6SVGshnwM5pNYfFINUF-ix--ljfD6Y1kamu3BtlADKcc8PV5dNMhuWxV9Qz4kvw2Tr4OS_qkKA0WTHlAXfmgNbKcQzZkrYD110dzWvrrnGMbGD405N7okxFmBUg5CJXyguWMhbEwvWq6zD8S43e5o5rDKzJWEBjZ9MY0dyLlgVkF9NF5WEht5SovPT4_xiGKZJH6evQ",
+        "width": 4080
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109727149208308901880\">Arthur Raimundo</a>"
+        ],
+        "photo_reference": "ATKogpdmSQUlwMaua_tlfWQW05y_SZ0j0UzShlSjNtr7KwtlNbHiI83SgyRf6iB5m6aGbnOSX4_mGBlOfPgRFVm4Bv_lySMg6MY-S5pZa7CtTY_VHSydydFgwafsT5nEkdf7NUSnoQFUl_9NPru_HmTr8Lc4ZIsJQjDU9ykQI8rMP9A7bPucxV7DswznvWAONbfzqnxJz6vEWtJLH7jHU3WdNUJGhfAlIfSPpKsZl1WUS1dNtWV-q0zNdcI-8kDrrIxqTGBvL7FFkm1_bNroI8AHTUjZJcIBI9L-nUuoLjC2KmjA2lFSsipsEQNioDJ-TOyD9XcGS7bX3ZULN4Yu_tfZa-vFmJvw7e4hFCPre56v9-9tabiLdmjJv72KhtJYe9h2JaqCMYc9-_3e02JZy5QlTQlAoMBV7LRyPCvZpXgkDoQLLg",
+        "width": 3000
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110404615221376134837\">Alejandro Cardone</a>"
+        ],
+        "photo_reference": "ATKogpf9-WzxeLW1WyuhIkTyGTZuTo9ZfOAp3wuy3fJP2UG4X8L9k0vqoCTOf_jHJ54q2MhabigOuVrGU7-0qrX9ACRH1u-vL0lXbYNT0VWBy2_jJUqwgMqQTdPhLdKALXpSgcU37I9f_1pqipyJstdfpWgBKEVI8jj0DLcV8jEW03RB3E6l9JPBD-t834M5PGHl545d-XtADMJnadKlcJ1BQF2zfXwYINtzMjF2w1c6sWORV1swD0_V8GxsFKtUsEATthiJ709aclIV98GUHjsuec_n7x9ZM0awgpr6X-US5q_ihWwhD2BJZ_MlK1pQT_G7VkoXTT8kA4eaYeS6LO5AhuTkbSbpdn50Yl4a5wzdnR0p37pTJkSFIZmXmVmVVyqfdLar-aQE8cipl5nXcNUfNmX5dsEp4FM-gB4VQx5p5elGmsL1",
+        "width": 3120
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101653908061941468516\">Celeste Guillen Alvarez</a>"
+        ],
+        "photo_reference": "ATKogpfUZWg4HwPHsGg3VDeIPAQfrUYEGDa_KgbzxpIfm_szLntFdarG3uK5PIiW_o0z4IVK1lSa4SluApdYac5J7rV2chmDmwCB_EhGVq6hcbOuejCSKjyNYuB_jOeDTOLHWabNnTkp6lHnCNA3wKvxSGmgG9EVWuPvUOxwRWtb-m6xzxDirQS6sS38fqRA75MzgZ1MxwZLZGnSUyCIvlFR9yzZtG0mIovEnPe7RbmTrAuxVTaDSlahD_DQD2yfJwNyFpmnY902t1K8oRmIArJLcGC_5dr4elUJ97KxMF4SEBwGlXCFU4LXxjvsiqNF4MO_MMEKq6GJmy8yxDVFVXBgzdP4W6gelRn7IlYK1P7SxztScQvZmWdhPpoZdvSU8o-JkKOiml5skLMqR20v-5KA9AaR6dMmzC1QPhVxJBRMcxv4Ew",
+        "width": 3024
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115033404523969089349\">karen fontes</a>"
+        ],
+        "photo_reference": "ATKogpeI_qyvrUNg5L5N93iYViVAEQMIyslgtXlhVaVkxtAfYlkVNPAfqWe6IDZ_aAG0ESMzAqadagQnFLYhwck3AavJ_LjQb-pCj4tsyjlLUk6SPRBp80kGlF5yZh74atlexXldXM2vUyviStV-1d2l__QStWa7VWI0gxmW0vsh7jCm3_2ULBCKAl41Qx8Pa0oiwOAoqe4sNevtNjfdO4bjFbzpzz5QnEKZgW0ai0XwkpNg-91votNRnBjz_BE1a2g0nS19-jBWuEkEeBM5Efb-TcXe6HXmIwIflrW0tQr_c5IZ04GKfHLoCE1cOEuhQ1USvgU5JYX1QPpuIQnqbGxciRmhhO5RD8AR798dzilbOxp4SE1JfNLjFU39OapgNcwjWd5Fnn6v10VpRMUxA-Sj2UUc6_sNC9VwkZNuWi08Br47YXc",
+        "width": 1920
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113716749912479870808\">Diego Lee</a>"
+        ],
+        "photo_reference": "ATKogpenGbry0f2r1OCiiHgKZsBF1CmUlzj7wBMYZNqq8EMAZ-aiE1SNyLTpa5Vjwreu4wUNrC9qZsSGGBq7sHFe8t8pJglZiaRqfKAv-MhJefOT1zwC1ep4q2iQzLSCqFuSwe69UbZdxPk5CjAZwqXliX7umxtGolYIfD0DhW_ZypWbLp-ZrmTK9RyfrpPlHIBOVrw-5eieOJwlQcmjzkQW5HeiNZlZalL1GOX4BfwKuTIVogulcjmRl9A35ViP2Fs_Z81nFPxUPiEh21u9VdipRA10d-0yoaWe2TQ1t7Is_vFZGhAJ8cXnOAskqiEBGYkdqB406KQfRMZqSw567ED1fmRPAiAJ_J3Rsv82SZ0KqBy5WDITMZBbVSDHFoA5WSeoEyCCPGM94Nrm9tS9vSyXU5syEWpGgFnuSUXoYaSgKZbLHw",
+        "width": 3072
+      },
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110691785890330605859\">Virginia Herrera</a>"
+        ],
+        "photo_reference": "ATKogpdPWA5-0GZRPJlNCBEWGNhuo57MMqu1WWCLEQJzky2lDD9MkljzjEpiZKbTuyAHRYHaOZg6sic8wYQASiwQJM9dcBr9KeV4GL3oOkcKnrWuUQpSUJXYgR9kx7NMnGOarKTlojx0-odWKSA5w7WaM8QWwiqLV00DZiTusIRevue2H58r3a62hDmdn7LWg9h9gcXK64ltBUdTVuS4zjKvq31mgJCuyCQsQrKyOtzDPTy5a9Zp8ODLom35-_0pgrE6vlfMA3uE-l4u_dFcMxHZxoj1OqZavXWHZW8w2hEN_8PVhkOdgwNcMgxNFh3Nx7u5uHcYT_JsPYnOdOfAv8DKV5CZRw3aZEzeEpWnuP_5K6C8q1H0MAmEmtlqEwGmw9XmC-QeaqnW7fd4aATvNXtzLWlyJNJawfd2JUV7MrvxjbRd8g",
+        "width": 3264
+      },
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114277608818467866599\">Hugo Pini</a>"
+        ],
+        "photo_reference": "ATKogpe4s6kalXh6vXZsZRX_0qKUmL2bEveaIErOUOcWBEePWXWFBlblG1Dx1zrVXooA-Tre2isFfuOkpkH6M-9MYC3f2qTF_HmbIoDi774gEqeYPY9mDO7llVsaaTyFq54dxiDZPFRmvCb75vnjB1psEVyKVYTNdN2O7fzXEE5VYbaIEMMipJ06hluh9M7EU6ndcqgb6McW1wBcUcEFae7ooxCHYXUP5DG64aKEoU_A0eK-kEU-jj2dVOx8b8dbHLcwkfXK0v4gvmTiFldeXffkjHxJOpMIPQslSd0lQUUFJE-qoiWVpYAtl2IN21cZFbn64qbacyEQNfH3wDOz5joyOqy2K7kAvoI5eBAX3guwjlc9h5i12YhbS_Y4ExLC6fSjDVXY8j38GOKKxb15Oa0ocJPQcjWvKpNq8jIcKJAUV3mGwqlH",
+        "width": 4624
+      }
+    ],
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Celeste Guillen Alvarez",
+        "author_url": "https://www.google.com/maps/contrib/101653908061941468516/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHus-q8t2zOE4Xo1PpFcxsYnSG_kf35SI34PU_mcs9QO_JhqpnoQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "The atmosphere is beautiful, the service impeccable, the lady who I assume is the owner is a sweetheart and all the food is home-made and made with great love.\nEverything is very tasty, and the flan is the best I have ever tasted in my entire life.\n\nWe will definitely return! thank you so much",
+        "time": 1737914867,
+        "translated": true
+      },
+      {
+        "author_name": "Miguel Caceres",
+        "author_url": "https://www.google.com/maps/contrib/107850579626685483755/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3v9o_qgcdq-7sqOm-KkWVWtAV5uU1Sr0tRAlsW7nWUps-vSwjHw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "a week ago",
+        "text": "It's meat. But it tastes like hake. Very bad.",
+        "time": 1750435343,
+        "translated": true
+      },
+      {
+        "author_name": "Aldo Bon",
+        "author_url": "https://www.google.com/maps/contrib/110318640941948419337/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULtznAHRaIa278Q2_H8GvZ-R8pOzmlHAO2lCv-PF_UpsDefZ6j=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Family place, very good service. The food is very delicious and very well served. It is recommended",
+        "time": 1737804609,
+        "translated": true
+      },
+      {
+        "author_name": "Vicky Herbel",
+        "author_url": "https://www.google.com/maps/contrib/107763289608214163635/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPMboKkDReaCAGJAfLcbkeSUeaUKWyd1HiLFmt4Q0pOvFDi6nLzA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "We ordered the parmesan noodles and sorrentinos with bolognese. Both dishes were delicious, abundant and hot.\n\nThe owner and a boy attended us very kindly.\n\nThe price is really good considering that it is 100% homemade food!",
+        "time": 1738261275,
+        "translated": true
+      },
+      {
+        "author_name": "Pablo Perez",
+        "author_url": "https://www.google.com/maps/contrib/102220412602649620249/reviews",
+        "language": "en",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6ofnnz7xpAL0rmFBD24APQvgRpwUf223EpthFjdXxUKdLywE=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "A nice place, good service and everything very delicious. I tried the beef with onions and the dish is for a person who eats well 😊",
+        "time": 1697754109,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "user_ratings_total": 319
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -34.5240437,
+        "lng": -56.2800108
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.5226933197085,
+          "lng": -56.2786958197085
+        },
+        "southwest": {
+          "lat": -34.5253912802915,
+          "lng": -56.2813937802915
+        }
+      }
+    },
+    "name": "Pimienta y Sal",
+    "photos": [
+      {
+        "height": 621,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108233398082959105760\">Pimienta y Sal</a>"
+        ],
+        "photo_reference": "ATKogpdvDEMxTsg6mhxzKvLSUgsUTWgTA5nQxMirGBPXsDpUrE1ezzsY_eT8gRwq2B5vCPIv2wNGhaIlLmZHB5MK7lW8JfvsQVBU_2CnTfqKb8mUaHkAUAOwZPpvaC3pAlA_4I3Hk5JlCsrU-ajyA-AmBL_AAsdJ6xTj2QgJLmnsSyjzsCGhtX0Grw7BEGdaHDEGXwf3QULSBswG--iQG3_ElSa9u2FyehXmgjwlU3a531lIlc04NY_neyjh_ijPTkTgETVSd9duCdw6HdGADxi49OybzqEdUAkGjxOze8-XV6k",
+        "width": 1024
+      },
+      {
+        "height": 836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108233398082959105760\">Pimienta y Sal</a>"
+        ],
+        "photo_reference": "ATKogpffYD7Ptlac5xI8TCkbgGmqMnklZuCVF9w4hEfOBEetP25UYOJNzFaGLYLQGo_qPnLYqLQ5sQnxzPmhEp4tuF4GMhU2d3Uu60RZZJK464S-BJTag6wJLFFCdMeTkfQHjKQ4S-X4VSQSGJihp5s8IV5O1RHaTXawvpBwW2CnCwwekEYp8psBFKBT1Eo6Gfo3ryCuPtyuAEjq7gi3mp7sC8ze1zGXV1LPg3USSJrWfRGGxcbXkhF1dx0P-vVXGACx4m6INcEY0nbbVO0lKpZlAKnVQpVDd6gXLBcRMpuFOtM",
+        "width": 713
+      }
+    ],
+    "types": [
+      "food",
+      "restaurant",
+      "establishment",
+      "point_of_interest"
+    ]
+  }
+]
