@@ -1,22 +1,105 @@
 import React, { useState } from 'react';
-import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView, ScrollView, Alert, ActivityIndicator } from 'react-native';
-import { MapPin, Sparkles, Clock, Star } from 'lucide-react-native';
+import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView, ScrollView, ActivityIndicator } from 'react-native';
+import { Sparkles, Star, Clock, RotateCcw, CheckCircle } from 'lucide-react-native';
+import { UserPreferences, FilterKey } from '../../types/restaurant';
+import { questions } from '../../utils/mockData';
+import { saveCriteria, getCriteria } from '../../utils/criteriaStorage';
 import { getCurrentLocation } from '../../utils/locationService';
 import { getAllRestaurantData } from '../../utils/googlePlacesService';
 import { getAIRecommendation, AIRecommendationResult } from '../../utils/geminiService';
-import { getCriteria } from '../../utils/criteriaStorage';
+import QuestionCard from '../../components/QuestionCard';
+import ProgressBar from '../../components/ProgressBar';
 import RecommendationCard from '../../components/RecommendationCard';
 
-type DiscoverState = 'idle' | 'loading' | 'results' | 'error';
+type FlowState = 'start' | 'questions' | 'loading' | 'results' | 'error';
 
 export default function DiscoverScreen() {
-  const [state, setState] = useState<DiscoverState>('idle');
+  const [flowState, setFlowState] = useState<FlowState>('start');
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [loadingStep, setLoadingStep] = useState('');
   const [recommendation, setRecommendation] = useState<AIRecommendationResult | null>(null);
   const [error, setError] = useState<string>('');
+  const [preferences, setPreferences] = useState<UserPreferences>({
+    budget: null,
+    hasTransport: null,
+    cuisines: [],
+    ambiance: [],
+    partySize: null,
+    diningTime: null,
+    dietary: [],
+    experience: null,
+    noise: null,
+    seating: null
+  });
 
-  const handleDiscover = async () => {
-    setState('loading');
+  const handleStartFlow = () => {
+    setFlowState('questions');
+    setCurrentQuestionIndex(0);
+    setPreferences({
+      budget: null,
+      hasTransport: null,
+      cuisines: [],
+      ambiance: [],
+      partySize: null,
+      diningTime: null,
+      dietary: [],
+      experience: null,
+      noise: null,
+      seating: null
+    });
+  };
+
+  const handleRestart = () => {
+    setFlowState('start');
+    setCurrentQuestionIndex(0);
+    setRecommendation(null);
+    setError('');
+  };
+
+  const handleOptionSelect = (option: any) => {
+    const currentQuestion = questions[currentQuestionIndex];
+    const questionId = currentQuestion.id as FilterKey;
+
+    setPreferences(prev => {
+      if (currentQuestion.type === 'single') {
+        return { ...prev, [questionId]: option.value };
+      } else {
+        const currentValues = Array.isArray(prev[questionId]) ? prev[questionId] as any[] : [];
+        const isSelected = currentValues.includes(option.value);
+        
+        if (isSelected) {
+          return { ...prev, [questionId]: currentValues.filter(v => v !== option.value) };
+        } else {
+          return { ...prev, [questionId]: [...currentValues, option.value] };
+        }
+      }
+    });
+  };
+
+  const canProceed = () => {
+    const currentQuestion = questions[currentQuestionIndex];
+    const questionId = currentQuestion.id as FilterKey;
+    const currentValue = preferences[questionId];
+
+    if (currentQuestion.type === 'single') {
+      return currentValue !== null;
+    } else {
+      return Array.isArray(currentValue) && currentValue.length > 0;
+    }
+  };
+
+  const handleNext = async () => {
+    if (currentQuestionIndex < questions.length - 1) {
+      setCurrentQuestionIndex(prev => prev + 1);
+    } else {
+      // Finished questions, save preferences and find restaurants
+      await saveCriteria(preferences);
+      await findRestaurants();
+    }
+  };
+
+  const findRestaurants = async () => {
+    setFlowState('loading');
     setError('');
     
     try {
@@ -27,21 +110,14 @@ export default function DiscoverScreen() {
         throw new Error('Unable to get your location. Please enable location services.');
       }
 
-      // Step 2: Get user preferences
-      setLoadingStep('Loading your preferences...');
-      const preferences = await getCriteria();
-      if (!preferences) {
-        throw new Error('No preferences found. Please complete the preference setup first.');
-      }
-
-      // Step 3: Fetch nearby restaurants
+      // Step 2: Fetch nearby restaurants
       setLoadingStep('Finding nearby restaurants...');
       const restaurants = await getAllRestaurantData(location);
       if (restaurants.length === 0) {
         throw new Error('No restaurants found in your area.');
       }
 
-      // Step 4: Get AI recommendation
+      // Step 3: Get AI recommendation
       setLoadingStep('Analyzing restaurants with AI...');
       const aiResult = await getAIRecommendation(restaurants, preferences);
       if (!aiResult) {
@@ -49,21 +125,73 @@ export default function DiscoverScreen() {
       }
 
       setRecommendation(aiResult);
-      setState('results');
+      setFlowState('results');
     } catch (err) {
       const errorMessage = err instanceof Error ? err.message : 'An unexpected error occurred';
       setError(errorMessage);
-      setState('error');
+      setFlowState('error');
     }
   };
 
-  const handleTryAgain = () => {
-    setState('idle');
-    setRecommendation(null);
-    setError('');
+  const getCurrentSelectedValues = () => {
+    const currentQuestion = questions[currentQuestionIndex];
+    const questionId = currentQuestion.id as FilterKey;
+    const value = preferences[questionId];
+    
+    if (currentQuestion.type === 'single') {
+      return value !== null ? [value] : [];
+    } else {
+      return Array.isArray(value) ? value : [];
+    }
   };
 
-  if (state === 'loading') {
+  if (flowState === 'start') {
+    return (
+      <SafeAreaView style={styles.container}>
+        <View style={styles.startContent}>
+          <Sparkles size={80} color="#000000" />
+          <Text style={styles.welcomeTitle}>Discover Your Perfect Restaurant</Text>
+          <Text style={styles.welcomeSubtitle}>
+            Answer a few questions and we'll find the ideal dining spot for you using AI
+          </Text>
+
+          <TouchableOpacity style={styles.startButton} onPress={handleStartFlow}>
+            <Sparkles size={20} color="#FFFFFF" />
+            <Text style={styles.startButtonText}>Let's Start</Text>
+          </TouchableOpacity>
+        </View>
+      </SafeAreaView>
+    );
+  }
+
+  if (flowState === 'questions') {
+    const currentQuestion = questions[currentQuestionIndex];
+    
+    return (
+      <SafeAreaView style={styles.container}>
+        <View style={styles.header}>
+          <TouchableOpacity style={styles.restartButton} onPress={handleRestart}>
+            <RotateCcw size={24} color="#6B7280" />
+          </TouchableOpacity>
+        </View>
+
+        <ProgressBar 
+          currentStep={currentQuestionIndex + 1} 
+          totalSteps={questions.length} 
+        />
+
+        <QuestionCard
+          question={currentQuestion}
+          selectedValues={getCurrentSelectedValues()}
+          onOptionSelect={handleOptionSelect}
+          onNext={handleNext}
+          canProceed={canProceed()}
+        />
+      </SafeAreaView>
+    );
+  }
+
+  if (flowState === 'loading') {
     return (
       <SafeAreaView style={styles.container}>
         <View style={styles.loadingContainer}>
@@ -75,13 +203,13 @@ export default function DiscoverScreen() {
     );
   }
 
-  if (state === 'error') {
+  if (flowState === 'error') {
     return (
       <SafeAreaView style={styles.container}>
         <View style={styles.errorContainer}>
           <Text style={styles.errorTitle}>Oops! Something went wrong</Text>
           <Text style={styles.errorMessage}>{error}</Text>
-          <TouchableOpacity style={styles.tryAgainButton} onPress={handleTryAgain}>
+          <TouchableOpacity style={styles.tryAgainButton} onPress={handleRestart}>
             <Text style={styles.tryAgainButtonText}>Try Again</Text>
           </TouchableOpacity>
         </View>
@@ -89,19 +217,20 @@ export default function DiscoverScreen() {
     );
   }
 
-  if (state === 'results' && recommendation) {
+  if (flowState === 'results' && recommendation) {
     return (
       <SafeAreaView style={styles.container}>
         <ScrollView style={styles.resultsContainer}>
-          <View style={styles.header}>
-            <Text style={styles.title}>Your AI Recommendations</Text>
-            <Text style={styles.subtitle}>{recommendation.summary}</Text>
+          <View style={styles.resultsHeader}>
+            <CheckCircle size={32} color="#10B981" />
+            <Text style={styles.resultsTitle}>Perfect Match Found!</Text>
+            <Text style={styles.resultsSubtitle}>{recommendation.summary}</Text>
           </View>
 
           <View style={styles.section}>
             <View style={styles.sectionHeader}>
               <Star size={20} color="#F59E0B" />
-              <Text style={styles.sectionTitle}>Top Recommendation</Text>
+              <Text style={styles.sectionTitle}>Your Perfect Restaurant</Text>
             </View>
             <RecommendationCard 
               recommendation={recommendation.topRecommendation}
@@ -125,7 +254,7 @@ export default function DiscoverScreen() {
             </View>
           )}
 
-          <TouchableOpacity style={styles.discoverAgainButton} onPress={handleTryAgain}>
+          <TouchableOpacity style={styles.discoverAgainButton} onPress={handleRestart}>
             <Sparkles size={20} color="#FFFFFF" />
             <Text style={styles.discoverAgainButtonText}>Discover Again</Text>
           </TouchableOpacity>
@@ -134,39 +263,7 @@ export default function DiscoverScreen() {
     );
   }
 
-  return (
-    <SafeAreaView style={styles.container}>
-      <View style={styles.idleContainer}>
-        <View style={styles.heroSection}>
-          <Sparkles size={80} color="#000000" />
-          <Text style={styles.heroTitle}>Discover Your Perfect Restaurant</Text>
-          <Text style={styles.heroSubtitle}>
-            Using AI and your preferences, we'll find the ideal dining spot near you
-          </Text>
-        </View>
-
-        <View style={styles.featuresSection}>
-          <View style={styles.feature}>
-            <MapPin size={24} color="#6B7280" />
-            <Text style={styles.featureText}>Uses your current location</Text>
-          </View>
-          <View style={styles.feature}>
-            <Sparkles size={24} color="#6B7280" />
-            <Text style={styles.featureText}>AI-powered recommendations</Text>
-          </View>
-          <View style={styles.feature}>
-            <Star size={24} color="#6B7280" />
-            <Text style={styles.featureText}>Personalized to your taste</Text>
-          </View>
-        </View>
-
-        <TouchableOpacity style={styles.discoverButton} onPress={handleDiscover}>
-          <Sparkles size={20} color="#FFFFFF" />
-          <Text style={styles.discoverButtonText}>Discover Restaurants</Text>
-        </TouchableOpacity>
-      </View>
-    </SafeAreaView>
-  );
+  return null;
 }
 
 const styles = StyleSheet.create({
@@ -174,16 +271,24 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#FFFFFF'
   },
-  idleContainer: {
-    flex: 1,
-    paddingHorizontal: 24,
-    justifyContent: 'center'
-  },
-  heroSection: {
+  header: {
+    flexDirection: 'row',
+    justifyContent: 'flex-start',
     alignItems: 'center',
-    marginBottom: 48
+    paddingHorizontal: 24,
+    paddingTop: 16,
+    paddingBottom: 8
   },
-  heroTitle: {
+  restartButton: {
+    padding: 8
+  },
+  startContent: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    paddingHorizontal: 32
+  },
+  welcomeTitle: {
     fontSize: 32,
     fontWeight: '800',
     color: '#1F2937',
@@ -191,28 +296,14 @@ const styles = StyleSheet.create({
     marginTop: 24,
     marginBottom: 16
   },
-  heroSubtitle: {
+  welcomeSubtitle: {
     fontSize: 18,
     color: '#6B7280',
     textAlign: 'center',
-    lineHeight: 26
-  },
-  featuresSection: {
+    lineHeight: 26,
     marginBottom: 48
   },
-  feature: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    marginBottom: 16,
-    paddingHorizontal: 16
-  },
-  featureText: {
-    fontSize: 16,
-    color: '#374151',
-    marginLeft: 12,
-    fontWeight: '500'
-  },
-  discoverButton: {
+  startButton: {
     backgroundColor: '#000000',
     flexDirection: 'row',
     alignItems: 'center',
@@ -227,7 +318,7 @@ const styles = StyleSheet.create({
     shadowRadius: 8,
     elevation: 8
   },
-  discoverButtonText: {
+  startButtonText: {
     color: '#FFFFFF',
     fontSize: 18,
     fontWeight: '700'
@@ -285,22 +376,26 @@ const styles = StyleSheet.create({
   resultsContainer: {
     flex: 1
   },
-  header: {
+  resultsHeader: {
+    alignItems: 'center',
     paddingHorizontal: 24,
-    paddingTop: 16,
+    paddingTop: 32,
     paddingBottom: 24,
     borderBottomWidth: 1,
     borderBottomColor: '#E5E7EB'
   },
-  title: {
-    fontSize: 24,
+  resultsTitle: {
+    fontSize: 28,
     fontWeight: '700',
     color: '#1F2937',
-    marginBottom: 8
+    marginTop: 16,
+    marginBottom: 8,
+    textAlign: 'center'
   },
-  subtitle: {
+  resultsSubtitle: {
     fontSize: 16,
     color: '#6B7280',
+    textAlign: 'center',
     lineHeight: 24
   },
   section: {

@@ -2,7 +2,7 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 import { UserPreferences } from '../types/restaurant';
 import { RestaurantData } from './googlePlacesService';
 
-const GEMINI_API_KEY = "AIzaSyDJW8p6maf1oF8tt7G5i-2HyNspHHuyNeM";
+const GEMINI_API_KEY = "AIzaSyAZAQ-r7ggkcCs1I3CYwIHNLYHSxiU3K-0";
 
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 

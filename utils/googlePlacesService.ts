@@ -2,7 +2,7 @@ import { UserLocation } from './locationService';
 
 const NEARBY_API_KEY = "AIzaSyAJIaHSfSaxodPUT7teMDVVoEODMZ70uuY";
 const DETAILS_API_KEY = "AIzaSyDJW8p6maf1oF8tt7G5i-2HyNspHHuyNeM";
-const PHOTO_API_KEY = "AIzaSyDJW8p6maf1oF8tt7G5i-2HyNspHHuyNeM";
+const PHOTO_API_KEY = "AIzaSyCwXfW2VlG5489JCEFSbaJzt-IYm_xJjkk";
 
 export interface PlacePhoto {
   photo_reference: string;
