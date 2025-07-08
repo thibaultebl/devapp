@@ -3,7 +3,7 @@ import { View, Text, ScrollView, TouchableOpacity, StyleSheet, SafeAreaView, Ale
 import { Trash2, Heart } from 'lucide-react-native';
 import { Restaurant } from '../../types/restaurant';
 import { getFavorites, clearFavorites } from '../../utils/storage';
-import RestaurantCard from '../../../components/RestaurantCard';
+import RestaurantCard from '../../components/RestaurantCard';
 
 export default function FavoritesScreen() {
   const [favorites, setFavorites] = useState<Restaurant[]>([]);
