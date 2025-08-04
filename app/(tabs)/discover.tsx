@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView, ScrollView, ActivityIndicator } from 'react-native';
-import { Sparkles, Star, Clock, RotateCcw, CircleCheck as CheckCircle } from 'lucide-react-native';
+import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView, ScrollView, ActivityIndicator, Modal } from 'react-native';
+import { Sparkles, Star, Clock, RotateCcw, CircleCheck as CheckCircle, Heart, Settings, User, History, HelpCircle, X } from 'lucide-react-native';
 import { UserPreferences, FilterKey } from '../../types/restaurant';
 import { questions } from '../../utils/mockData';
 import { saveCriteria, getCriteria } from '../../utils/criteriaStorage';
@@ -10,6 +10,8 @@ import { getAIRecommendation, AIRecommendationResult } from '../../utils/geminiS
 import QuestionCard from '../../components/QuestionCard';
 import ProgressBar from '../../components/ProgressBar';
 import RecommendationCard from '../../components/RecommendationCard';
+import FavoritesModal from '../../components/FavoritesModal';
+import SettingsModal from '../../components/SettingsModal';
 
 type FlowState = 'start' | 'questions' | 'loading' | 'results' | 'error';
 
@@ -19,6 +21,8 @@ export default function DiscoverScreen() {
   const [loadingStep, setLoadingStep] = useState('');
   const [recommendation, setRecommendation] = useState<AIRecommendationResult | null>(null);
   const [error, setError] = useState<string>('');
+  const [showFavorites, setShowFavorites] = useState(false);
+  const [showSettings, setShowSettings] = useState(false);
   const [preferences, setPreferences] = useState<UserPreferences>({
     budget: null,
     hasTransport: null,
@@ -148,6 +152,15 @@ export default function DiscoverScreen() {
   if (flowState === 'start') {
     return (
       <SafeAreaView style={styles.container}>
+        <View style={styles.header}>
+          <TouchableOpacity style={styles.headerButton} onPress={() => setShowSettings(true)}>
+            <Settings size={24} color="#6B7280" />
+          </TouchableOpacity>
+          <TouchableOpacity style={styles.headerButton} onPress={() => setShowFavorites(true)}>
+            <Heart size={24} color="#6B7280" />
+          </TouchableOpacity>
+        </View>
+
         <View style={styles.startContent}>
           <Sparkles size={80} color="#000000" />
           <Text style={styles.welcomeTitle}>Discover Your Perfect Restaurant</Text>
@@ -160,6 +173,16 @@ export default function DiscoverScreen() {
             <Text style={styles.startButtonText}>Let's Start</Text>
           </TouchableOpacity>
         </View>
+
+        <FavoritesModal 
+          visible={showFavorites} 
+          onClose={() => setShowFavorites(false)} 
+        />
+        
+        <SettingsModal 
+          visible={showSettings} 
+          onClose={() => setShowSettings(false)} 
+        />
       </SafeAreaView>
     );
   }
@@ -170,8 +193,14 @@ export default function DiscoverScreen() {
     return (
       <SafeAreaView style={styles.container}>
         <View style={styles.header}>
+          <TouchableOpacity style={styles.headerButton} onPress={() => setShowSettings(true)}>
+            <Settings size={24} color="#6B7280" />
+          </TouchableOpacity>
           <TouchableOpacity style={styles.restartButton} onPress={handleRestart}>
             <RotateCcw size={24} color="#6B7280" />
+          </TouchableOpacity>
+          <TouchableOpacity style={styles.headerButton} onPress={() => setShowFavorites(true)}>
+            <Heart size={24} color="#6B7280" />
           </TouchableOpacity>
         </View>
 
@@ -187,6 +216,16 @@ export default function DiscoverScreen() {
           onNext={handleNext}
           canProceed={canProceed()}
         />
+
+        <FavoritesModal 
+          visible={showFavorites} 
+          onClose={() => setShowFavorites(false)} 
+        />
+        
+        <SettingsModal 
+          visible={showSettings} 
+          onClose={() => setShowSettings(false)} 
+        />
       </SafeAreaView>
     );
   }
@@ -194,11 +233,31 @@ export default function DiscoverScreen() {
   if (flowState === 'loading') {
     return (
       <SafeAreaView style={styles.container}>
+        <View style={styles.header}>
+          <TouchableOpacity style={styles.headerButton} onPress={() => setShowSettings(true)}>
+            <Settings size={24} color="#6B7280" />
+          </TouchableOpacity>
+          <View style={styles.headerSpacer} />
+          <TouchableOpacity style={styles.headerButton} onPress={() => setShowFavorites(true)}>
+            <Heart size={24} color="#6B7280" />
+          </TouchableOpacity>
+        </View>
+
         <View style={styles.loadingContainer}>
           <ActivityIndicator size="large" color="#000000" />
           <Text style={styles.loadingTitle}>Finding Your Perfect Restaurant</Text>
           <Text style={styles.loadingStep}>{loadingStep}</Text>
         </View>
+
+        <FavoritesModal 
+          visible={showFavorites} 
+          onClose={() => setShowFavorites(false)} 
+        />
+        
+        <SettingsModal 
+          visible={showSettings} 
+          onClose={() => setShowSettings(false)} 
+        />
       </SafeAreaView>
     );
   }
@@ -206,6 +265,16 @@ export default function DiscoverScreen() {
   if (flowState === 'error') {
     return (
       <SafeAreaView style={styles.container}>
+        <View style={styles.header}>
+          <TouchableOpacity style={styles.headerButton} onPress={() => setShowSettings(true)}>
+            <Settings size={24} color="#6B7280" />
+          </TouchableOpacity>
+          <View style={styles.headerSpacer} />
+          <TouchableOpacity style={styles.headerButton} onPress={() => setShowFavorites(true)}>
+            <Heart size={24} color="#6B7280" />
+          </TouchableOpacity>
+        </View>
+
         <View style={styles.errorContainer}>
           <Text style={styles.errorTitle}>Oops! Something went wrong</Text>
           <Text style={styles.errorMessage}>{error}</Text>
@@ -213,6 +282,16 @@ export default function DiscoverScreen() {
             <Text style={styles.tryAgainButtonText}>Try Again</Text>
           </TouchableOpacity>
         </View>
+
+        <FavoritesModal 
+          visible={showFavorites} 
+          onClose={() => setShowFavorites(false)} 
+        />
+        
+        <SettingsModal 
+          visible={showSettings} 
+          onClose={() => setShowSettings(false)} 
+        />
       </SafeAreaView>
     );
   }
@@ -220,6 +299,16 @@ export default function DiscoverScreen() {
   if (flowState === 'results' && recommendation) {
     return (
       <SafeAreaView style={styles.container}>
+        <View style={styles.header}>
+          <TouchableOpacity style={styles.headerButton} onPress={() => setShowSettings(true)}>
+            <Settings size={24} color="#6B7280" />
+          </TouchableOpacity>
+          <View style={styles.headerSpacer} />
+          <TouchableOpacity style={styles.headerButton} onPress={() => setShowFavorites(true)}>
+            <Heart size={24} color="#6B7280" />
+          </TouchableOpacity>
+        </View>
+
         <ScrollView style={styles.resultsContainer}>
           <View style={styles.resultsHeader}>
             <CheckCircle size={32} color="#10B981" />
@@ -259,6 +348,16 @@ export default function DiscoverScreen() {
             <Text style={styles.discoverAgainButtonText}>Discover Again</Text>
           </TouchableOpacity>
         </ScrollView>
+
+        <FavoritesModal 
+          visible={showFavorites} 
+          onClose={() => setShowFavorites(false)} 
+        />
+        
+        <SettingsModal 
+          visible={showSettings} 
+          onClose={() => setShowSettings(false)} 
+        />
       </SafeAreaView>
     );
   }
@@ -273,11 +372,17 @@ const styles = StyleSheet.create({
   },
   header: {
     flexDirection: 'row',
-    justifyContent: 'flex-start',
+    justifyContent: 'space-between',
     alignItems: 'center',
     paddingHorizontal: 24,
     paddingTop: 16,
     paddingBottom: 8
+  },
+  headerButton: {
+    padding: 8
+  },
+  headerSpacer: {
+    flex: 1
   },
   restartButton: {
     padding: 8
