@@ -156,6 +156,7 @@ export default function DiscoverScreen() {
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowSettings(true)}>
             <Settings size={24} color="#6B7280" />
           </TouchableOpacity>
+          <View style={styles.headerSpacer} />
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowFavorites(true)}>
             <Heart size={24} color="#6B7280" />
           </TouchableOpacity>
