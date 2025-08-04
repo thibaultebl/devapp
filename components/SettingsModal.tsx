@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, Modal, SafeAreaView, ScrollView } from 'react-native';
 import { X, User, History, CircleHelp as HelpCircle, ChevronRight } from 'lucide-react-native';
-import HistoryModal from './HistoryModal';
+import HistoryModal from '@/components/HistoryModal';
 
 interface SettingsModalProps {
   visible: boolean;

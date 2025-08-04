@@ -1,17 +1,17 @@
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView, ScrollView, ActivityIndicator, Modal } from 'react-native';
 import { Sparkles, Star, Clock, RotateCcw, CircleCheck as CheckCircle, Heart, Settings, User, History, CircleHelp as HelpCircle, X } from 'lucide-react-native';
-import { UserPreferences, FilterKey } from '../../types/restaurant';
-import { questions } from '../../utils/mockData';
-import { saveCriteria, getCriteria } from '../../utils/criteriaStorage';
-import { getCurrentLocation } from '../../utils/locationService';
-import { getAllRestaurantData } from '../../utils/googlePlacesService';
-import { getAIRecommendation, AIRecommendationResult } from '../../utils/geminiService';
-import QuestionCard from '../../components/QuestionCard';
-import ProgressBar from '../../components/ProgressBar';
-import RecommendationCard from '../../components/RecommendationCard';
-import FavoritesModal from '../../components/FavoritesModal';
-import SettingsModal from '../../components/SettingsModal';
+import { UserPreferences, FilterKey } from '@/types/restaurant';
+import { questions } from '@/utils/mockData';
+import { saveCriteria, getCriteria } from '@/utils/criteriaStorage';
+import { getCurrentLocation } from '@/utils/locationService';
+import { getAllRestaurantData } from '@/utils/googlePlacesService';
+import { getAIRecommendation, AIRecommendationResult } from '@/utils/geminiService';
+import QuestionCard from '@/components/QuestionCard';
+import ProgressBar from '@/components/ProgressBar';
+import RecommendationCard from '@/components/RecommendationCard';
+import FavoritesModal from '@/components/FavoritesModal';
+import SettingsModal from '@/components/SettingsModal';
 
 type FlowState = 'start' | 'questions' | 'loading' | 'results' | 'error';
 
