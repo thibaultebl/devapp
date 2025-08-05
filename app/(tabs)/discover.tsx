@@ -96,7 +96,7 @@ export default function DiscoverScreen() {
     if (currentQuestionIndex < questions.length - 1) {
       setCurrentQuestionIndex(prev => prev + 1);
     } else {
-      // Finished questions, save preferences and find restaurants
+      // Finished questions - now find and recommend restaurants using AI
       await saveCriteria(preferences);
       await findRestaurants();
     }
@@ -128,9 +128,11 @@ export default function DiscoverScreen() {
         throw new Error('Unable to generate recommendations. Please try again.');
       }
 
+      console.log('AI Recommendation Result:', aiResult);
       setRecommendation(aiResult);
       setFlowState('results');
     } catch (err) {
+      console.error('Error in findRestaurants:', err);
       const errorMessage = err instanceof Error ? err.message : 'An unexpected error occurred';
       setError(errorMessage);
       setFlowState('error');
