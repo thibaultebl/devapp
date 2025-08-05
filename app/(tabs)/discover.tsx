@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView, ScrollView, ActivityIndicator, Modal } from 'react-native';
-import { Sparkles, Star, Clock, RotateCcw, CircleCheck as CheckCircle, Heart, Settings, User, History, CircleHelp as HelpCircle, X } from 'lucide-react-native';
+import { Sparkles, Star, Clock, RotateCcw, CircleCheck as CheckCircle, Heart, Settings } from 'lucide-react-native';
 import { UserPreferences, FilterKey } from '@/types/restaurant';
 import { questions } from '@/utils/mockData';
 import { saveCriteria, getCriteria } from '@/utils/criteriaStorage';
@@ -156,7 +156,7 @@ export default function DiscoverScreen() {
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowSettings(true)}>
             <Settings size={24} color="#6B7280" />
           </TouchableOpacity>
-          <View style={styles.headerSpacer} />
+          <Text style={styles.headerTitle}>Discover</Text>
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowFavorites(true)}>
             <Heart size={24} color="#6B7280" />
           </TouchableOpacity>
@@ -197,7 +197,7 @@ export default function DiscoverScreen() {
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowSettings(true)}>
             <Settings size={24} color="#6B7280" />
           </TouchableOpacity>
-          <TouchableOpacity style={styles.restartButton} onPress={handleRestart}>
+          <TouchableOpacity style={styles.headerButton} onPress={handleRestart}>
             <RotateCcw size={24} color="#6B7280" />
           </TouchableOpacity>
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowFavorites(true)}>
@@ -238,7 +238,7 @@ export default function DiscoverScreen() {
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowSettings(true)}>
             <Settings size={24} color="#6B7280" />
           </TouchableOpacity>
-          <View style={styles.headerSpacer} />
+          <Text style={styles.headerTitle}>Discovering...</Text>
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowFavorites(true)}>
             <Heart size={24} color="#6B7280" />
           </TouchableOpacity>
@@ -270,7 +270,7 @@ export default function DiscoverScreen() {
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowSettings(true)}>
             <Settings size={24} color="#6B7280" />
           </TouchableOpacity>
-          <View style={styles.headerSpacer} />
+          <Text style={styles.headerTitle}>Error</Text>
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowFavorites(true)}>
             <Heart size={24} color="#6B7280" />
           </TouchableOpacity>
@@ -304,7 +304,7 @@ export default function DiscoverScreen() {
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowSettings(true)}>
             <Settings size={24} color="#6B7280" />
           </TouchableOpacity>
-          <View style={styles.headerSpacer} />
+          <Text style={styles.headerTitle}>Results</Text>
           <TouchableOpacity style={styles.headerButton} onPress={() => setShowFavorites(true)}>
             <Heart size={24} color="#6B7280" />
           </TouchableOpacity>
@@ -382,11 +382,10 @@ const styles = StyleSheet.create({
   headerButton: {
     padding: 8
   },
-  headerSpacer: {
-    flex: 1
-  },
-  restartButton: {
-    padding: 8
+  headerTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    color: '#1F2937'
   },
   startContent: {
     flex: 1,
